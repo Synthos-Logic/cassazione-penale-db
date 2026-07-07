@@ -263,6 +263,12 @@ def parse_qsp(html, cid, url):
          r"Ordinanza di rimessione:", r"\bAllegat[oi]\b"])
     d["quesito"], d["riferimenti_normativi"] = None, None
     if blocco:
+        # rimuove eventuali residui dell'intestazione (varianti di a-capo del CMS della Corte)
+        residuo = re.compile(r"^(del ricorso\b.*|R\.?G\.?\s*n?\.?\s*\d+/\d+.*|ud\.\s*\S+.*|n\.\s*\d+/\d+.*)$", re.I)
+        righe = [r for r in blocco.split("\n")]
+        while righe and (not righe[0].strip() or residuo.match(righe[0].strip())):
+            righe.pop(0)
+        blocco = "\n".join(righe)
         parti = re.split(r"Riferimenti normativi:\s*", blocco, maxsplit=1)
         d["quesito"] = pulisci(parti[0])
         if len(parti) > 1:
@@ -284,6 +290,11 @@ def parse_qsp(html, cid, url):
 def titolo_szp(d):
     sez = SEZ_ROMANO.get(d["sezione"], d["sezione"])
     return f"Cass. pen., Sez. {sez}, n. {d['numero']}/{d['anno']}"
+
+
+def blockquote(testo):
+    """Prefissa ogni riga con '> ' (blockquote Markdown multi-riga)."""
+    return "\n> ".join((testo or "").split("\n"))
 
 
 def scheda_szp(d):
@@ -312,7 +323,7 @@ estratto_il: {OGGI}
 
 ## Massima ufficiale (Oggetto)
 
-> {d['oggetto']}
+> {blockquote(d['oggetto'])}
 
 ## L'esito in sintesi
 
@@ -352,7 +363,7 @@ estratto_il: {OGGI}
 
 ## Quesito
 
-> {d['quesito']}
+> {blockquote(d['quesito'])}
 
 ## Riferimenti normativi
 
