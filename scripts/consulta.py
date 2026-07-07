@@ -74,9 +74,19 @@ def testo_el(el, tag):
 
 
 def itera_pronunce(zf, root_tag_hint, da_anno):
-    """Itera gli elementi <pronuncia> di tutti gli XML nello zip, filtrando per anno."""
-    for nome in zf.namelist():
-        if not nome.lower().endswith(".xml"):
+    """Itera gli elementi <pronuncia> di tutti i file nello zip, filtrando per anno."""
+    nomi = zf.namelist()
+    print(f"[consulta][debug] contenuto zip: {nomi[:6]}{' …' if len(nomi) > 6 else ''}")
+    for nome in nomi:
+        if nome.endswith("/"):
+            continue
+        # accetta qualsiasi file che inizi come XML (estensioni non garantite)
+        try:
+            testa = zf.open(nome).read(200)
+        except Exception:
+            continue
+        if b"<?xml" not in testa and b"<pronuncia" not in testa and b"<elenco" not in testa and b"<corte" not in testa:
+            print(f"[consulta][debug] saltato {nome}: non sembra XML (inizio: {testa[:60]!r})")
             continue
         try:
             with zf.open(nome) as fh:
