@@ -74,30 +74,39 @@ def testo_el(el, tag):
 
 
 def itera_pronunce(zf, root_tag_hint, da_anno):
-    """Itera gli elementi <pronuncia> di tutti i file nello zip, filtrando per anno."""
-    nomi = zf.namelist()
-    print(f"[consulta][debug] contenuto zip: {nomi[:6]}{' …' if len(nomi) > 6 else ''}")
-    for nome in nomi:
+    """Itera gli elementi <pronuncia>. Gli open data della Consulta sono zip ANNIDATI:
+    lo zip esterno contiene uno zip per anno (Cc_OpenData_*_YYYY.zip) con dentro l'XML.
+    Il filtro per anno avviene già sul nome del file interno (grande risparmio)."""
+    for nome in zf.namelist():
         if nome.endswith("/"):
             continue
-        # accetta qualsiasi file che inizi come XML (estensioni non garantite)
-        try:
-            testa = zf.open(nome).read(200)
-        except Exception:
-            continue
-        if b"<?xml" not in testa and b"<pronuncia" not in testa and b"<elenco" not in testa and b"<corte" not in testa:
-            print(f"[consulta][debug] saltato {nome}: non sembra XML (inizio: {testa[:60]!r})")
+        m = re.search(r"(\d{4})", os.path.basename(nome))
+        if m and int(m.group(1)) < da_anno:
             continue
         try:
-            with zf.open(nome) as fh:
-                for _, el in ET.iterparse(fh):
+            dati = zf.open(nome).read()
+        except Exception as e:
+            log_err(f"lettura {nome} fallita: {e}")
+            continue
+        if dati[:2] == b"PK":  # zip annidato
+            try:
+                interno = zipfile.ZipFile(io.BytesIO(dati))
+                sorgenti = [(n, interno.read(n)) for n in interno.namelist() if not n.endswith("/")]
+            except Exception as e:
+                log_err(f"zip annidato {nome} illeggibile: {e}")
+                continue
+        else:
+            sorgenti = [(nome, dati)]
+        for n2, contenuto in sorgenti:
+            try:
+                for _, el in ET.iterparse(io.BytesIO(contenuto)):
                     if el.tag == "pronuncia":
                         anno = testo_el(el, "pronuncia_testata/anno_pronuncia")
                         if anno and int(anno) >= da_anno:
                             yield el
                         el.clear()
-        except ET.ParseError as e:
-            log_err(f"XML malformato in {nome}: {e}")
+            except ET.ParseError as e:
+                log_err(f"XML malformato in {n2}: {e}")
 
 
 def parametro_str(p):
