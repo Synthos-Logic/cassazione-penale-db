@@ -131,9 +131,9 @@ def parametro_str(p):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--da-anno", type=int, default=2024)
+    ap.add_argument("--da-anno", type=int, default=1956)  # archivio completo della Consulta
     ap.add_argument("--force", action="store_true")
-    ap.add_argument("--max-schede", type=int, default=900)
+    ap.add_argument("--max-schede", type=int, default=25000)
     args = ap.parse_args()
 
     print(f"== consulta open data · {OGGI} · dry_run={args.dry_run} da_anno={args.da_anno} ==")
