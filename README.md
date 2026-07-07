@@ -70,7 +70,7 @@ Il repo resta comunque utilizzabile da chiunque, anche senza il kit.
 ## Roadmap
 
 - [x] Specifica del formato scheda + prime schede validate
-- [ ] Pipeline di estrazione (`scripts/`)
-- [ ] GitHub Action settimanale + verifica mensile Rassegne
+- [x] Pipeline di estrazione (`scripts/aggiorna_banca_dati.py`)
+- [x] GitHub Action settimanale (`.github/workflows/aggiorna.yml`) — verifica mensile Rassegne: prossima
 - [ ] Backfill dello storico disponibile sulla pagina della Corte
 - [ ] Repo gemello per il civile (stessa specifica)

@@ -1,0 +1,67 @@
+# Pipeline di aggiornamento settimanale — cassazione-penale-db
+# Cron: lunedì 06:00 UTC (= 08:00 CEST estate / 07:00 CET inverno).
+# Trigger manuale: workflow_dispatch con dry_run (default true) e force.
+name: Aggiorna banca dati
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Solo log, nessun commit"
+        type: boolean
+        default: true
+      force:
+        description: "Rigenera anche le schede già presenti"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dipendenze
+        run: pip install --quiet requests beautifulsoup4
+
+      - name: Esegui pipeline
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          echo "Argomenti: $ARGS"
+          python scripts/aggiorna_banca_dati.py $ARGS
+
+      - name: Commit e push
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "synthos-bot"
+          git config user.email "synthos-logic@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica da committare."
+          else
+            git commit -m "data: aggiornamento pronunce segnalate ($(date -u +%F))"
+            git push
+          fi
+
+      - name: Apri issue in caso di errore
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --repo "${{ github.repository }}" \
+            --title "Pipeline fallita — $(date -u +%F)" \
+            --body "La run ${{ github.run_id }} è fallita. Log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }} — Regola: in caso di anomalia la pipeline non inventa contenuti; verificare LOG_ERRORI.md e la struttura della pagina della Corte." \
+            || echo "issue non creata (forse già esistente)"
