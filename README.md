@@ -32,6 +32,17 @@ SEGNALATE/
 
 Il formato delle schede è definito in [`SPEC_SCHEDA.md`](SPEC_SCHEDA.md).
 
+## Corte costituzionale (open data ufficiale)
+
+In `CONSULTA/` le pronunce della Corte costituzionale dal 2024, costruite dal
+**servizio open data ufficiale** della Consulta ([dati.cortecostituzionale.it](https://dati.cortecostituzionale.it/),
+licenza CC BY-SA 3.0, aggiornamento settimanale): per ogni pronuncia, **dispositivo
+integrale**, **massime ufficiali** con i parametri normativi strutturati e link alla
+scheda ufficiale. Le schede NON contengono epigrafe né testo integrale (riportano i
+dati delle parti dei giudizi a quo): per il testo completo si segue il link.
+Quando le massime di una pronuncia recente vengono pubblicate, la scheda si
+aggiorna da sola alla run successiva.
+
 ## Radar del merito (segnalazioni, non citazioni)
 
 In `SEGNALATE/RADAR/RADAR_MERITO.md` la pipeline raccoglie ogni settimana le **segnalazioni
@@ -85,4 +96,5 @@ Il repo resta comunque utilizzabile da chiunque, anche senza il kit.
 - [x] GitHub Action settimanale (`.github/workflows/aggiorna.yml`) — verifica mensile Rassegne: prossima
 - [x] Radar del merito dalle riviste open access (`SEGNALATE/RADAR/`)
 - [x] Backfill dello storico completo (295 schede: sentenze dal 2024, questioni SU dal 2023)
+- [x] Fonte Corte costituzionale via open data ufficiale (`CONSULTA/`, 552 pronunce dal 2024)
 - [ ] Repo gemello per il civile (stessa specifica)
