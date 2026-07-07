@@ -32,6 +32,17 @@ SEGNALATE/
 
 Il formato delle schede è definito in [`SPEC_SCHEDA.md`](SPEC_SCHEDA.md).
 
+## Radar del merito (segnalazioni, non citazioni)
+
+In `SEGNALATE/RADAR/RADAR_MERITO.md` la pipeline raccoglie ogni settimana le **segnalazioni
+di giurisprudenza di merito** pubblicate da riviste scientifiche open access (v1: l'Osservatorio
+della giurisprudenza di merito di *Sistema Penale* e il feed di *Giurisprudenza Penale*).
+
+Regole: si raccolgono **solo i fatti** — data, fonte, titolo, link — mai i contenuti redazionali,
+che restano degli editori (Sistema Penale è CC BY-NC-ND). Il radar è **materiale informativo,
+non citabile negli atti**: per usare un provvedimento segnalato, si apre il link, si scarica il
+PDF del provvedimento (atto pubblico) e lo si ingerisce nella propria KB. Dedup per URL.
+
 ## Aggiornamento
 
 Automatico, **settimanale**, via GitHub Action (in attivazione — vedi roadmap).
@@ -72,5 +83,6 @@ Il repo resta comunque utilizzabile da chiunque, anche senza il kit.
 - [x] Specifica del formato scheda + prime schede validate
 - [x] Pipeline di estrazione (`scripts/aggiorna_banca_dati.py`)
 - [x] GitHub Action settimanale (`.github/workflows/aggiorna.yml`) — verifica mensile Rassegne: prossima
+- [x] Radar del merito dalle riviste open access (`SEGNALATE/RADAR/`)
 - [ ] Backfill dello storico disponibile sulla pagina della Corte
 - [ ] Repo gemello per il civile (stessa specifica)
