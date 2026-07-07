@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-07-07 · Schede: 14 (11 sentenze/ordinanze, 3 questioni SU)
+> Ultimo aggiornamento: 2026-07-07 · Schede: 15 (11 sentenze/ordinanze, 3 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -70,3 +70,4 @@
 | n. 21077/2026 | sentenza | Sezioni Unite | Misure di prevenzione | dep. 2026-06-08 | `2026/SU_21077_2026.md` |
 | n. 20105/2026 | sentenza | Sesta | Estradizione per l'estero | dep. 2026-06-01 | `2026/Cass_20105_2026.md` |
 | R.G. 7746/2025 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-12-11 | `2025/QSP_7746_2025.md` |
+| n. None/None | ? | Sezioni Unite | — | dep. ? | `RADAR/RADAR_MERITO.md` |

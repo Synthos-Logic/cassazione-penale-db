@@ -2,7 +2,7 @@
   "schema": "cassazione-penale-db/1",
   "generato_il": "2026-07-07",
   "tipo_fonte": "massimario-segnalate",
-  "totale_schede": 14,
+  "totale_schede": 15,
   "collezioni": {
     "2026": {
       "schede": 13,
@@ -26,6 +26,12 @@
       "schede": 1,
       "files": [
         "2025/QSP_7746_2025.md"
+      ]
+    },
+    "RADAR": {
+      "schede": 1,
+      "files": [
+        "RADAR/RADAR_MERITO.md"
       ]
     }
   }
