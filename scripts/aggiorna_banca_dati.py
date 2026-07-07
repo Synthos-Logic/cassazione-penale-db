@@ -465,6 +465,9 @@ def main():
     ap.add_argument("--dry-run", action="store_true", help="solo log, nessuna scrittura")
     ap.add_argument("--force", action="store_true", help="rigenera anche le schede già presenti")
     ap.add_argument("--max-schede", type=int, default=40, help="tetto prudenziale per run")
+    ap.add_argument("--backfill", action="store_true",
+                    help="scarica tutte le pagine dell'archivio (paginazione ?frame3_item=N)")
+    ap.add_argument("--max-pagine", type=int, default=40, help="tetto pagine in backfill")
     args = ap.parse_args()
 
     print(f"== cassazione-penale-db · pipeline {OGGI} · dry_run={args.dry_run} force={args.force} ==")
@@ -472,14 +475,26 @@ def main():
     per_id, chiavi = registro_esistenti()
     print(f"Schede in archivio: {len(per_id)}")
 
-    try:
-        html_lista = fetch(URL_LISTA)
-    except Exception as e:
-        log_errore(f"pagina lista non raggiungibile: {e}")
-        scrivi_log() if not args.dry_run else None
-        sys.exit(1)
-
-    voci = parse_lista(html_lista)
+    pagine = range(1, args.max_pagine + 1) if args.backfill else [1]
+    voci, id_visti_lista = [], set()
+    for n in pagine:
+        url = URL_LISTA if n == 1 else f"{URL_LISTA}?frame3_item={n}"
+        try:
+            html_lista = fetch(url)
+        except Exception as e:
+            log_errore(f"pagina lista {n} non raggiungibile: {e}")
+            if n == 1:
+                scrivi_log() if not args.dry_run else None
+                sys.exit(1)
+            break  # errore su pagina successiva: si procede con quanto raccolto
+        v = [x for x in parse_lista(html_lista) if x["content_id"] not in id_visti_lista]
+        if not v:
+            print(f"pagina {n}: nessuna voce nuova — fine archivio")
+            break
+        id_visti_lista |= {x["content_id"] for x in v}
+        voci += v
+        if args.backfill:
+            print(f"pagina {n}: +{len(v)} voci (totale {len(voci)})")
     if not voci:
         log_errore("nessun contentId SZP/QSP trovato nella pagina lista: struttura cambiata?")
         scrivi_log() if not args.dry_run else None

@@ -16,6 +16,10 @@ on:
         description: "Rigenera anche le schede già presenti"
         type: boolean
         default: false
+      backfill:
+        description: "Backfill: scarica tutto l'archivio storico della Corte"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -39,6 +43,7 @@ jobs:
           ARGS=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
           if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ "${{ inputs.backfill }}" = "true" ]; then ARGS="$ARGS --backfill --max-schede 600"; fi
           echo "Argomenti: $ARGS"
           python scripts/aggiorna_banca_dati.py $ARGS
 
