@@ -34,7 +34,7 @@ Il formato delle schede è definito in [`SPEC_SCHEDA.md`](SPEC_SCHEDA.md).
 
 ## Corte costituzionale (open data ufficiale)
 
-In `CONSULTA/` le pronunce della Corte costituzionale dal 2024, costruite dal
+In `CONSULTA/` **tutte** le pronunce della Corte costituzionale dal 1956 a oggi (oltre 22.000), costruite dal
 **servizio open data ufficiale** della Consulta ([dati.cortecostituzionale.it](https://dati.cortecostituzionale.it/),
 licenza CC BY-SA 3.0, aggiornamento settimanale): per ogni pronuncia, **dispositivo
 integrale**, **massime ufficiali** con i parametri normativi strutturati e link alla
@@ -96,5 +96,5 @@ Il repo resta comunque utilizzabile da chiunque, anche senza il kit.
 - [x] GitHub Action settimanale (`.github/workflows/aggiorna.yml`) — verifica mensile Rassegne: prossima
 - [x] Radar del merito dalle riviste open access (`SEGNALATE/RADAR/`)
 - [x] Backfill dello storico completo (295 schede: sentenze dal 2024, questioni SU dal 2023)
-- [x] Fonte Corte costituzionale via open data ufficiale (`CONSULTA/`, 552 pronunce dal 2024)
+- [x] Fonte Corte costituzionale via open data ufficiale (`CONSULTA/`, archivio completo 1956-oggi: 22.357 pronunce con dispositivi e massime)
 - [ ] Repo gemello per il civile (stessa specifica)
