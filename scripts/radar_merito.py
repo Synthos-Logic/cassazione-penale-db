@@ -41,14 +41,25 @@ RE_MERITO = re.compile(
 ERRORI = []
 
 def log_err(msg):
-    ERRORI.append(f"- {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')} — [radar] {msg}")
+    ERRORI.append(f"- {datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')} — [radar] {msg}")
     print(f"[radar][ERRORE] {msg}", file=sys.stderr)
 
-def fetch(url):
-    r = requests.get(url, headers={"User-Agent": UA}, timeout=60)
-    r.raise_for_status()
-    time.sleep(2)
-    return r
+HDRS = {"User-Agent": UA,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "it-IT,it;q=0.9"}
+
+def fetch(url, tentativi=3):
+    ultimo = None
+    for i in range(tentativi):
+        try:
+            r = requests.get(url, headers=HDRS, timeout=60)
+            r.raise_for_status()
+            time.sleep(2)
+            return r
+        except Exception as e:
+            ultimo = e
+            time.sleep(8 * (i + 1))  # backoff gentile
+    raise ultimo
 
 def data_it(t):
     m = re.search(r"(\d{1,2})\s+([A-Za-zà]+)\s+(\d{4})", t or "")
