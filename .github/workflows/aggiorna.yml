@@ -42,6 +42,12 @@ jobs:
           echo "Argomenti: $ARGS"
           python scripts/aggiorna_banca_dati.py $ARGS
 
+      - name: Radar merito (non bloccante)
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run"; fi
+          python scripts/radar_merito.py $ARGS || echo "::warning::radar merito fallito (non bloccante)"
+
       - name: Commit e push
         if: ${{ inputs.dry_run != true }}
         run: |
