@@ -1,6 +1,13 @@
 # cassazione-penale-db
 
-**Banca dati aperta delle pronunce penali segnalate dall'Ufficio del Massimario della Corte Suprema di Cassazione.**
+**Banca dati aperta di giurisprudenza penale con fonti verificabili**: le pronunce penali
+segnalate dall'Ufficio del Massimario della Corte Suprema di Cassazione, l'**archivio completo
+della Corte costituzionale dal 1956** (open data ufficiale) e il radar del merito dalle riviste
+open access.
+
+> *Nota sul nome*: il repository è nato per le sole segnalate della Cassazione e ne conserva
+> il nome; il perimetro si è esteso (Corte costituzionale, merito). Un'eventuale ridenominazione
+> è rinviata a valle dei test in corso per non rompere le integrazioni esistenti.
 
 Una scheda Markdown per pronuncia: massima ufficiale (campo "Oggetto"), "L'esito in sintesi",
 estremi completi e link diretto alla scheda ufficiale e al PDF autentico sul sito della Corte.

@@ -114,3 +114,15 @@ Accanto all'attuale "2. Registro citazionale (Rv → fonte : pagina → massima)
 ## Esempi validati (schede reali estratte il 06/07/2026)
 - `SEGNALATE/2026/Cass_23006_2026.md` — sentenza, Sez. III, materia Impugnazioni
 - `SEGNALATE/2026/QSP_9916_2026.md` — questione SU pendente, ud. 29/10/2026
+
+## Addendum — Schede CONSULTA (Corte costituzionale)
+
+Fonte: **open data ufficiale** (dati.cortecostituzionale.it, CC BY-SA 3.0), non scraping.
+Struttura: `CONSULTA/<anno>/{S|O}_<numero>_<anno>.md` — frontmatter con estremi, tipologia di
+giudizio, `n_massime` (chiave dell'auto-aggiornamento: la scheda viene rigenerata quando la
+Corte pubblica nuove massime) e `url_scheda`; corpo con **dispositivo integrale**, **massime
+ufficiali** con parametri normativi strutturati e fonte autentica. **Esclusi epigrafe e testo
+integrale** (contengono i dati delle parti dei giudizi a quo): per il testo completo si segue
+il link ufficiale. Nessun filtro di materia: tutte le pronunce, grep-abili per norma
+(es. `cod. pen.`, `131-bis`). Copertura: 1956 → oggi, retrieve iniziale una tantum +
+incrementi settimanali.
