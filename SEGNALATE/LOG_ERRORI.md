@@ -7,3 +7,5 @@
 - 2026-07-07 10:56 UTC — SZP46536: scheda in quarantena — campi mancanti: url_pdf
 - 2026-07-07 10:58 UTC — SZP42916: scheda in quarantena — campi mancanti: url_pdf
 - 2026-07-07 10:58 UTC — SZP42192: scheda in quarantena — campi mancanti: url_pdf
+
+- 2026-07-07 22:38 UTC — [radar] Sistema Penale: nessuna voce estratta: struttura pagina cambiata?
