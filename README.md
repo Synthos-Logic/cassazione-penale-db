@@ -84,5 +84,5 @@ Il repo resta comunque utilizzabile da chiunque, anche senza il kit.
 - [x] Pipeline di estrazione (`scripts/aggiorna_banca_dati.py`)
 - [x] GitHub Action settimanale (`.github/workflows/aggiorna.yml`) — verifica mensile Rassegne: prossima
 - [x] Radar del merito dalle riviste open access (`SEGNALATE/RADAR/`)
-- [ ] Backfill dello storico disponibile sulla pagina della Corte
+- [x] Backfill dello storico completo (295 schede: sentenze dal 2024, questioni SU dal 2023)
 - [ ] Repo gemello per il civile (stessa specifica)
