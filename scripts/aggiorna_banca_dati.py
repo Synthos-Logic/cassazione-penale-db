@@ -122,7 +122,7 @@ def registro_esistenti():
     """Mappa content_id -> (path, frontmatter) e chiavi (tipo,numero,anno) delle schede presenti."""
     per_id, chiavi = {}, set()
     for dirpath, dirnames, filenames in os.walk(SEG):
-        dirnames[:] = [d for d in dirnames if d != "_QUARANTENA"]
+        dirnames[:] = [d for d in dirnames if d not in ("_QUARANTENA", "RADAR")]
         for f in filenames:
             if not f.endswith(".md") or f in ("INDICE.md", "RASSEGNE.md", "LOG_ERRORI.md"):
                 continue
@@ -386,7 +386,7 @@ estratto_il: {OGGI}
 def rigenera_indici(dry):
     schede = []
     for dirpath, dirnames, filenames in os.walk(SEG):
-        dirnames[:] = [d for d in dirnames if d != "_QUARANTENA"]
+        dirnames[:] = [d for d in dirnames if d not in ("_QUARANTENA", "RADAR")]
         for f in sorted(filenames):
             if f.endswith(".md") and f not in ("INDICE.md", "RASSEGNE.md", "LOG_ERRORI.md"):
                 p = os.path.join(dirpath, f)
