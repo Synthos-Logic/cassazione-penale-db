@@ -35,8 +35,17 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONS = os.path.join(ROOT, "CONSULTA")
 LOG = os.path.join(ROOT, "SEGNALATE", "LOG_ERRORI.md")
 
-URL_PRONUNCE = "https://dati.cortecostituzionale.it/opendata/distribuzione/CC_OpenPronunce_2001_oggi.zip"
-URL_MASSIME = "https://dati.cortecostituzionale.it/opendata/distribuzione/CC_OpenMassime_2001_oggi.zip"
+# Gli open data della Consulta sono divisi in tre archivi storici (pronunce e massime)
+URLS_PRONUNCE = [
+    "https://dati.cortecostituzionale.it/opendata/distribuzione/CC_OpenPronunce_2001_oggi.zip",
+    "https://dati.cortecostituzionale.it/opendata/distribuzione/CC_OpenPronunce_1981_2000.zip",
+    "https://dati.cortecostituzionale.it/opendata/distribuzione/CC_OpenPronunce_1956_1980.zip",
+]
+URLS_MASSIME = [
+    "https://dati.cortecostituzionale.it/opendata/distribuzione/CC_OpenMassime_2001_oggi.zip",
+    "https://dati.cortecostituzionale.it/opendata/distribuzione/CC_OpenMassime_1981_2000.zip",
+    "https://dati.cortecostituzionale.it/opendata/distribuzione/CC_OpenMassime_1956_1980.zip",
+]
 UA = ("cassazione-penale-db/1.0 consulta "
       "(+https://github.com/Synthos-Logic/cassazione-penale-db; open data CC BY-SA 3.0)")
 
@@ -139,23 +148,38 @@ def main():
     print(f"== consulta open data · {OGGI} · dry_run={args.dry_run} da_anno={args.da_anno} ==")
 
     # ------------------------------------------------ download open data
-    try:
-        zp = scarica_zip(URL_PRONUNCE)
-        print(f"[consulta] pronunce: zip scaricato ({len(zp.namelist())} file)")
-    except Exception as e:
-        log_err(f"download pronunce fallito: {e}")
+    # gli archivi storici (1956-2000) servono solo se la finestra li tocca
+    def rilevanti(urls):
+        out = []
+        for u in urls:
+            m = re.search(r"_(\d{4})_(oggi|\d{4})", u)
+            fine = 9999 if m.group(2) == "oggi" else int(m.group(2))
+            if fine >= args.da_anno:
+                out.append(u)
+        return out
+
+    zps, zms = [], []
+    for u in rilevanti(URLS_PRONUNCE):
+        try:
+            z = scarica_zip(u)
+            zps.append(z)
+            print(f"[consulta] pronunce: {u.rsplit('/', 1)[-1]} scaricato ({len(z.namelist())} file)")
+        except Exception as e:
+            log_err(f"download {u} fallito: {e}")
+    if not zps:
         _flush_log(args.dry_run)
         sys.exit(1)
-    try:
-        zm = scarica_zip(URL_MASSIME)
-        print(f"[consulta] massime: zip scaricato ({len(zm.namelist())} file)")
-    except Exception as e:
-        log_err(f"download massime fallito: {e} — si procede senza massime")
-        zm = None
+    for u in rilevanti(URLS_MASSIME):
+        try:
+            z = scarica_zip(u)
+            zms.append(z)
+            print(f"[consulta] massime: {u.rsplit('/', 1)[-1]} scaricato ({len(z.namelist())} file)")
+        except Exception as e:
+            log_err(f"download {u} fallito: {e} — si procede senza queste massime")
 
     # ------------------------------------------------ indice massime per pronuncia
     massime = {}  # (anno, numero, tipo) -> [ {titolo, testo, parametri[]} ]
-    if zm is not None:
+    for zm in zms:
         for el in itera_pronunce(zm, "corte_costituzionale_archiviomassime", args.da_anno):
             chiave = (testo_el(el, "pronuncia_testata/anno_pronuncia"),
                       testo_el(el, "pronuncia_testata/numero_pronuncia"),
@@ -184,7 +208,7 @@ def main():
 
     # ------------------------------------------------ generazione schede
     nuove, aggiornate, saltate = 0, 0, 0
-    for el in itera_pronunce(zp, "elenco_pronunce", args.da_anno):
+    for el in (p for zp in zps for p in itera_pronunce(zp, "elenco_pronunce", args.da_anno)):
         if nuove + aggiornate >= args.max_schede:
             print("[consulta] raggiunto il tetto --max-schede")
             break
