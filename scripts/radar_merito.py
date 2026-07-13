@@ -9,9 +9,13 @@ e' CC BY-NC-ND). Output: SEGNALATE/RADAR/RADAR_MERITO.md — materiale informati
 MAI citabile come fonte negli atti: per citare un provvedimento del radar si
 scarica il PDF dalla fonte e lo si ingerisce in KB (recupero assistito).
 
-Fonti v1:
+Fonti v2:
   1. Sistema Penale — Osservatorio della giurisprudenza di merito (HTML, pagina 1)
   2. Giurisprudenza Penale — feed RSS, filtrato sui provvedimenti di merito
+  3. Diritto di Difesa (UCPI) — feed RSS, tutte le voci
+  4. La Legislazione Penale — feed RSS, tutte le voci
+  5. DisCrimen — feed RSS, tutte le voci
+  6. Penale Diritto e Procedura — feed RSS, tutte le voci
 
 Regole: dedup per URL (visti.json); fonte irraggiungibile o struttura cambiata ->
 log e prosegue con le altre; mai inventare. Uso: radar_merito.py [--dry-run]
@@ -69,35 +73,42 @@ def data_it(t):
 
 # ---------------------------------------------------------------- fonte 1: Sistema Penale
 def voci_sistemapenale():
+    """La struttura della pagina cambia nel tempo (7/2026: i titoli non sono
+    piu heading h2/h3 con <a> interno). Strategia robusta: si scandiscono TUTTI i
+    link della pagina che puntano a contenuti (/it/scheda|notizie|opinioni|...),
+    tenendo solo quelli con un titolo vero (>= 15 caratteri: esclude icone e menu)."""
     url = "https://www.sistemapenale.it/it/osservatorio-giurisprudenza-di-merito"
     html = fetch(url).text
     soup = BeautifulSoup(html, "html.parser")
-    testo = soup.get_text("\n")
-    voci = []
-    for h in soup.find_all(["h3", "h2"]):
-        a = h.find("a", href=True)
-        if not a:
-            continue
+    voci, gia = [], set()
+    for a in soup.find_all("a", href=True):
         href = a["href"]
         if not re.search(r"/it/(scheda|notizie|opinioni|articolo|documenti)/", href):
             continue
         titolo = a.get_text(" ", strip=True)
         if not titolo or len(titolo) < 15:
             continue
-        # data: cerca all'indietro nel testo precedente l'heading
-        prev = h.find_previous(string=re.compile(r"\d{1,2}\s+\w+\s+\d{4}"))
-        data = data_it(str(prev)) if prev else None
         if not href.startswith("http"):
             href = "https://www.sistemapenale.it" + href
+        if href in gia:
+            continue
+        gia.add(href)
+        # data: cerca all'indietro nel testo che precede il link
+        prev = a.find_previous(string=re.compile(r"\d{1,2}\s+\w+\s+\d{4}"))
+        data = data_it(str(prev)) if prev else None
         voci.append({"data": data or "s.d.", "fonte": "Sistema Penale · Osservatorio merito",
                      "titolo": titolo, "url": href})
     if not voci:
         raise ValueError("nessuna voce estratta: struttura pagina cambiata?")
     return voci
 
-# ---------------------------------------------------------------- fonte 2: Giurisprudenza Penale (RSS)
-def voci_giurisprudenzapenale():
-    xml = fetch("https://www.giurisprudenzapenale.com/feed/").content
+# ---------------------------------------------------------------- fonti RSS (riviste)
+MESI_EN = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"May":5,"Jun":6,"Jul":7,"Aug":8,"Sep":9,"Oct":10,"Nov":11,"Dec":12}
+
+def voci_rss(url, fonte, filtro=None):
+    """Lettore generico di feed RSS (WordPress e simili). Se filtro (regex)
+    presente, tiene solo le voci che lo soddisfano su titolo o categorie."""
+    xml = fetch(url).content
     root = ET.fromstring(xml)
     voci = []
     for item in root.iter("item"):
@@ -107,17 +118,19 @@ def voci_giurisprudenzapenale():
         pub = item.findtext("pubDate") or ""
         if not titolo or not link:
             continue
-        # solo merito: match su titolo o categorie
-        if not (RE_MERITO.search(titolo) or RE_MERITO.search(cats)):
+        if filtro and not (filtro.search(titolo) or filtro.search(cats)):
             continue
         # pubDate RFC822 -> ISO (best effort)
         m = re.search(r"(\d{1,2})\s+(\w{3})\s+(\d{4})", pub)
-        mesi_en = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"May":5,"Jun":6,"Jul":7,"Aug":8,"Sep":9,"Oct":10,"Nov":11,"Dec":12}
-        data = (f"{int(m.group(3)):04d}-{mesi_en.get(m.group(2),0):02d}-{int(m.group(1)):02d}"
-                if m and m.group(2) in mesi_en else "s.d.")
-        voci.append({"data": data, "fonte": "Giurisprudenza Penale",
-                     "titolo": titolo, "url": link})
+        data = (f"{int(m.group(3)):04d}-{MESI_EN.get(m.group(2),0):02d}-{int(m.group(1)):02d}"
+                if m and m.group(2) in MESI_EN else "s.d.")
+        voci.append({"data": data, "fonte": fonte, "titolo": titolo, "url": link})
     return voci
+
+def voci_giurisprudenzapenale():
+    # solo merito: GP pubblica moltissimo, senza filtro il radar si riempirebbe di rumore
+    return voci_rss("https://www.giurisprudenzapenale.com/feed/",
+                    "Giurisprudenza Penale", filtro=RE_MERITO)
 
 # ---------------------------------------------------------------- output
 TESTATA = """# RADAR — Giurisprudenza di merito e segnalazioni dalle riviste
@@ -134,7 +147,7 @@ TESTATA = """# RADAR — Giurisprudenza di merito e segnalazioni dalle riviste
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--max-voci", type=int, default=30)
+    ap.add_argument("--max-voci", type=int, default=80)
     args = ap.parse_args()
 
     os.makedirs(RADAR, exist_ok=True)
@@ -142,8 +155,19 @@ def main():
     print(f"== radar merito · {OGGI} · dry_run={args.dry_run} · visti: {len(visti)} ==")
 
     raccolte = []
-    for nome, fn in [("Sistema Penale", voci_sistemapenale),
-                     ("Giurisprudenza Penale", voci_giurisprudenzapenale)]:
+    fonti = [
+        ("Sistema Penale", voci_sistemapenale),
+        ("Giurisprudenza Penale", voci_giurisprudenzapenale),
+        ("Diritto di Difesa", lambda: voci_rss(
+            "https://dirittodidifesa.eu/feed/", "Diritto di Difesa (UCPI)")),
+        ("La Legislazione Penale", lambda: voci_rss(
+            "https://www.lalegislazionepenale.eu/feed/", "La Legislazione Penale")),
+        ("DisCrimen", lambda: voci_rss(
+            "https://discrimen.it/feed/", "DisCrimen")),
+        ("Penale Diritto e Procedura", lambda: voci_rss(
+            "https://www.penaledp.it/feed/", "Penale Diritto e Procedura")),
+    ]
+    for nome, fn in fonti:
         try:
             v = fn()
             print(f"[radar] {nome}: {len(v)} voci lette")

@@ -53,8 +53,10 @@ aggiorna da sola alla run successiva.
 ## Radar del merito (segnalazioni, non citazioni)
 
 In `SEGNALATE/RADAR/RADAR_MERITO.md` la pipeline raccoglie ogni settimana le **segnalazioni
-di giurisprudenza di merito** pubblicate da riviste scientifiche open access (v1: l'Osservatorio
-della giurisprudenza di merito di *Sistema Penale* e il feed di *Giurisprudenza Penale*).
+di giurisprudenza di merito e i contributi** pubblicati da riviste scientifiche open access
+(v2: l'Osservatorio della giurisprudenza di merito di *Sistema Penale*, il feed di
+*Giurisprudenza Penale* filtrato sul merito, e i feed integrali di *Diritto di Difesa* (UCPI),
+*La Legislazione Penale*, *DisCrimen* e *Penale Diritto e Procedura*).
 
 Regole: si raccolgono **solo i fatti** — data, fonte, titolo, link — mai i contenuti redazionali,
 che restano degli editori (Sistema Penale è CC BY-NC-ND). Il radar è **materiale informativo,

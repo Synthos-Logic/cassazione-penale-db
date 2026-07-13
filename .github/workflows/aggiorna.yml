@@ -1,11 +1,12 @@
 # Pipeline di aggiornamento settimanale — cassazione-penale-db
-# Cron: lunedì 06:00 UTC (= 08:00 CEST estate / 07:00 CET inverno).
+# Cron: lunedì 06:17 UTC — minuto off-peak: sul minuto zero GitHub ritarda
+# o salta i job schedulati (verificato 13/7/2026: cron 06:00 mai partito).
 # Trigger manuale: workflow_dispatch con dry_run (default true) e force.
 name: Aggiorna banca dati
 
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "17 6 * * 1"
   workflow_dispatch:
     inputs:
       dry_run:
