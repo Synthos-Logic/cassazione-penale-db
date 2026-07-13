@@ -9,13 +9,15 @@ e' CC BY-NC-ND). Output: SEGNALATE/RADAR/RADAR_MERITO.md — materiale informati
 MAI citabile come fonte negli atti: per citare un provvedimento del radar si
 scarica il PDF dalla fonte e lo si ingerisce in KB (recupero assistito).
 
-Fonti v2:
+Fonti v3:
   1. Sistema Penale — Osservatorio della giurisprudenza di merito (HTML, pagina 1)
   2. Giurisprudenza Penale — feed RSS, filtrato sui provvedimenti di merito
   3. Diritto di Difesa (UCPI) — feed RSS, tutte le voci
   4. La Legislazione Penale — feed RSS, tutte le voci
   5. DisCrimen — feed RSS, tutte le voci
   6. Penale Diritto e Procedura — feed RSS, tutte le voci
+  7. Archivio Penale — parser HTML dedicato: sezioni giurisprudenza (legittimita,
+     costituzionale, merito, europea) + articoli open access dalla home
 
 Regole: dedup per URL (visti.json); fonte irraggiungibile o struttura cambiata ->
 log e prosegue con le altre; mai inventare. Uso: radar_merito.py [--dry-run]
@@ -37,7 +39,10 @@ UA = ("cassazione-penale-db/1.0 radar "
 OGGI = datetime.date.today().isoformat()
 
 MESI = {"gennaio":1,"febbraio":2,"marzo":3,"aprile":4,"maggio":5,"giugno":6,
-        "luglio":7,"agosto":8,"settembre":9,"ottobre":10,"novembre":11,"dicembre":12}
+        "luglio":7,"agosto":8,"settembre":9,"ottobre":10,"novembre":11,"dicembre":12,
+        # il CMS di Archivio Penale usa i mesi inglesi ("Pubblicato il 10 July 2026")
+        "january":1,"february":2,"march":3,"april":4,"may":5,"june":6,
+        "july":7,"august":8,"september":9,"october":10,"november":11,"december":12}
 
 RE_MERITO = re.compile(
     r"(tribunale|trib\.|corte d.appello|corte d.assise|g\.?i\.?p\.?\b|g\.?u\.?p\.?\b|"
@@ -162,6 +167,72 @@ def voci_giurisprudenzapenale():
     return voci_rss("https://www.giurisprudenzapenale.com/feed/",
                     "Giurisprudenza Penale", filtro=RE_MERITO)
 
+# ---------------------------------------------------------------- fonte 7: Archivio Penale (HTML dedicato)
+AP_BASE = "https://archiviopenale.it"
+# pagine statiche del sito che vivono anch\u2019esse sotto /contenuti/ (menu, crediti):
+AP_STATICI = re.compile(r"/(istruzioni-per-invio|norme-redazionali|codice-etico|"
+                        r"peer-review|crediti|indicizzazione-e-diffusione)/contenuti/")
+
+def _voci_ap_pagina(url, fonte, pattern, con_data=False):
+    """Estrae da una pagina di Archivio Penale i link che rispettano `pattern`.
+    I titoli delle voci di giurisprudenza contengono gia gli estremi del
+    provvedimento; la data di pubblicazione compare solo per gli articoli
+    (testo "Pubblicato il ..." dopo il link) -> `con_data`."""
+    html = fetch(url).text
+    soup = BeautifulSoup(html, "html.parser")
+    voci, gia = [], set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if not re.search(pattern, href) or AP_STATICI.search(href):
+            continue
+        titolo = a.get_text(" ", strip=True)
+        if not titolo or len(titolo) < 20:
+            continue
+        if not href.startswith("http"):
+            href = AP_BASE + href
+        if href in gia:
+            continue
+        gia.add(href)
+        data = None
+        if con_data:
+            nxt = a.find_next(string=re.compile(r"Pubblicato il\s+\d{1,2}\s+\w+\s+\d{4}"))
+            data = data_it(str(nxt)) if nxt else None
+        voci.append({"data": data or "s.d.", "fonte": fonte,
+                     "titolo": titolo, "url": href})
+    return voci
+
+def voci_archiviopenale():
+    sezioni = [
+        (AP_BASE + "/giurisprudenza-di-legittimita/sezioni/15",
+         "Archivio Penale · Legittimità"),
+        (AP_BASE + "/giurisprudenza-costituzionale/sezioni/390",
+         "Archivio Penale · Costituzionale"),
+        (AP_BASE + "/giurisprudenza-di-merito/sezioni/405",
+         "Archivio Penale · Merito"),
+        (AP_BASE + "/giurisprudenza-europea/sezioni/400",
+         "Archivio Penale · Europea"),
+    ]
+    voci = []
+    for url, fonte in sezioni:
+        try:
+            v = _voci_ap_pagina(url, fonte, r"/contenuti/\d+$")
+            print(f"[radar]   {fonte}: {len(v)} voci")
+            voci += v
+        except Exception as e:
+            log_err(f"{fonte}: {e}")
+    # articoli open access (dottrina) dalla home, con data di pubblicazione
+    try:
+        v = _voci_ap_pagina(AP_BASE + "/", "Archivio Penale · Articoli",
+                            r"/articoli/\d+$", con_data=True)
+        print(f"[radar]   Archivio Penale · Articoli: {len(v)} voci")
+        voci += v
+    except Exception as e:
+        log_err(f"Archivio Penale · Articoli: {e}")
+    if not voci:
+        raise ValueError("nessuna voce estratta dalle sezioni: "
+                         "struttura cambiata o blocco anti-bot verso il runner?")
+    return voci
+
 # ---------------------------------------------------------------- output
 TESTATA = """# RADAR — Giurisprudenza di merito e segnalazioni dalle riviste
 
@@ -177,7 +248,7 @@ TESTATA = """# RADAR — Giurisprudenza di merito e segnalazioni dalle riviste
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--max-voci", type=int, default=80)
+    ap.add_argument("--max-voci", type=int, default=150)
     args = ap.parse_args()
 
     os.makedirs(RADAR, exist_ok=True)
@@ -196,6 +267,7 @@ def main():
             "https://discrimen.it/feed/", "DisCrimen")),
         ("Penale Diritto e Procedura", lambda: voci_rss(
             "https://www.penaledp.it/feed/", "Penale Diritto e Procedura")),
+        ("Archivio Penale", voci_archiviopenale),
     ]
     for nome, fn in fonti:
         try:
