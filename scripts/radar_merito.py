@@ -21,6 +21,7 @@ Regole: dedup per URL (visti.json); fonte irraggiungibile o struttura cambiata -
 log e prosegue con le altre; mai inventare. Uso: radar_merito.py [--dry-run]
 """
 import argparse, datetime, json, os, re, sys, time
+from html import unescape
 import xml.etree.ElementTree as ET
 
 import requests
@@ -99,23 +100,52 @@ def voci_sistemapenale():
         voci.append({"data": data or "s.d.", "fonte": "Sistema Penale · Osservatorio merito",
                      "titolo": titolo, "url": href})
     if not voci:
-        raise ValueError("nessuna voce estratta: struttura pagina cambiata?")
+        n_link = len(soup.find_all("a", href=True))
+        raise ValueError(f"nessuna voce estratta ({len(html)} byte, {n_link} link totali): "
+                         "struttura pagina cambiata o blocco anti-bot verso il runner?")
     return voci
 
 # ---------------------------------------------------------------- fonti RSS (riviste)
 MESI_EN = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"May":5,"Jun":6,"Jul":7,"Aug":8,"Sep":9,"Oct":10,"Nov":11,"Dec":12}
 
+def _items_da_regex(testo):
+    """Fallback tollerante per feed con XML sporco (entita non dichiarate, tag
+    non chiusi): estrae gli <item> a regex. Copre i feed WordPress reali."""
+    def campo(blocco, tag):
+        m = re.search(rf"<{tag}[^>]*>(.*?)</{tag}>", blocco, re.S | re.I)
+        if not m:
+            return ""
+        v = m.group(1).strip()
+        v = re.sub(r"^<!\[CDATA\[(.*)\]\]>$", r"\1", v, flags=re.S).strip()
+        return unescape(v)
+    items = []
+    for blocco in re.findall(r"<item>(.*?)</item>", testo, re.S | re.I):
+        cats = " ".join(re.findall(
+            r"<category[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</category>", blocco, re.S | re.I))
+        items.append({"title": campo(blocco, "title"), "link": campo(blocco, "link"),
+                      "cats": unescape(cats), "pub": campo(blocco, "pubDate")})
+    return items
+
 def voci_rss(url, fonte, filtro=None):
-    """Lettore generico di feed RSS (WordPress e simili). Se filtro (regex)
+    """Lettore generico di feed RSS (WordPress e simili). Prova il parser XML
+    strict; su XML sporco ripiega sul fallback a regex. Se filtro (regex)
     presente, tiene solo le voci che lo soddisfano su titolo o categorie."""
-    xml = fetch(url).content
-    root = ET.fromstring(xml)
+    contenuto = fetch(url).content
+    try:
+        root = ET.fromstring(contenuto)
+        items = [{"title": (i.findtext("title") or ""),
+                  "link": (i.findtext("link") or ""),
+                  "cats": " ".join(c.text or "" for c in i.findall("category")),
+                  "pub": i.findtext("pubDate") or ""} for i in root.iter("item")]
+    except ET.ParseError:
+        items = _items_da_regex(contenuto.decode("utf-8", errors="replace"))
+        if not items:
+            raise ValueError(f"nessun item nel feed ({len(contenuto)} byte scaricati: "
+                             "blocco anti-bot o struttura cambiata?)")
     voci = []
-    for item in root.iter("item"):
-        titolo = (item.findtext("title") or "").strip()
-        link = (item.findtext("link") or "").strip()
-        cats = " ".join(c.text or "" for c in item.findall("category"))
-        pub = item.findtext("pubDate") or ""
+    for it in items:
+        titolo, link, cats, pub = (it["title"].strip(), it["link"].strip(),
+                                   it["cats"], it["pub"])
         if not titolo or not link:
             continue
         if filtro and not (filtro.search(titolo) or filtro.search(cats)):
