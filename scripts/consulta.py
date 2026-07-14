@@ -203,7 +203,11 @@ def main():
                 continue
             testo = open(os.path.join(dirpath, f), encoding="utf-8").read()
             nm = re.search(r"^n_massime:\s*(\d+)", testo, re.M)
-            esistenti[(m.group(3), m.group(2), m.group(1))] = int(nm.group(1)) if nm else 0
+            ann = re.search(r"^annuario: .*\ntema_annuario: .*$", testo, re.M)
+            esistenti[(m.group(3), m.group(2), m.group(1))] = {
+                "n": int(nm.group(1)) if nm else 0,
+                "ann": ann.group(0) if ann else None,  # flag Annuario (vedi annuario.py): da preservare
+            }
     print(f"[consulta] schede già in archivio: {len(esistenti)}")
 
     # ------------------------------------------------ generazione schede
@@ -225,7 +229,7 @@ def main():
         info_m = massime.get(chiave, {"giudizio": None, "voci": []})
         n_m = len(info_m["voci"])
 
-        if chiave in esistenti and not args.force and esistenti[chiave] == n_m:
+        if chiave in esistenti and not args.force and esistenti[chiave]["n"] == n_m:
             saltate += 1
             continue
 
@@ -241,6 +245,9 @@ def main():
             "url_scheda": f"https://www.cortecostituzionale.it/scheda-pronuncia/{anno}/{numero}",
         }
 
+        ann_extra = ""
+        if chiave in esistenti and esistenti[chiave]["ann"]:
+            ann_extra = "\n" + esistenti[chiave]["ann"]
         corpo = [f"""---
 tipo: {d['tipo']}
 corte: corte-costituzionale
@@ -251,7 +258,7 @@ data_deposito: {d.get('data_deposito') or 'null'}
 presidente: {q(d.get('presidente'))}
 redattore: {q(d.get('redattore'))}
 tipologia_giudizio: {q(d.get('giudizio'))}
-n_massime: {n_m}
+n_massime: {n_m}{ann_extra}
 url_scheda: {q(d['url_scheda'])}
 fonte: consulta-opendata
 licenza_dati: "CC BY-SA 3.0 — dati.cortecostituzionale.it"
@@ -324,12 +331,14 @@ def _rigenera_indice():
             testo = open(os.path.join(adir, f), encoding="utf-8").read()
             dep = re.search(r"^data_deposito:\s*(\S+)", testo, re.M)
             nm = re.search(r"^n_massime:\s*(\d+)", testo, re.M)
+            tann = re.search(r'^tema_annuario: "(.*)"', testo, re.M)
+            marca = f" · ★ Annuario ({tann.group(1)[:70]})" if tann else ""
             disp1 = ""
             md = re.search(r"## Dispositivo\n\n(.+)", testo)
             if md and not md.group(1).startswith("*"):
                 disp1 = " — " + md.group(1).strip()[:110]
             righe.append(f"- **{'Sent.' if m.group(1) == 'S' else 'Ord.'} n. {m.group(2)}/{m.group(3)}** · "
-                         f"dep. {dep.group(1) if dep else '?'} · massime: {nm.group(1) if nm else 0} → "
+                         f"dep. {dep.group(1) if dep else '?'} · massime: {nm.group(1) if nm else 0}{marca} → "
                          f"[scheda]({anno}/{f}){disp1}")
             tot += 1
         righe.append("")

@@ -61,6 +61,12 @@ jobs:
           if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
           python scripts/consulta.py $ARGS
 
+      - name: Annuario Consulta (non bloccante)
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run"; fi
+          python scripts/annuario.py $ARGS || echo "::warning::annuario fallito (non bloccante)"
+
       - name: Commit e push
         if: ${{ inputs.dry_run != true }}
         run: |
