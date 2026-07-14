@@ -58,7 +58,10 @@ di giurisprudenza di merito e i contributi** pubblicati da riviste scientifiche 
 *Giurisprudenza Penale* filtrato sul merito, e i feed integrali di *Diritto di Difesa* (UCPI),
 *La Legislazione Penale*, *DisCrimen* e *Penale Diritto e Procedura*; v3: parser dedicato
 per *Archivio Penale* — sezioni di giurisprudenza di legittimità, costituzionale, di merito
-ed europea, più gli articoli open access).
+ed europea, più gli articoli open access; v4: parser dedicati per le riviste della
+magistratura — *Giustizia Insieme*, aree tematiche penali, e *Questione Giustizia*,
+categoria "giurisprudenza e documenti" con le Pillole di Sezioni Unite penali / CEDU / CGUE
+più il tag diritto-penale).
 
 Regole: si raccolgono **solo i fatti** — data, fonte, titolo, link — mai i contenuti redazionali,
 che restano degli editori (Sistema Penale è CC BY-NC-ND). Il radar è **materiale informativo,

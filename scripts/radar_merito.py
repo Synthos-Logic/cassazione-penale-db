@@ -9,7 +9,7 @@ e' CC BY-NC-ND). Output: SEGNALATE/RADAR/RADAR_MERITO.md — materiale informati
 MAI citabile come fonte negli atti: per citare un provvedimento del radar si
 scarica il PDF dalla fonte e lo si ingerisce in KB (recupero assistito).
 
-Fonti v3:
+Fonti v4:
   1. Sistema Penale — Osservatorio della giurisprudenza di merito (HTML, pagina 1)
   2. Giurisprudenza Penale — feed RSS, filtrato sui provvedimenti di merito
   3. Diritto di Difesa (UCPI) — feed RSS, tutte le voci
@@ -18,6 +18,10 @@ Fonti v3:
   6. Penale Diritto e Procedura — feed RSS, tutte le voci
   7. Archivio Penale — parser HTML dedicato: sezioni giurisprudenza (legittimita,
      costituzionale, merito, europea) + articoli open access dalla home
+  8. Giustizia Insieme — parser HTML dedicato: 4 aree tematiche penali
+     (diritto penale, processo penale, giustizia e pene, Cartabia penale)
+  9. Questione Giustizia — parser HTML dedicato: categoria "giurisprudenza e
+     documenti" (Pillole di SU penali / CEDU / CGUE) + tag diritto-penale
 
 Regole: dedup per URL (visti.json); fonte irraggiungibile o struttura cambiata ->
 log e prosegue con le altre; mai inventare. Uso: radar_merito.py [--dry-run]
@@ -233,6 +237,117 @@ def voci_archiviopenale():
                          "struttura cambiata o blocco anti-bot verso il runner?")
     return voci
 
+# ---------------------------------------------------------------- fonte 8: Giustizia Insieme (HTML dedicato)
+GI_BASE = "https://www.giustiziainsieme.it"
+
+def _voci_gi_pagina(url, fonte, gia):
+    """Estrae le voci da una pagina area tematica di Giustizia Insieme (Joomla,
+    feed RSS non funzionante). Ogni <article> ha due anchor verso l'articolo:
+    quello dell'immagine (senza testo, scartato dal filtro lunghezza) e quello
+    del titolo dentro div.title; la data di pubblicazione segue in italiano
+    ("10 luglio 2026") dentro div.date -> find_next + data_it. `gia` e' il set
+    condiviso tra aree: lo stesso articolo puo' comparire in piu' aree."""
+    html = fetch(url).text
+    soup = BeautifulSoup(html, "html.parser")
+    voci = []
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()  # il CMS lascia spazi residui in coda ad alcuni href
+        if not re.search(r"/articolo/\d+-", href):
+            continue
+        # il CMS usa &nbsp; dentro i titoli -> si normalizza a spazio semplice
+        titolo = re.sub(r"\s+", " ", a.get_text(" ", strip=True).replace("\xa0", " "))
+        if not titolo or len(titolo) < 15:
+            continue
+        if not href.startswith("http"):
+            href = GI_BASE + href
+        if href in gia:
+            continue
+        gia.add(href)
+        nxt = a.find_next(string=re.compile(r"\d{1,2}\s+[A-Za-zà]+\s+\d{4}"))
+        data = data_it(str(nxt)) if nxt else None
+        voci.append({"data": data or "s.d.", "fonte": fonte,
+                     "titolo": titolo, "url": href})
+    return voci
+
+def voci_giustiziainsieme():
+    """Fonti v4: aree tematiche penali di Giustizia Insieme (ISSN 2974-9999).
+    Solo le 4 aree penali: il resto della rivista e' rumore per il kit."""
+    aree = [
+        ("/aree-tematiche/diritto-penale", "Giustizia Insieme · Diritto penale"),
+        ("/aree-tematiche/processo-penale", "Giustizia Insieme · Processo penale"),
+        ("/aree-tematiche/giustizia-pene", "Giustizia Insieme · Giustizia e pene"),
+        ("/aree-tematiche/cartabia-penale", "Giustizia Insieme · Cartabia penale"),
+    ]
+    voci, gia = [], set()
+    for path, fonte in aree:
+        try:
+            v = _voci_gi_pagina(GI_BASE + path, fonte, gia)
+            print(f"[radar]   {fonte}: {len(v)} voci")
+            voci += v
+        except Exception as e:
+            log_err(f"{fonte}: {e}")
+    if not voci:
+        raise ValueError("nessuna voce estratta dalle aree tematiche: "
+                         "struttura cambiata o blocco anti-bot verso il runner?")
+    return voci
+
+# ---------------------------------------------------------------- fonte 9: Questione Giustizia (HTML dedicato)
+QG_BASE = "https://www.questionegiustizia.it"
+
+def _voci_qg_pagina(url, fonte, gia):
+    """Estrae le voci da una pagina categoria/tag di Questione Giustizia (sito
+    custom senza RSS). Il listing ripete lo stesso URL articolo in piu' anchor
+    (immagine senza testo, etichetta di rubrica, titolo vero dentro div.head):
+    per ogni URL si tiene l'anchor col testo piu' LUNGO, cosi' il titolo batte
+    l'etichetta ("Giurisprudenza e documenti"). La data di pubblicazione segue
+    nel listing in formato GG/MM/AAAA dentro div.data."""
+    html = fetch(url).text
+    soup = BeautifulSoup(html, "html.parser")
+    migliori = {}  # url -> (lunghezza, titolo, anchor)
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()
+        if not re.search(r"/articolo/[a-z0-9]", href):
+            continue
+        titolo = a.get_text(" ", strip=True)
+        if not href.startswith("http"):
+            href = QG_BASE + href
+        if len(titolo) > migliori.get(href, (0,))[0]:
+            migliori[href] = (len(titolo), titolo, a)
+    voci = []
+    for href, (lung, titolo, a) in migliori.items():
+        if lung < 20 or href in gia:
+            continue
+        gia.add(href)
+        nxt = a.find_next(string=re.compile(r"\d{2}/\d{2}/\d{4}"))
+        m = re.search(r"(\d{2})/(\d{2})/(\d{4})", str(nxt)) if nxt else None
+        data = f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else "s.d."
+        voci.append({"data": data, "fonte": fonte, "titolo": titolo, "url": href})
+    return voci
+
+def voci_questionegiustizia():
+    """Fonti v4: Questione Giustizia (ISSN 2420-952X). Due listing: la categoria
+    "giurisprudenza e documenti" (Pillole di Sezioni Unite penali / CEDU / CGUE,
+    note a sentenza — contiene anche civile/amministrativo: NON si filtra, il
+    costo del rumore e' basso e il rischio di perdere una SU penale e' alto) e
+    il tag diritto-penale."""
+    pagine = [
+        ("/cat/giurisprudenzaedocumenti",
+         "Questione Giustizia · Giurisprudenza e documenti"),
+        ("/tag/diritto-penale", "Questione Giustizia · Diritto penale"),
+    ]
+    voci, gia = [], set()
+    for path, fonte in pagine:
+        try:
+            v = _voci_qg_pagina(QG_BASE + path, fonte, gia)
+            print(f"[radar]   {fonte}: {len(v)} voci")
+            voci += v
+        except Exception as e:
+            log_err(f"{fonte}: {e}")
+    if not voci:
+        raise ValueError("nessuna voce estratta da categoria/tag: "
+                         "struttura cambiata o blocco anti-bot verso il runner?")
+    return voci
+
 # ---------------------------------------------------------------- output
 TESTATA = """# RADAR — Giurisprudenza di merito e segnalazioni dalle riviste
 
@@ -248,7 +363,7 @@ TESTATA = """# RADAR — Giurisprudenza di merito e segnalazioni dalle riviste
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--max-voci", type=int, default=150)
+    ap.add_argument("--max-voci", type=int, default=300)
     args = ap.parse_args()
 
     os.makedirs(RADAR, exist_ok=True)
@@ -268,6 +383,8 @@ def main():
         ("Penale Diritto e Procedura", lambda: voci_rss(
             "https://www.penaledp.it/feed/", "Penale Diritto e Procedura")),
         ("Archivio Penale", voci_archiviopenale),
+        ("Giustizia Insieme", voci_giustiziainsieme),
+        ("Questione Giustizia", voci_questionegiustizia),
     ]
     for nome, fn in fonti:
         try:
