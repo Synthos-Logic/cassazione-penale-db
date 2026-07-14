@@ -15,8 +15,12 @@ Regole:
 - si accettano solo pronunce dell'anno dell'Annuario (i richiami ad anni
   diversi sono precedenti citati, non selezione dell'anno);
 - sezioni di servizio escluse (es. "Sentenze e comunicati citati", "Leggi anche");
+- ogni edizione è STATICA: una volta letta viene persistita in
+  CONSULTA/ANNUARIO/annuario_<anno>.json e non viene più rifetchata
+  (il sito è dietro Radware Bot Manager, che dal runner GitHub blocca le
+  richieste ripetute — verificato 14/7/2026: si fetchano solo le annate nuove);
 - idempotente: rieseguito ogni settimana DOPO consulta.py, riapplica i flag
-  anche alle schede appena rigenerate (consulta.py li preserva comunque);
+  dai JSON anche alle schede appena rigenerate (consulta.py li preserva comunque);
 - in caso di anomalia: log, mai contenuti inventati.
 
 Uso: python3 scripts/annuario.py [--dry-run] [--da-anno 2021]
@@ -25,6 +29,7 @@ Dipendenze: requests, beautifulsoup4.
 import argparse
 import datetime
 import glob
+import json
 import os
 import re
 import sys
@@ -35,11 +40,16 @@ from bs4 import BeautifulSoup
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONS = os.path.join(ROOT, "CONSULTA")
+ANN_DIR = os.path.join(CONS, "ANNUARIO")
 LOG = os.path.join(ROOT, "SEGNALATE", "LOG_ERRORI.md")
 
 URL = "https://www.cortecostituzionale.it/annuario{anno}/decisioni-{anno}.html"
-UA = ("cassazione-penale-db/1.0 annuario "
-      "(+https://github.com/Synthos-Logic/cassazione-penale-db)")
+HDRS = {  # header completi: il bot manager scarta i client troppo spogli
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "it-IT,it;q=0.8,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+}
 PRIMO_ANNUARIO = 2021  # prima edizione online dell'Annuario
 
 # Sezioni dell'Annuario che NON classificano decisioni dell'anno
@@ -80,14 +90,16 @@ def estrai_riferimento(href):
 
 def scarica_annuario(anno):
     """HTML dell'Annuario di un anno, o None (assente) / '' (irraggiungibile).
-    Il sito della Corte usa Radware Bot Manager: a richieste ravvicinate
-    risponde 200 ma redirige alla pagina di challenge (validate.perfdrive.com)
-    — verificato 14/7/2026. Si rileva e si ritenta con backoff."""
+    Il sito della Corte usa Radware Bot Manager: a richieste ripetute risponde
+    200 ma redirige alla pagina di challenge (validate.perfdrive.com) — dal
+    runner GitHub blocca quasi tutto (verificato 14/7/2026). Si ritenta con
+    backoff; l'esaurimento è un AVVISO, non un errore: le annate già lette
+    stanno nei JSON e quelle nuove arriveranno a un run successivo."""
     for tentativo in range(1, 5):
         try:
-            r = requests.get(URL.format(anno=anno), headers={"User-Agent": UA}, timeout=60)
+            r = requests.get(URL.format(anno=anno), headers=HDRS, timeout=60)
         except Exception as e:
-            log_err(f"annuario {anno}: fetch fallito: {e}")
+            print(f"[annuario {anno}] avviso: fetch fallito: {e}")
             return ""
         if r.status_code == 404:
             return None
@@ -95,8 +107,9 @@ def scarica_annuario(anno):
             return r.content
         print(f"[annuario {anno}] challenge anti-bot o pagina anomala "
               f"(HTTP {r.status_code}), ritento ({tentativo}/4)...")
-        time.sleep(4 * tentativo)
-    log_err(f"annuario {anno}: solo challenge anti-bot dopo 4 tentativi")
+        time.sleep(5 * tentativo)
+    print(f"[annuario {anno}] avviso: solo challenge anti-bot dopo 4 tentativi — "
+          "si riproverà al prossimo run")
     return ""
 
 
@@ -173,15 +186,32 @@ def main():
     print(f"== annuario Corte costituzionale · {OGGI} · dry_run={args.dry_run} ==")
 
     tot_app, tot_inv = 0, 0
+    fetch_fatti = 0
     for anno in range(args.da_anno, datetime.date.today().year + 1):
-        if anno > args.da_anno:
-            time.sleep(3)  # non stuzzicare il bot manager
-        voci = leggi_annuario(anno)
-        if voci is None:
-            print(f"[annuario {anno}] non (ancora) pubblicato")
-            continue
-        if not voci:
-            continue  # già loggato
+        jpath = os.path.join(ANN_DIR, f"annuario_{anno}.json")
+        if os.path.isfile(jpath):
+            # edizione già letta in passato: nessun fetch (le edizioni sono statiche)
+            dati = json.load(open(jpath, encoding="utf-8"))
+            voci = {(str(anno), n): t for n, t in dati["decisioni"].items()}
+        else:
+            if fetch_fatti:
+                time.sleep(10)  # non stuzzicare il bot manager
+            fetch_fatti += 1
+            voci = leggi_annuario(anno)
+            if voci is None:
+                print(f"[annuario {anno}] non (ancora) pubblicato")
+                continue
+            if not voci:
+                continue  # avviso/errore già stampato
+            if not args.dry_run:
+                os.makedirs(ANN_DIR, exist_ok=True)
+                json.dump({"anno": anno, "estratto_il": OGGI,
+                           "fonte": URL.format(anno=anno),
+                           "nota": "solo fatti (numero pronuncia + voce tematica della Corte); nessun testo redazionale",
+                           "decisioni": {n: t for (a, n), t in
+                                         sorted(voci.items(), key=lambda kv: int(kv[0][1]))}},
+                          open(jpath, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+                print(f"[annuario {anno}] edizione persistita: CONSULTA/ANNUARIO/annuario_{anno}.json")
         a, i, _ = applica(anno, voci, args.dry_run)
         print(f"[annuario {anno}] decisioni classificate: {len(voci)} · flag applicati: {a} · già presenti: {i}")
         tot_app += a

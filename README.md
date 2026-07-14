@@ -50,6 +50,14 @@ dati delle parti dei giudizi a quo): per il testo completo si segue il link.
 Quando le massime di una pronuncia recente vengono pubblicate, la scheda si
 aggiorna da sola alla run successiva.
 
+Le decisioni che la Corte seleziona ogni anno nel proprio **Annuario** (la rassegna
+ufficiale "Le decisioni dell'anno", pubblicata dal 2021) sono marcate nelle schede con i
+campi frontmatter `annuario:` e `tema_annuario:` (voce tematica assegnata dalla Corte) e
+con `★ Annuario (tema)` in `CONSULTA/INDICE_CONSULTA.md`. Dell'Annuario non viene copiato
+alcun testo redazionale: solo il fatto della selezione, la voce tematica e il numero della
+pronuncia (estratti persistiti in `CONSULTA/ANNUARIO/annuario_<anno>.json`; ogni edizione è
+statica e viene letta una volta sola).
+
 ## Radar del merito (segnalazioni, non citazioni)
 
 In `SEGNALATE/RADAR/RADAR_MERITO.md` la pipeline raccoglie ogni settimana le **segnalazioni

@@ -1,6 +1,6 @@
 # INDICE — Pronunce della Corte costituzionale
 
-> Ultimo aggiornamento: 2026-07-07 · Schede: 22357 · Fonte: open data ufficiale della Corte costituzionale
+> Ultimo aggiornamento: 2026-07-14 · Schede: 22357 · Fonte: open data ufficiale della Corte costituzionale
 > (dati.cortecostituzionale.it, licenza CC BY-SA 3.0). Schede senza epigrafe né testo
 > integrale (contengono dati delle parti): dispositivo, massime ufficiali e parametri,
 > con link alla scheda ufficiale per il testo completo.
@@ -139,39 +139,39 @@
 - **Sent. n. 214/2025** · dep. 2025-12-30 · massime: 5 → [scheda](2025/S_214_2025.md) — per questi motivi
 - **Sent. n. 213/2025** · dep. 2025-12-30 · massime: 1 → [scheda](2025/S_213_2025.md) — per questi motivi
 - **Sent. n. 212/2025** · dep. 2025-12-30 · massime: 2 → [scheda](2025/S_212_2025.md) — per questi motivi
-- **Sent. n. 211/2025** · dep. 2025-12-30 · massime: 1 → [scheda](2025/S_211_2025.md) — per questi motivi
-- **Sent. n. 210/2025** · dep. 2025-12-30 · massime: 2 → [scheda](2025/S_210_2025.md) — per questi motivi
+- **Sent. n. 211/2025** · dep. 2025-12-30 · massime: 1 · ★ Annuario (ELEZIONI - TERZO MANDATO) → [scheda](2025/S_211_2025.md) — per questi motivi
+- **Sent. n. 210/2025** · dep. 2025-12-30 · massime: 2 · ★ Annuario (ADOZIONE IN CASI PARTICOLARI - COGNOME DEL MINORE) → [scheda](2025/S_210_2025.md) — per questi motivi
 - **Ord. n. 209/2025** · dep. 2025-12-29 · massime: 1 → [scheda](2025/O_209_2025.md) — per questi motivi
 - **Ord. n. 208/2025** · dep. 2025-12-29 · massime: 1 → [scheda](2025/O_208_2025.md) — per questi motivi
 - **Sent. n. 207/2025** · dep. 2025-12-29 · massime: 5 → [scheda](2025/S_207_2025.md) — per questi motivi
-- **Sent. n. 206/2025** · dep. 2025-12-29 · massime: 4 → [scheda](2025/S_206_2025.md) — per questi motivi
+- **Sent. n. 206/2025** · dep. 2025-12-29 · massime: 4 · ★ Annuario (REFERENDUM - POTERI COMITATO PROMOTORE) → [scheda](2025/S_206_2025.md) — per questi motivi
 - **Sent. n. 205/2025** · dep. 2025-12-29 · massime: 4 → [scheda](2025/S_205_2025.md) — per questi motivi
-- **Sent. n. 204/2025** · dep. 2025-12-29 · massime: 9 → [scheda](2025/S_204_2025.md) — per questi motivi
+- **Sent. n. 204/2025** · dep. 2025-12-29 · massime: 9 · ★ Annuario (SUICIDIO MEDICALMENTE ASSISTITO - NORME REGIONALI) → [scheda](2025/S_204_2025.md) — per questi motivi
 - **Sent. n. 203/2025** · dep. 2025-12-29 · massime: 4 → [scheda](2025/S_203_2025.md) — per questi motivi
 - **Sent. n. 202/2025** · dep. 2025-12-29 · massime: 2 → [scheda](2025/S_202_2025.md) — per questi motivi
 - **Sent. n. 201/2025** · dep. 2025-12-29 · massime: 3 → [scheda](2025/S_201_2025.md) — per questi motivi
-- **Sent. n. 200/2025** · dep. 2025-12-23 · massime: 5 → [scheda](2025/S_200_2025.md) — per questi motivi
+- **Sent. n. 200/2025** · dep. 2025-12-23 · massime: 5 · ★ Annuario (ISTRUZIONE - DIMENSIONAMENTO SCOLASTICO) → [scheda](2025/S_200_2025.md) — per questi motivi
 - **Sent. n. 199/2025** · dep. 2025-12-23 · massime: 4 → [scheda](2025/S_199_2025.md) — per questi motivi
-- **Sent. n. 198/2025** · dep. 2025-12-23 · massime: 4 → [scheda](2025/S_198_2025.md) — per questi motivi
-- **Sent. n. 197/2025** · dep. 2025-12-23 · massime: 5 → [scheda](2025/S_197_2025.md) — per questi motivi
+- **Sent. n. 198/2025** · dep. 2025-12-23 · massime: 4 · ★ Annuario (SANITÀ - COMMISSARIAMENTO ASL) → [scheda](2025/S_198_2025.md) — per questi motivi
+- **Sent. n. 197/2025** · dep. 2025-12-23 · massime: 5 · ★ Annuario (FAMIGLIA - DIRITTI DEL CONVIVENTE) → [scheda](2025/S_197_2025.md) — per questi motivi
 - **Sent. n. 196/2025** · dep. 2025-12-23 · massime: 30 → [scheda](2025/S_196_2025.md) — per questi motivi
 - **Ord. n. 195/2025** · dep. 2025-12-22 · massime: 1 → [scheda](2025/O_195_2025.md) — per questi motivi
 - **Ord. n. 194/2025** · dep. 2025-12-22 · massime: 1 → [scheda](2025/O_194_2025.md) — per questi motivi
-- **Sent. n. 193/2025** · dep. 2025-12-22 · massime: 2 → [scheda](2025/S_193_2025.md) — per questi motivi
+- **Sent. n. 193/2025** · dep. 2025-12-22 · massime: 2 · ★ Annuario (REATI E PENE - FURTO IN ABITAZIONE) → [scheda](2025/S_193_2025.md) — per questi motivi
 - **Ord. n. 192/2025** · dep. 2025-12-19 · massime: 1 → [scheda](2025/O_192_2025.md) — per questi motivi
 - **Sent. n. 191/2025** · dep. 2025-12-19 · massime: 2 → [scheda](2025/S_191_2025.md) — per questi motivi
 - **Sent. n. 190/2025** · dep. 2025-12-18 · massime: 2 → [scheda](2025/S_190_2025.md) — per questi motivi
 - **Sent. n. 189/2025** · dep. 2025-12-18 · massime: 4 → [scheda](2025/S_189_2025.md) — per questi motivi
 - **Sent. n. 188/2025** · dep. 2025-12-16 · massime: 3 → [scheda](2025/S_188_2025.md) — per questi motivi
 - **Sent. n. 187/2025** · dep. 2025-12-16 · massime: 2 → [scheda](2025/S_187_2025.md) — per questi motivi
-- **Sent. n. 186/2025** · dep. 2025-12-16 · massime: 11 → [scheda](2025/S_186_2025.md) — per questi motivi
+- **Sent. n. 186/2025** · dep. 2025-12-16 · massime: 11 · ★ Annuario (TURISMO - ALBERGHI E B&B) → [scheda](2025/S_186_2025.md) — per questi motivi
 - **Sent. n. 185/2025** · dep. 2025-12-16 · massime: 6 → [scheda](2025/S_185_2025.md) — per questi motivi
 - **Sent. n. 184/2025** · dep. 2025-12-16 · massime: 12 → [scheda](2025/S_184_2025.md) — per questi motivi
 - **Sent. n. 183/2025** · dep. 2025-12-09 · massime: 1 → [scheda](2025/S_183_2025.md) — per questi motivi
-- **Sent. n. 182/2025** · dep. 2025-12-05 · massime: 5 → [scheda](2025/S_182_2025.md) — per questi motivi
+- **Sent. n. 182/2025** · dep. 2025-12-05 · massime: 5 · ★ Annuario (INCOMPATIBILITÀ - GIUDICE DELLA PREVENZIONE) → [scheda](2025/S_182_2025.md) — per questi motivi
 - **Ord. n. 181/2025** · dep. 2025-12-04 · massime: 2 → [scheda](2025/O_181_2025.md) — per questi motivi
 - **Sent. n. 180/2025** · dep. 2025-12-02 · massime: 5 → [scheda](2025/S_180_2025.md) — per questi motivi
-- **Sent. n. 179/2025** · dep. 2025-12-02 · massime: 3 → [scheda](2025/S_179_2025.md) — per questi motivi
+- **Sent. n. 179/2025** · dep. 2025-12-02 · massime: 3 · ★ Annuario (PROCESSO CIVILE - CONSULENTI TECNICI) → [scheda](2025/S_179_2025.md) — per questi motivi
 - **Ord. n. 178/2025** · dep. 2025-12-01 · massime: 1 → [scheda](2025/O_178_2025.md) — per questi motivi
 - **Sent. n. 177/2025** · dep. 2025-12-01 · massime: 1 → [scheda](2025/S_177_2025.md) — per questi motivi
 - **Ord. n. 176/2025** · dep. 2025-11-28 · massime: 2 → [scheda](2025/O_176_2025.md) — per questi motivi
@@ -179,14 +179,14 @@
 - **Sent. n. 174/2025** · dep. 2025-11-28 · massime: 2 → [scheda](2025/S_174_2025.md) — per questi motivi
 - **Sent. n. 173/2025** · dep. 2025-11-27 · massime: 1 → [scheda](2025/S_173_2025.md) — per questi motivi
 - **Sent. n. 172/2025** · dep. 2025-11-27 · massime: 2 → [scheda](2025/S_172_2025.md) — per questi motivi
-- **Sent. n. 171/2025** · dep. 2025-11-27 · massime: 4 → [scheda](2025/S_171_2025.md) — per questi motivi
-- **Sent. n. 170/2025** · dep. 2025-11-25 · massime: 2 → [scheda](2025/S_170_2025.md) — per questi motivi
+- **Sent. n. 171/2025** · dep. 2025-11-27 · massime: 4 · ★ Annuario (REATI E PENE - FURTO CON STRAPPO) → [scheda](2025/S_171_2025.md) — per questi motivi
+- **Sent. n. 170/2025** · dep. 2025-11-25 · massime: 2 · ★ Annuario (PROCESSO PENALE - MEDICI E ASSICURAZIONI) → [scheda](2025/S_170_2025.md) — per questi motivi
 - **Ord. n. 169/2025** · dep. 2025-11-21 · massime: 1 → [scheda](2025/O_169_2025.md) — per questi motivi
 - **Ord. n. 168/2025** · dep. 2025-11-18 · massime: 2 → [scheda](2025/O_168_2025.md) — per questi motivi
 - **Sent. n. 167/2025** · dep. 2025-11-13 · massime: 5 → [scheda](2025/S_167_2025.md) — per questi motivi
 - **Sent. n. 166/2025** · dep. 2025-11-07 · massime: 4 → [scheda](2025/S_166_2025.md) — per questi motivi
 - **Sent. n. 165/2025** · dep. 2025-11-04 · massime: 3 → [scheda](2025/S_165_2025.md) — per questi motivi
-- **Sent. n. 164/2025** · dep. 2025-11-04 · massime: 2 → [scheda](2025/S_164_2025.md) — per questi motivi
+- **Sent. n. 164/2025** · dep. 2025-11-04 · massime: 2 · ★ Annuario (CONTRIBUTI ALLE IMPRESE - PRODUTTORI DOP E IGP) → [scheda](2025/S_164_2025.md) — per questi motivi
 - **Sent. n. 163/2025** · dep. 2025-11-04 · massime: 5 → [scheda](2025/S_163_2025.md) — per questi motivi
 - **Sent. n. 162/2025** · dep. 2025-11-04 · massime: 3 → [scheda](2025/S_162_2025.md) — per questi motivi
 - **Sent. n. 161/2025** · dep. 2025-10-31 · massime: 5 → [scheda](2025/S_161_2025.md) — per questi motivi
@@ -194,28 +194,28 @@
 - **Sent. n. 159/2025** · dep. 2025-10-31 · massime: 3 → [scheda](2025/S_159_2025.md) — per questi motivi
 - **Sent. n. 158/2025** · dep. 2025-10-31 · massime: 3 → [scheda](2025/S_158_2025.md) — per questi motivi
 - **Sent. n. 157/2025** · dep. 2025-10-30 · massime: 3 → [scheda](2025/S_157_2025.md) — per questi motivi
-- **Sent. n. 156/2025** · dep. 2025-10-30 · massime: 1 → [scheda](2025/S_156_2025.md) — per questi motivi
+- **Sent. n. 156/2025** · dep. 2025-10-30 · massime: 1 · ★ Annuario (SINDACATI - COSTITUZIONE DI RSA) → [scheda](2025/S_156_2025.md) — per questi motivi
 - **Sent. n. 155/2025** · dep. 2025-10-23 · massime: 1 → [scheda](2025/S_155_2025.md) — per questi motivi
 - **Sent. n. 154/2025** · dep. 2025-10-21 · massime: 3 → [scheda](2025/S_154_2025.md) — per questi motivi
 - **Sent. n. 153/2025** · dep. 2025-10-17 · massime: 1 → [scheda](2025/S_153_2025.md) — per questi motivi
 - **Sent. n. 152/2025** · dep. 2025-10-16 · massime: 5 → [scheda](2025/S_152_2025.md) — per questi motivi
-- **Sent. n. 151/2025** · dep. 2025-10-16 · massime: 4 → [scheda](2025/S_151_2025.md) — per questi motivi
+- **Sent. n. 151/2025** · dep. 2025-10-16 · massime: 4 · ★ Annuario (REATI E PENE - SEQUESTRO DI PERSONA) → [scheda](2025/S_151_2025.md) — per questi motivi
 - **Sent. n. 150/2025** · dep. 2025-10-16 · massime: 3 → [scheda](2025/S_150_2025.md) — per questi motivi
 - **Sent. n. 149/2025** · dep. 2025-10-15 · massime: 2 → [scheda](2025/S_149_2025.md) — per questi motivi
-- **Sent. n. 148/2025** · dep. 2025-10-15 · massime: 4 → [scheda](2025/S_148_2025.md) — per questi motivi
-- **Sent. n. 147/2025** · dep. 2025-10-14 · massime: 4 → [scheda](2025/S_147_2025.md) — per questi motivi
+- **Sent. n. 148/2025** · dep. 2025-10-15 · massime: 4 · ★ Annuario (ELEZIONI - DECADENZA PRESIDENTE REGIONE) → [scheda](2025/S_148_2025.md) — per questi motivi
+- **Sent. n. 147/2025** · dep. 2025-10-14 · massime: 4 · ★ Annuario (TRASPORTI E TARIFFE - AUTOSTRADE) → [scheda](2025/S_147_2025.md) — per questi motivi
 - **Sent. n. 146/2025** · dep. 2025-10-13 · massime: 3 → [scheda](2025/S_146_2025.md) — per questi motivi
 - **Sent. n. 145/2025** · dep. 2025-10-09 · massime: 2 → [scheda](2025/S_145_2025.md) — per questi motivi
 - **Sent. n. 144/2025** · dep. 2025-10-07 · massime: 3 → [scheda](2025/S_144_2025.md) — per questi motivi
 - **Sent. n. 143/2025** · dep. 2025-10-07 · massime: 1 → [scheda](2025/S_143_2025.md) — per questi motivi
-- **Sent. n. 142/2025** · dep. 2025-07-31 · massime: 6 → [scheda](2025/S_142_2025.md) — per questi motivi
+- **Sent. n. 142/2025** · dep. 2025-07-31 · massime: 6 · ★ Annuario (CITTADINANZA - IURE SANGUINIS) → [scheda](2025/S_142_2025.md) — per questi motivi
 - **Sent. n. 141/2025** · dep. 2025-07-31 · massime: 2 → [scheda](2025/S_141_2025.md) — per questi motivi
 - **Ord. n. 140/2025** · dep. 2025-07-29 · massime: 1 → [scheda](2025/O_140_2025.md) — per questi motivi
 - **Sent. n. 139/2025** · dep. 2025-07-29 · massime: 3 → [scheda](2025/S_139_2025.md) — per questi motivi
 - **Sent. n. 138/2025** · dep. 2025-07-28 · massime: 2 → [scheda](2025/S_138_2025.md) — per questi motivi
-- **Sent. n. 137/2025** · dep. 2025-07-28 · massime: 3 → [scheda](2025/S_137_2025.md) — per questi motivi
-- **Sent. n. 136/2025** · dep. 2025-07-28 · massime: 6 → [scheda](2025/S_136_2025.md) — per questi motivi
-- **Sent. n. 135/2025** · dep. 2025-07-28 · massime: 3 → [scheda](2025/S_135_2025.md) — per questi motivi
+- **Sent. n. 137/2025** · dep. 2025-07-28 · massime: 3 · ★ Annuario (DOVERI TRIBUTARI - ACCERTAMENTI FISCALI) → [scheda](2025/S_137_2025.md) — per questi motivi
+- **Sent. n. 136/2025** · dep. 2025-07-28 · massime: 6 · ★ Annuario (MATERIE PRIME CRITICHE - COMPETENZE ESCLUSIVE STATALI) → [scheda](2025/S_136_2025.md) — per questi motivi
+- **Sent. n. 135/2025** · dep. 2025-07-28 · massime: 3 · ★ Annuario (PUBBLICO IMPIEGO - TETTO RETRIBUTIVO) → [scheda](2025/S_135_2025.md) — per questi motivi
 - **Sent. n. 134/2025** · dep. 2025-07-28 · massime: 3 → [scheda](2025/S_134_2025.md) — per questi motivi
 - **Ord. n. 133/2025** · dep. 2025-07-25 · massime: 2 → [scheda](2025/O_133_2025.md) — per questi motivi
 - **Sent. n. 132/2025** · dep. 2025-07-25 · massime: 2 → [scheda](2025/S_132_2025.md) — per questi motivi
@@ -224,22 +224,22 @@
 - **Sent. n. 129/2025** · dep. 2025-07-24 · massime: 2 → [scheda](2025/S_129_2025.md) — per questi motivi
 - **Sent. n. 128/2025** · dep. 2025-07-24 · massime: 1 → [scheda](2025/S_128_2025.md) — per questi motivi
 - **Sent. n. 127/2025** · dep. 2025-07-24 · massime: 1 → [scheda](2025/S_127_2025.md) — per questi motivi
-- **Sent. n. 126/2025** · dep. 2025-07-24 · massime: 2 → [scheda](2025/S_126_2025.md) — per questi motivi
-- **Sent. n. 125/2025** · dep. 2025-07-24 · massime: 3 → [scheda](2025/S_125_2025.md) — per questi motivi
+- **Sent. n. 126/2025** · dep. 2025-07-24 · massime: 2 · ★ Annuario (REGIONI A STATUTO SPECIALE - ATTIVITÀ ESTRATTIVE) → [scheda](2025/S_126_2025.md) — per questi motivi
+- **Sent. n. 125/2025** · dep. 2025-07-24 · massime: 3 · ★ Annuario (COMMISSARIO AGLI USI CIVICI - AVVIO DEI PROCEDIMENTI) → [scheda](2025/S_125_2025.md) — per questi motivi
 - **Sent. n. 124/2025** · dep. 2025-07-24 · massime: 1 → [scheda](2025/S_124_2025.md) — per questi motivi
 - **Sent. n. 123/2025** · dep. 2025-07-24 · massime: 3 → [scheda](2025/S_123_2025.md) — per questi motivi
 - **Sent. n. 122/2025** · dep. 2025-07-24 · massime: 2 → [scheda](2025/S_122_2025.md) — per questi motivi
 - **Sent. n. 121/2025** · dep. 2025-07-22 · massime: 6 → [scheda](2025/S_121_2025.md) — per questi motivi
 - **Sent. n. 120/2025** · dep. 2025-07-22 · massime: 2 → [scheda](2025/S_120_2025.md) — per questi motivi
 - **Sent. n. 119/2025** · dep. 2025-07-22 · massime: 4 → [scheda](2025/S_119_2025.md) — per questi motivi
-- **Sent. n. 118/2025** · dep. 2025-07-21 · massime: 1 → [scheda](2025/S_118_2025.md) — per questi motivi
+- **Sent. n. 118/2025** · dep. 2025-07-21 · massime: 1 · ★ Annuario (LICENZIAMENTI ILLEGITTIMI - INDENNITÀ RISARCITORIA) → [scheda](2025/S_118_2025.md) — per questi motivi
 - **Sent. n. 117/2025** · dep. 2025-07-21 · massime: 2 → [scheda](2025/S_117_2025.md) — per questi motivi
-- **Sent. n. 116/2025** · dep. 2025-07-21 · massime: 3 → [scheda](2025/S_116_2025.md) — per questi motivi
-- **Sent. n. 115/2025** · dep. 2025-07-21 · massime: 2 → [scheda](2025/S_115_2025.md) — per questi motivi
+- **Sent. n. 116/2025** · dep. 2025-07-21 · massime: 3 · ★ Annuario (IMPRESE - VALORE DELLE COOP) → [scheda](2025/S_116_2025.md) — per questi motivi
+- **Sent. n. 115/2025** · dep. 2025-07-21 · massime: 2 · ★ Annuario (CONGEDO PARENTALE - MADRE INTENZIONALE) → [scheda](2025/S_115_2025.md) — per questi motivi
 - **Sent. n. 114/2025** · dep. 2025-07-21 · massime: 4 → [scheda](2025/S_114_2025.md) — per questi motivi
-- **Sent. n. 113/2025** · dep. 2025-07-18 · massime: 6 → [scheda](2025/S_113_2025.md) — per questi motivi
-- **Sent. n. 112/2025** · dep. 2025-07-18 · massime: 2 → [scheda](2025/S_112_2025.md) — per questi motivi
-- **Sent. n. 111/2025** · dep. 2025-07-18 · massime: 4 → [scheda](2025/S_111_2025.md) — per questi motivi
+- **Sent. n. 113/2025** · dep. 2025-07-18 · massime: 6 · ★ Annuario (REATI E PENE - SEQUESTRO DI PERSONA) → [scheda](2025/S_113_2025.md) — per questi motivi
+- **Sent. n. 112/2025** · dep. 2025-07-18 · massime: 2 · ★ Annuario (IMPOSTA COMUNALE SUGLI IMMOBILI - ESENZIONE) → [scheda](2025/S_112_2025.md) — per questi motivi
+- **Sent. n. 111/2025** · dep. 2025-07-18 · massime: 4 · ★ Annuario (LICENZIAMENTI - TERMINI IMPUGNAZIONE) → [scheda](2025/S_111_2025.md) — per questi motivi
 - **Sent. n. 110/2025** · dep. 2025-07-17 · massime: 1 → [scheda](2025/S_110_2025.md) — per questi motivi
 - **Sent. n. 109/2025** · dep. 2025-07-17 · massime: 2 → [scheda](2025/S_109_2025.md) — per questi motivi
 - **Sent. n. 108/2025** · dep. 2025-07-17 · massime: 2 → [scheda](2025/S_108_2025.md) — per questi motivi
@@ -248,25 +248,25 @@
 - **Sent. n. 105/2025** · dep. 2025-07-10 · massime: 2 → [scheda](2025/S_105_2025.md) — per questi motivi
 - **Sent. n. 104/2025** · dep. 2025-07-10 · massime: 2 → [scheda](2025/S_104_2025.md) — per questi motivi
 - **Sent. n. 103/2025** · dep. 2025-07-08 · massime: 3 → [scheda](2025/S_103_2025.md) — per questi motivi
-- **Sent. n. 102/2025** · dep. 2025-07-08 · massime: 1 → [scheda](2025/S_102_2025.md) — per questi motivi
-- **Sent. n. 101/2025** · dep. 2025-07-08 · massime: 5 → [scheda](2025/S_101_2025.md) — per questi motivi
+- **Sent. n. 102/2025** · dep. 2025-07-08 · massime: 1 · ★ Annuario (PROCEDURE CONCORSUALI - RAGIONEVOLE DURATA) → [scheda](2025/S_102_2025.md) — per questi motivi
+- **Sent. n. 101/2025** · dep. 2025-07-08 · massime: 5 · ★ Annuario (SOCCORSO IN MARE - FERMO AMMINISTRATIVO DELLA NAVE) → [scheda](2025/S_101_2025.md) — per questi motivi
 - **Sent. n. 100/2025** · dep. 2025-07-08 · massime: 5 → [scheda](2025/S_100_2025.md) — per questi motivi
 - **Sent. n. 99/2025** · dep. 2025-07-08 · massime: 3 → [scheda](2025/S_99_2025.md) — per questi motivi
 - **Ord. n. 98/2025** · dep. 2025-07-04 · massime: 1 → [scheda](2025/O_98_2025.md) — per questi motivi
 - **Sent. n. 97/2025** · dep. 2025-07-03 · massime: 1 → [scheda](2025/S_97_2025.md) — per questi motivi
-- **Sent. n. 96/2025** · dep. 2025-07-03 · massime: 4 → [scheda](2025/S_96_2025.md) — per questi motivi
-- **Sent. n. 95/2025** · dep. 2025-07-03 · massime: 5 → [scheda](2025/S_95_2025.md) — per questi motivi
-- **Sent. n. 94/2025** · dep. 2025-07-03 · massime: 2 → [scheda](2025/S_94_2025.md) — per questi motivi
-- **Sent. n. 93/2025** · dep. 2025-07-03 · massime: 2 → [scheda](2025/S_93_2025.md) — per questi motivi
+- **Sent. n. 96/2025** · dep. 2025-07-03 · massime: 4 · ★ Annuario (TRATTENIMENTO DELLO STRANIERO - RISERVA ASSOLUTA DI LEGGE) → [scheda](2025/S_96_2025.md) — per questi motivi
+- **Sent. n. 95/2025** · dep. 2025-07-03 · massime: 5 · ★ Annuario (ABOLIZIONE REATI - ABUSO D’UFFICIO) → [scheda](2025/S_95_2025.md) — per questi motivi
+- **Sent. n. 94/2025** · dep. 2025-07-03 · massime: 2 · ★ Annuario (PREVIDENZA - ASSEGNO ORDINARIO D’INVALIDITÀ) → [scheda](2025/S_94_2025.md) — per questi motivi
+- **Sent. n. 93/2025** · dep. 2025-07-03 · massime: 2 · ★ Annuario (IVA ALL’IMPORTAZIONE - DAZI DOGANALI) → [scheda](2025/S_93_2025.md) — per questi motivi
 - **Ord. n. 92/2025** · dep. 2025-07-01 · massime: 1 → [scheda](2025/O_92_2025.md) — per questi motivi
 - **Sent. n. 91/2025** · dep. 2025-07-01 · massime: 2 → [scheda](2025/S_91_2025.md) — per questi motivi
-- **Sent. n. 90/2025** · dep. 2025-07-01 · massime: 7 → [scheda](2025/S_90_2025.md) — per questi motivi
+- **Sent. n. 90/2025** · dep. 2025-07-01 · massime: 7 · ★ Annuario (SPACCIO DI LIEVE ENTITÀ - MESSA ALLA PROVA) → [scheda](2025/S_90_2025.md) — per questi motivi
 - **Sent. n. 89/2025** · dep. 2025-07-01 · massime: 2 → [scheda](2025/S_89_2025.md) — per questi motivi
-- **Sent. n. 88/2025** · dep. 2025-06-26 · massime: 4 → [scheda](2025/S_88_2025.md) — per questi motivi
+- **Sent. n. 88/2025** · dep. 2025-06-26 · massime: 4 · ★ Annuario (GIUSTIZIA AMMINISTRATIVA - PATRIMONIO CULTURALE) → [scheda](2025/S_88_2025.md) — per questi motivi
 - **Sent. n. 87/2025** · dep. 2025-06-26 · massime: 1 → [scheda](2025/S_87_2025.md) — per questi motivi
 - **Sent. n. 86/2025** · dep. 2025-06-26 · massime: 1 → [scheda](2025/S_86_2025.md) — per questi motivi
 - **Ord. n. 85/2025** · dep. 2025-06-20 · massime: 1 → [scheda](2025/O_85_2025.md) — per questi motivi
-- **Sent. n. 84/2025** · dep. 2025-06-20 · massime: 3 → [scheda](2025/S_84_2025.md) — per questi motivi
+- **Sent. n. 84/2025** · dep. 2025-06-20 · massime: 3 · ★ Annuario (SANITÀ - IMPIEGO MEDICI IN QUIESCENZA) → [scheda](2025/S_84_2025.md) — per questi motivi
 - **Sent. n. 83/2025** · dep. 2025-06-20 · massime: 3 → [scheda](2025/S_83_2025.md) — per questi motivi
 - **Sent. n. 82/2025** · dep. 2025-06-19 · massime: 2 → [scheda](2025/S_82_2025.md) — per questi motivi
 - **Sent. n. 81/2025** · dep. 2025-06-19 · massime: 2 → [scheda](2025/S_81_2025.md) — per questi motivi
@@ -274,21 +274,21 @@
 - **Ord. n. 79/2025** · dep. 2025-06-04 · massime: 3 → [scheda](2025/O_79_2025.md) — per questi motivi
 - **Sent. n. 78/2025** · dep. 2025-06-03 · massime: 1 → [scheda](2025/S_78_2025.md) — per questi motivi
 - **Sent. n. 77/2025** · dep. 2025-05-30 · massime: 3 → [scheda](2025/S_77_2025.md) — per questi motivi
-- **Sent. n. 76/2025** · dep. 2025-05-30 · massime: 2 → [scheda](2025/S_76_2025.md) — per questi motivi
+- **Sent. n. 76/2025** · dep. 2025-05-30 · massime: 2 · ★ Annuario (TSO - DIRITTI DI AZIONE E DIFESA IN GIUDIZIO) → [scheda](2025/S_76_2025.md) — per questi motivi
 - **Sent. n. 75/2025** · dep. 2025-05-27 · massime: 1 → [scheda](2025/S_75_2025.md) — per questi motivi
 - **Sent. n. 74/2025** · dep. 2025-05-27 · massime: 3 → [scheda](2025/S_74_2025.md) — per questi motivi
 - **Sent. n. 73/2025** · dep. 2025-05-23 · massime: 2 → [scheda](2025/S_73_2025.md) — per questi motivi
-- **Sent. n. 72/2025** · dep. 2025-05-23 · massime: 4 → [scheda](2025/S_72_2025.md) — per questi motivi
+- **Sent. n. 72/2025** · dep. 2025-05-23 · massime: 4 · ★ Annuario (URBANISTICA - DIVIETI DI COSTRUIRE) → [scheda](2025/S_72_2025.md) — per questi motivi
 - **Sent. n. 71/2025** · dep. 2025-05-23 · massime: 1 → [scheda](2025/S_71_2025.md) — per questi motivi
 - **Sent. n. 70/2025** · dep. 2025-05-23 · massime: 5 → [scheda](2025/S_70_2025.md) — per questi motivi
-- **Sent. n. 69/2025** · dep. 2025-05-22 · massime: 5 → [scheda](2025/S_69_2025.md) — per questi motivi
-- **Sent. n. 68/2025** · dep. 2025-05-22 · massime: 3 → [scheda](2025/S_68_2025.md) — per questi motivi
+- **Sent. n. 69/2025** · dep. 2025-05-22 · massime: 5 · ★ Annuario (PROCREAZIONE MEDICALMENTE ASSISTITA - DONNA SINGOLA) → [scheda](2025/S_69_2025.md) — per questi motivi
+- **Sent. n. 68/2025** · dep. 2025-05-22 · massime: 3 · ★ Annuario (PROCREAZIONE MEDICALMENTE ASSISTITA - MADRE INTENZIONALE) → [scheda](2025/S_68_2025.md) — per questi motivi
 - **Sent. n. 67/2025** · dep. 2025-05-20 · massime: 1 → [scheda](2025/S_67_2025.md) — per questi motivi
 - **Sent. n. 66/2025** · dep. 2025-05-20 · massime: 2 → [scheda](2025/S_66_2025.md) — per questi motivi
 - **Sent. n. 65/2025** · dep. 2025-05-16 · massime: 2 → [scheda](2025/S_65_2025.md) — per questi motivi
-- **Sent. n. 64/2025** · dep. 2025-05-15 · massime: 2 → [scheda](2025/S_64_2025.md) — per questi motivi
+- **Sent. n. 64/2025** · dep. 2025-05-15 · massime: 2 · ★ Annuario (ELEZIONI - TERZO MANDATO) → [scheda](2025/S_64_2025.md) — per questi motivi
 - **Ord. n. 63/2025** · dep. 2025-05-02 · massime: 1 → [scheda](2025/O_63_2025.md) — per questi motivi
-- **Sent. n. 62/2025** · dep. 2025-04-29 · massime: 6 → [scheda](2025/S_62_2025.md) — per questi motivi
+- **Sent. n. 62/2025** · dep. 2025-04-29 · massime: 6 · ★ Annuario (IMPRESE FUNEBRI - SERVIZIO DI AMBULANZA) → [scheda](2025/S_62_2025.md) — per questi motivi
 - **Ord. n. 61/2025** · dep. 2025-04-24 · massime: 1 → [scheda](2025/O_61_2025.md) — per questi motivi
 - **Ord. n. 60/2025** · dep. 2025-04-24 · massime: 1 → [scheda](2025/O_60_2025.md) — per questi motivi
 - **Sent. n. 59/2025** · dep. 2025-04-24 · massime: 3 → [scheda](2025/S_59_2025.md) — per questi motivi
@@ -299,33 +299,33 @@
 - **Ord. n. 54/2025** · dep. 2025-04-18 · massime: 1 → [scheda](2025/O_54_2025.md) — per questi motivi
 - **Sent. n. 53/2025** · dep. 2025-04-18 · massime: 3 → [scheda](2025/S_53_2025.md) — per questi motivi
 - **Sent. n. 52/2025** · dep. 2025-04-18 · massime: 4 → [scheda](2025/S_52_2025.md) — per questi motivi
-- **Sent. n. 51/2025** · dep. 2025-04-18 · massime: 2 → [scheda](2025/S_51_2025.md) — per questi motivi
+- **Sent. n. 51/2025** · dep. 2025-04-18 · massime: 2 · ★ Annuario (EDILIZIA - RIGENERAZIONE URBANA) → [scheda](2025/S_51_2025.md) — per questi motivi
 - **Ord. n. 50/2025** · dep. 2025-04-17 · massime: 1 → [scheda](2025/O_50_2025.md) — per questi motivi
 - **Sent. n. 49/2025** · dep. 2025-04-17 · massime: 4 → [scheda](2025/S_49_2025.md) — per questi motivi
 - **Sent. n. 48/2025** · dep. 2025-04-17 · massime: 6 → [scheda](2025/S_48_2025.md) — per questi motivi
 - **Sent. n. 47/2025** · dep. 2025-04-17 · massime: 1 → [scheda](2025/S_47_2025.md) — per questi motivi
 - **Sent. n. 46/2025** · dep. 2025-04-17 · massime: 2 → [scheda](2025/S_46_2025.md) — per questi motivi
-- **Sent. n. 45/2025** · dep. 2025-04-17 · massime: 5 → [scheda](2025/S_45_2025.md) — per questi motivi
-- **Sent. n. 44/2025** · dep. 2025-04-15 · massime: 5 → [scheda](2025/S_44_2025.md) — per questi motivi
+- **Sent. n. 45/2025** · dep. 2025-04-17 · massime: 5 · ★ Annuario (COMUNI - CONTENIMENTO DELLA SPESA PUBBLICA) → [scheda](2025/S_45_2025.md) — per questi motivi
+- **Sent. n. 44/2025** · dep. 2025-04-15 · massime: 5 · ★ Annuario (TV LOCALI - CONTRIBUTI PUBBLICI) → [scheda](2025/S_44_2025.md) — per questi motivi
 - **Sent. n. 43/2025** · dep. 2025-04-15 · massime: 2 → [scheda](2025/S_43_2025.md) — per questi motivi
 - **Sent. n. 42/2025** · dep. 2025-04-11 · massime: 3 → [scheda](2025/S_42_2025.md) — per questi motivi
 - **Ord. n. 41/2025** · dep. 2025-04-10 · massime: 1 → [scheda](2025/O_41_2025.md) — per questi motivi
 - **Sent. n. 40/2025** · dep. 2025-04-10 · massime: 1 → [scheda](2025/S_40_2025.md) — per questi motivi
-- **Sent. n. 39/2025** · dep. 2025-04-10 · massime: 3 → [scheda](2025/S_39_2025.md) — per questi motivi
+- **Sent. n. 39/2025** · dep. 2025-04-10 · massime: 3 · ★ Annuario (TRATTENIMENTO DELLO STRANIEROCONVALIDA E CONTRADDITTORIO TRA LE PARTI) → [scheda](2025/S_39_2025.md) — per questi motivi
 - **Sent. n. 38/2025** · dep. 2025-04-04 · massime: 2 → [scheda](2025/S_38_2025.md) — per questi motivi
 - **Sent. n. 37/2025** · dep. 2025-04-03 · massime: 3 → [scheda](2025/S_37_2025.md) — per questi motivi
 - **Sent. n. 36/2025** · dep. 2025-03-27 · massime: 4 → [scheda](2025/S_36_2025.md) — per questi motivi
 - **Ord. n. 35/2025** · dep. 2025-03-24 · massime: 1 → [scheda](2025/O_35_2025.md) — per questi motivi
 - **Sent. n. 34/2025** · dep. 2025-03-21 · massime: 2 → [scheda](2025/S_34_2025.md) — per questi motivi
-- **Sent. n. 33/2025** · dep. 2025-03-21 · massime: 3 → [scheda](2025/S_33_2025.md) — per questi motivi
+- **Sent. n. 33/2025** · dep. 2025-03-21 · massime: 3 · ★ Annuario (ADOZIONE INTERNAZIONALE - PERSONE SINGOLE) → [scheda](2025/S_33_2025.md) — per questi motivi
 - **Sent. n. 32/2025** · dep. 2025-03-20 · massime: 1 → [scheda](2025/S_32_2025.md) — per questi motivi
-- **Sent. n. 31/2025** · dep. 2025-03-20 · massime: 3 → [scheda](2025/S_31_2025.md) — per questi motivi
-- **Sent. n. 30/2025** · dep. 2025-03-18 · massime: 2 → [scheda](2025/S_30_2025.md) — per questi motivi
+- **Sent. n. 31/2025** · dep. 2025-03-20 · massime: 3 · ★ Annuario (REDDITO DI CITTADINANZA - REQUISITI) → [scheda](2025/S_31_2025.md) — per questi motivi
+- **Sent. n. 30/2025** · dep. 2025-03-18 · massime: 2 · ★ Annuario (REGIME 41-bis - ORA D’ARIA) → [scheda](2025/S_30_2025.md) — per questi motivi
 - **Ord. n. 29/2025** · dep. 2025-03-17 · massime: 1 → [scheda](2025/O_29_2025.md) — per questi motivi
-- **Sent. n. 28/2025** · dep. 2025-03-11 · massime: 2 → [scheda](2025/S_28_2025.md) — per questi motivi
+- **Sent. n. 28/2025** · dep. 2025-03-11 · massime: 2 · ★ Annuario (ENERGIE RINNOVABILI - INSTALLAZIONE IMPIANTI) → [scheda](2025/S_28_2025.md) — per questi motivi
 - **Sent. n. 27/2025** · dep. 2025-03-07 · massime: 2 → [scheda](2025/S_27_2025.md) — per questi motivi
 - **Sent. n. 26/2025** · dep. 2025-03-07 · massime: 1 → [scheda](2025/S_26_2025.md) — per questi motivi
-- **Sent. n. 25/2025** · dep. 2025-03-07 · massime: 2 → [scheda](2025/S_25_2025.md) — per questi motivi
+- **Sent. n. 25/2025** · dep. 2025-03-07 · massime: 2 · ★ Annuario (CITTADINANZA - CONOSCENZA LINGUISTICA) → [scheda](2025/S_25_2025.md) — per questi motivi
 - **Sent. n. 24/2025** · dep. 2025-03-07 · massime: 6 → [scheda](2025/S_24_2025.md) — per questi motivi
 - **Sent. n. 23/2025** · dep. 2025-03-06 · massime: 3 → [scheda](2025/S_23_2025.md) — per questi motivi
 - **Sent. n. 22/2025** · dep. 2025-03-06 · massime: 4 → [scheda](2025/S_22_2025.md) — per questi motivi
@@ -340,14 +340,14 @@
 - **Sent. n. 13/2025** · dep. 2025-02-07 · massime: 1 → [scheda](2025/S_13_2025.md) — per questi motivi
 - **Sent. n. 12/2025** · dep. 2025-02-07 · massime: 4 → [scheda](2025/S_12_2025.md) — per questi motivi
 - **Sent. n. 11/2025** · dep. 2025-02-07 · massime: 3 → [scheda](2025/S_11_2025.md) — per questi motivi
-- **Sent. n. 10/2025** · dep. 2025-02-07 · massime: 3 → [scheda](2025/S_10_2025.md) — per questi motivi
+- **Sent. n. 10/2025** · dep. 2025-02-07 · massime: 3 · ★ Annuario (AUTONOMIA DIFFERENZIATA - REFERENDUM) → [scheda](2025/S_10_2025.md) — per questi motivi
 - **Sent. n. 9/2025** · dep. 2025-02-06 · massime: 5 → [scheda](2025/S_9_2025.md) — per questi motivi
 - **Sent. n. 8/2025** · dep. 2025-02-04 · massime: 4 → [scheda](2025/S_8_2025.md) — per questi motivi
-- **Sent. n. 7/2025** · dep. 2025-02-04 · massime: 6 → [scheda](2025/S_7_2025.md) — per questi motivi
+- **Sent. n. 7/2025** · dep. 2025-02-04 · massime: 6 · ★ Annuario (FALLIMENTI BANCHE - CONFISCA OBBLIGATORIA) → [scheda](2025/S_7_2025.md) — per questi motivi
 - **Ord. n. 6/2025** · dep. 2025-01-27 · massime: 1 → [scheda](2025/O_6_2025.md) — per questi motivi
 - **Sent. n. 5/2025** · dep. 2025-01-24 · massime: 5 → [scheda](2025/S_5_2025.md) — per questi motivi
 - **Sent. n. 4/2025** · dep. 2025-01-23 · massime: 2 → [scheda](2025/S_4_2025.md) — per questi motivi
-- **Sent. n. 3/2025** · dep. 2025-01-23 · massime: 5 → [scheda](2025/S_3_2025.md) — per questi motivi
+- **Sent. n. 3/2025** · dep. 2025-01-23 · massime: 5 · ★ Annuario (ELEZIONI - FIRMA DIGITALE) → [scheda](2025/S_3_2025.md) — per questi motivi
 - **Sent. n. 2/2025** · dep. 2025-01-17 · massime: 3 → [scheda](2025/S_2_2025.md) — per questi motivi
 - **Sent. n. 1/2025** · dep. 2025-01-03 · massime: 2 → [scheda](2025/S_1_2025.md) — per questi motivi
 
@@ -359,21 +359,21 @@
 - **Sent. n. 209/2024** · dep. 2024-12-19 · massime: 2 → [scheda](2024/S_209_2024.md) — per questi motivi
 - **Sent. n. 208/2024** · dep. 2024-12-19 · massime: 5 → [scheda](2024/S_208_2024.md) — per questi motivi
 - **Sent. n. 207/2024** · dep. 2024-12-19 · massime: 5 → [scheda](2024/S_207_2024.md) — per questi motivi
-- **Sent. n. 206/2024** · dep. 2024-12-19 · massime: 4 → [scheda](2024/S_206_2024.md) — per questi motivi
+- **Sent. n. 206/2024** · dep. 2024-12-19 · massime: 4 · ★ Annuario (Ncc: licenze rilasciate dai comuni) → [scheda](2024/S_206_2024.md) — per questi motivi
 - **Ord. n. 205/2024** · dep. 2024-12-17 · massime: 1 → [scheda](2024/O_205_2024.md) — per questi motivi
 - **Sent. n. 204/2024** · dep. 2024-12-17 · massime: 14 → [scheda](2024/S_204_2024.md) — per questi motivi
-- **Sent. n. 203/2024** · dep. 2024-12-17 · massime: 3 → [scheda](2024/S_203_2024.md) — per questi motivi
-- **Sent. n. 202/2024** · dep. 2024-12-17 · massime: 4 → [scheda](2024/S_202_2024.md) — per questi motivi
-- **Sent. n. 201/2024** · dep. 2024-12-17 · massime: 4 → [scheda](2024/S_201_2024.md) — per questi motivi
+- **Sent. n. 203/2024** · dep. 2024-12-17 · massime: 3 · ★ Annuario (Foglio di via (atto amministrativo) Provvedimento del questore) → [scheda](2024/S_203_2024.md) — per questi motivi
+- **Sent. n. 202/2024** · dep. 2024-12-17 · massime: 4 · ★ Annuario (Reclutamento dei medici - Concorsi pubblici) → [scheda](2024/S_202_2024.md) — per questi motivi
+- **Sent. n. 201/2024** · dep. 2024-12-17 · massime: 4 · ★ Annuario (Cura della fibromialgia - Ambulatori e screening) → [scheda](2024/S_201_2024.md) — per questi motivi
 - **Sent. n. 200/2024** · dep. 2024-12-16 · massime: 1 → [scheda](2024/S_200_2024.md) — per questi motivi
 - **Ord. n. 199/2024** · dep. 2024-12-13 · massime: 1 → [scheda](2024/O_199_2024.md) — per questi motivi
 - **Sent. n. 198/2024** · dep. 2024-12-13 · massime: 3 → [scheda](2024/S_198_2024.md) — per questi motivi
 - **Sent. n. 197/2024** · dep. 2024-12-13 · massime: 6 → [scheda](2024/S_197_2024.md) — per questi motivi
-- **Sent. n. 196/2024** · dep. 2024-12-10 · massime: 2 → [scheda](2024/S_196_2024.md) — per questi motivi
-- **Sent. n. 195/2024** · dep. 2024-12-06 · massime: 13 → [scheda](2024/S_195_2024.md) — per questi motivi
+- **Sent. n. 196/2024** · dep. 2024-12-10 · massime: 2 · ★ Annuario (Limite ai mandati consecutivi dei sindaci) → [scheda](2024/S_196_2024.md) — per questi motivi
+- **Sent. n. 195/2024** · dep. 2024-12-06 · massime: 13 · ★ Annuario (Spesa pubblica necessaria - Priorità per la sanità) → [scheda](2024/S_195_2024.md) — per questi motivi
 - **Sent. n. 194/2024** · dep. 2024-12-05 · massime: 4 → [scheda](2024/S_194_2024.md) — per questi motivi
 - **Sent. n. 193/2024** · dep. 2024-12-05 · massime: 1 → [scheda](2024/S_193_2024.md) — per questi motivi
-- **Sent. n. 192/2024** · dep. 2024-12-03 · massime: 59 → [scheda](2024/S_192_2024.md) — per questi motivi
+- **Sent. n. 192/2024** · dep. 2024-12-03 · massime: 59 · ★ Annuario (Autonomia differenziata - Incostituzionalità parziale) → [scheda](2024/S_192_2024.md) — per questi motivi
 - **Ord. n. 191/2024** · dep. 2024-11-28 · massime: 1 → [scheda](2024/O_191_2024.md) — per questi motivi
 - **Sent. n. 190/2024** · dep. 2024-11-28 · massime: 2 → [scheda](2024/S_190_2024.md) — per questi motivi
 - **Sent. n. 189/2024** · dep. 2024-11-28 · massime: 6 → [scheda](2024/S_189_2024.md) — per questi motivi
@@ -382,17 +382,17 @@
 - **Ord. n. 186/2024** · dep. 2024-11-26 · massime: 1 → [scheda](2024/O_186_2024.md) — per questi motivi
 - **Sent. n. 185/2024** · dep. 2024-11-26 · massime: 8 → [scheda](2024/S_185_2024.md) — per questi motivi
 - **Sent. n. 184/2024** · dep. 2024-11-21 · massime: 4 → [scheda](2024/S_184_2024.md) — per questi motivi
-- **Sent. n. 183/2024** · dep. 2024-11-21 · massime: 4 → [scheda](2024/S_183_2024.md) — per questi motivi
-- **Sent. n. 182/2024** · dep. 2024-11-19 · massime: 3 → [scheda](2024/S_182_2024.md) — per questi motivi
-- **Sent. n. 181/2024** · dep. 2024-11-19 · massime: 3 → [scheda](2024/S_181_2024.md) — per questi motivi
+- **Sent. n. 183/2024** · dep. 2024-11-21 · massime: 4 · ★ Annuario (Ncc e taxi: requisiti conducenti) → [scheda](2024/S_183_2024.md) — per questi motivi
+- **Sent. n. 182/2024** · dep. 2024-11-19 · massime: 3 · ★ Annuario (Sindacato stringente sui privilegi) → [scheda](2024/S_182_2024.md) — per questi motivi
+- **Sent. n. 181/2024** · dep. 2024-11-19 · massime: 3 · ★ Annuario (Parità di genere - Concorsi forze di polizia) → [scheda](2024/S_181_2024.md) — per questi motivi
 - **Sent. n. 180/2024** · dep. 2024-11-15 · massime: 2 → [scheda](2024/S_180_2024.md) — per questi motivi
 - **Sent. n. 179/2024** · dep. 2024-11-14 · massime: 4 → [scheda](2024/S_179_2024.md) — per questi motivi
 - **Ord. n. 178/2024** · dep. 2024-11-08 · massime: 1 → [scheda](2024/O_178_2024.md) — per questi motivi
 - **Ord. n. 177/2024** · dep. 2024-11-07 · massime: 1 → [scheda](2024/O_177_2024.md) — per questi motivi
 - **Sent. n. 176/2024** · dep. 2024-11-07 · massime: 2 → [scheda](2024/S_176_2024.md) — per questi motivi
 - **Sent. n. 175/2024** · dep. 2024-11-07 · massime: 6 → [scheda](2024/S_175_2024.md) — per questi motivi
-- **Sent. n. 174/2024** · dep. 2024-11-07 · massime: 4 → [scheda](2024/S_174_2024.md) — per questi motivi
-- **Sent. n. 173/2024** · dep. 2024-11-04 · massime: 1 → [scheda](2024/S_173_2024.md) — per questi motivi
+- **Sent. n. 174/2024** · dep. 2024-11-07 · massime: 4 · ★ Annuario (Contratti pubblici - Stazioni appaltanti) → [scheda](2024/S_174_2024.md) — per questi motivi
+- **Sent. n. 173/2024** · dep. 2024-11-04 · massime: 1 · ★ Annuario (Braccialetto elettronico - Applicabilità nei piccoli centri) → [scheda](2024/S_173_2024.md) — per questi motivi
 - **Sent. n. 172/2024** · dep. 2024-10-31 · massime: 2 → [scheda](2024/S_172_2024.md) — per questi motivi
 - **Sent. n. 171/2024** · dep. 2024-10-29 · massime: 6 → [scheda](2024/S_171_2024.md) — per questi motivi
 - **Sent. n. 170/2024** · dep. 2024-10-29 · massime: 2 → [scheda](2024/S_170_2024.md) — per questi motivi
@@ -401,11 +401,11 @@
 - **Sent. n. 167/2024** · dep. 2024-10-24 · massime: 1 → [scheda](2024/S_167_2024.md) — per questi motivi
 - **Sent. n. 166/2024** · dep. 2024-10-22 · massime: 1 → [scheda](2024/S_166_2024.md) — per questi motivi
 - **Sent. n. 165/2024** · dep. 2024-10-18 · massime: 1 → [scheda](2024/S_165_2024.md) — per questi motivi
-- **Sent. n. 164/2024** · dep. 2024-10-17 · massime: 3 → [scheda](2024/S_164_2024.md) — per questi motivi
+- **Sent. n. 164/2024** · dep. 2024-10-17 · massime: 3 · ★ Annuario (Reati procedibili a querela - Accompagnamento coattivo) → [scheda](2024/S_164_2024.md) — per questi motivi
 - **Sent. n. 163/2024** · dep. 2024-10-17 · massime: 3 → [scheda](2024/S_163_2024.md) — per questi motivi
 - **Sent. n. 162/2024** · dep. 2024-10-17 · massime: 2 → [scheda](2024/S_162_2024.md) — per questi motivi
-- **Ord. n. 161/2024** · dep. 2024-10-07 · massime: 1 → [scheda](2024/O_161_2024.md) — per questi motivi
-- **Sent. n. 160/2024** · dep. 2024-10-03 · massime: 3 → [scheda](2024/S_160_2024.md) — per questi motivi
+- **Ord. n. 161/2024** · dep. 2024-10-07 · massime: 1 · ★ Annuario (Direttiva Bolkestein - Produzione idroelettrica) → [scheda](2024/O_161_2024.md) — per questi motivi
+- **Sent. n. 160/2024** · dep. 2024-10-03 · massime: 3 · ★ Annuario (Tutele del credito - Esecuzione forzata) → [scheda](2024/S_160_2024.md) — per questi motivi
 - **Ord. n. 159/2024** · dep. 2024-08-02 · massime: 1 → [scheda](2024/O_159_2024.md) — per questi motivi
 - **Ord. n. 158/2024** · dep. 2024-08-02 · massime: 1 → [scheda](2024/O_158_2024.md) — per questi motivi
 - **Ord. n. 157/2024** · dep. 2024-08-02 · massime: 1 → [scheda](2024/O_157_2024.md) — per questi motivi
@@ -417,34 +417,34 @@
 - **Sent. n. 151/2024** · dep. 2024-07-26 · massime: 3 → [scheda](2024/S_151_2024.md) — per questi motivi
 - **Ord. n. 150/2024** · dep. 2024-07-25 · massime: 1 → [scheda](2024/O_150_2024.md) — per questi motivi
 - **Sent. n. 149/2024** · dep. 2024-07-25 · massime: 7 → [scheda](2024/S_149_2024.md) — per questi motivi
-- **Sent. n. 148/2024** · dep. 2024-07-25 · massime: 3 → [scheda](2024/S_148_2024.md) — per questi motivi
+- **Sent. n. 148/2024** · dep. 2024-07-25 · massime: 3 · ★ Annuario (Impresa familiare - Diritti del convivente di fatto) → [scheda](2024/S_148_2024.md) — per questi motivi
 - **Sent. n. 147/2024** · dep. 2024-07-25 · massime: 1 → [scheda](2024/S_147_2024.md) — per questi motivi
-- **Sent. n. 146/2024** · dep. 2024-07-25 · massime: 4 → [scheda](2024/S_146_2024.md) — per questi motivi
-- **Sent. n. 145/2024** · dep. 2024-07-23 · massime: 5 → [scheda](2024/S_145_2024.md) — per questi motivi
-- **Sent. n. 144/2024** · dep. 2024-07-23 · massime: 4 → [scheda](2024/S_144_2024.md) — per questi motivi
-- **Sent. n. 143/2024** · dep. 2024-07-23 · massime: 3 → [scheda](2024/S_143_2024.md) — per questi motivi
+- **Sent. n. 146/2024** · dep. 2024-07-25 · massime: 4 · ★ Annuario (Decretazione d’urgenza - Requisiti) → [scheda](2024/S_146_2024.md) — per questi motivi
+- **Sent. n. 145/2024** · dep. 2024-07-23 · massime: 5 · ★ Annuario (Regioni a statuto speciale - Equilibrio di bilancio) → [scheda](2024/S_145_2024.md) — per questi motivi
+- **Sent. n. 144/2024** · dep. 2024-07-23 · massime: 4 · ★ Annuario (Conformità fiscale - Albo e ruoli) → [scheda](2024/S_144_2024.md) — per questi motivi
+- **Sent. n. 143/2024** · dep. 2024-07-23 · massime: 3 · ★ Annuario (Genere “altro” - Discrezionalità del Parlamento) → [scheda](2024/S_143_2024.md) — per questi motivi
 - **Sent. n. 142/2024** · dep. 2024-07-23 · massime: 9 → [scheda](2024/S_142_2024.md) — per questi motivi
-- **Sent. n. 141/2024** · dep. 2024-07-22 · massime: 5 → [scheda](2024/S_141_2024.md) — per questi motivi
-- **Sent. n. 140/2024** · dep. 2024-07-22 · massime: 5 → [scheda](2024/S_140_2024.md) — per questi motivi
-- **Sent. n. 139/2024** · dep. 2024-07-22 · massime: 3 → [scheda](2024/S_139_2024.md) — per questi motivi
+- **Sent. n. 141/2024** · dep. 2024-07-22 · massime: 5 · ★ Annuario (Spesa sanitaria - Regioni a statuto speciale Equilibrio di bilancio) → [scheda](2024/S_141_2024.md) — per questi motivi
+- **Sent. n. 140/2024** · dep. 2024-07-22 · massime: 5 · ★ Annuario (Meccanismo del payback - Contributo per le imprese) → [scheda](2024/S_140_2024.md) — per questi motivi
+- **Sent. n. 139/2024** · dep. 2024-07-22 · massime: 3 · ★ Annuario (Meccanismo del payback - Contributo per le imprese) → [scheda](2024/S_139_2024.md) — per questi motivi
 - **Sent. n. 138/2024** · dep. 2024-07-19 · massime: 6 → [scheda](2024/S_138_2024.md) — per questi motivi
-- **Sent. n. 137/2024** · dep. 2024-07-19 · massime: 2 → [scheda](2024/S_137_2024.md) — per questi motivi
+- **Sent. n. 137/2024** · dep. 2024-07-19 · massime: 2 · ★ Annuario (Ncc: regole della concorrenza) → [scheda](2024/S_137_2024.md) — per questi motivi
 - **Ord. n. 136/2024** · dep. 2024-07-18 · massime: 1 → [scheda](2024/O_136_2024.md) — per questi motivi
-- **Sent. n. 135/2024** · dep. 2024-07-18 · massime: 5 → [scheda](2024/S_135_2024.md) — per questi motivi
+- **Sent. n. 135/2024** · dep. 2024-07-18 · massime: 5 · ★ Annuario (Suicidio assistito - Trattamenti di sostegno vitale) → [scheda](2024/S_135_2024.md) — per questi motivi
 - **Sent. n. 134/2024** · dep. 2024-07-18 · massime: 2 → [scheda](2024/S_134_2024.md) — per questi motivi
 - **Sent. n. 133/2024** · dep. 2024-07-18 · massime: 5 → [scheda](2024/S_133_2024.md) — per questi motivi
-- **Sent. n. 132/2024** · dep. 2024-07-16 · massime: 3 → [scheda](2024/S_132_2024.md) — per questi motivi
+- **Sent. n. 132/2024** · dep. 2024-07-16 · massime: 3 · ★ Annuario (Responsabilità amministrativa - Temporanea esclusione) → [scheda](2024/S_132_2024.md) — per questi motivi
 - **Sent. n. 131/2024** · dep. 2024-07-16 · massime: 4 → [scheda](2024/S_131_2024.md) — per questi motivi
 - **Sent. n. 130/2024** · dep. 2024-07-16 · massime: 3 → [scheda](2024/S_130_2024.md) — per questi motivi
 - **Sent. n. 129/2024** · dep. 2024-07-16 · massime: 5 → [scheda](2024/S_129_2024.md) — per questi motivi
-- **Sent. n. 128/2024** · dep. 2024-07-16 · massime: 2 → [scheda](2024/S_128_2024.md) — per questi motivi
+- **Sent. n. 128/2024** · dep. 2024-07-16 · massime: 2 · ★ Annuario (Jobs act - Tutela reintegratoria) → [scheda](2024/S_128_2024.md) — per questi motivi
 - **Ord. n. 127/2024** · dep. 2024-07-15 · massime: 1 → [scheda](2024/O_127_2024.md) — per questi motivi
 - **Sent. n. 126/2024** · dep. 2024-07-15 · massime: 1 → [scheda](2024/S_126_2024.md) — per questi motivi
 - **Sent. n. 125/2024** · dep. 2024-07-15 · massime: 2 → [scheda](2024/S_125_2024.md) — per questi motivi
 - **Sent. n. 124/2024** · dep. 2024-07-05 · massime: 3 → [scheda](2024/S_124_2024.md) — per questi motivi
 - **Sent. n. 123/2024** · dep. 2024-07-04 · massime: 1 → [scheda](2024/S_123_2024.md) — per questi motivi
 - **Sent. n. 122/2024** · dep. 2024-07-04 · massime: 2 → [scheda](2024/S_122_2024.md) — per questi motivi
-- **Sent. n. 121/2024** · dep. 2024-07-04 · massime: 4 → [scheda](2024/S_121_2024.md) — per questi motivi
+- **Sent. n. 121/2024** · dep. 2024-07-04 · massime: 4 · ★ Annuario (Gratuito patrocinio Procedura di liquidazione controllata) → [scheda](2024/S_121_2024.md) — per questi motivi
 - **Sent. n. 120/2024** · dep. 2024-07-04 · massime: 5 → [scheda](2024/S_120_2024.md) — per questi motivi
 - **Sent. n. 119/2024** · dep. 2024-07-04 · massime: 18 → [scheda](2024/S_119_2024.md) — per questi motivi
 - **Ord. n. 118/2024** · dep. 2024-07-02 · massime: 1 → [scheda](2024/O_118_2024.md) — per questi motivi
@@ -454,14 +454,14 @@
 - **Sent. n. 114/2024** · dep. 2024-07-01 · massime: 2 → [scheda](2024/S_114_2024.md) — per questi motivi
 - **Ord. n. 113/2024** · dep. 2024-06-27 · massime: 1 → [scheda](2024/O_113_2024.md) — per questi motivi
 - **Sent. n. 112/2024** · dep. 2024-06-27 · massime: 3 → [scheda](2024/S_112_2024.md) — per questi motivi
-- **Sent. n. 111/2024** · dep. 2024-06-27 · massime: 5 → [scheda](2024/S_111_2024.md) — per questi motivi
+- **Sent. n. 111/2024** · dep. 2024-06-27 · massime: 5 · ★ Annuario (Imprese energetiche - Contributo di solidarietà) → [scheda](2024/S_111_2024.md) — per questi motivi
 - **Sent. n. 110/2024** · dep. 2024-06-25 · massime: 5 → [scheda](2024/S_110_2024.md) — per questi motivi
 - **Sent. n. 109/2024** · dep. 2024-06-24 · massime: 3 → [scheda](2024/S_109_2024.md) — per questi motivi
 - **Ord. n. 108/2024** · dep. 2024-06-18 · massime: 4 → [scheda](2024/O_108_2024.md) — per questi motivi
-- **Sent. n. 107/2024** · dep. 2024-06-18 · massime: 2 → [scheda](2024/S_107_2024.md) — per questi motivi
+- **Sent. n. 107/2024** · dep. 2024-06-18 · massime: 2 · ★ Annuario (Enti locali: incompatibilità affini e familiari) → [scheda](2024/S_107_2024.md) — per questi motivi
 - **Ord. n. 106/2024** · dep. 2024-06-13 · massime: 2 → [scheda](2024/O_106_2024.md) — per questi motivi
-- **Sent. n. 105/2024** · dep. 2024-06-13 · massime: 6 → [scheda](2024/S_105_2024.md) — per questi motivi
-- **Sent. n. 104/2024** · dep. 2024-06-10 · massime: 1 → [scheda](2024/S_104_2024.md) — per questi motivi
+- **Sent. n. 105/2024** · dep. 2024-06-13 · massime: 6 · ★ Annuario (Attività strategiche - Tutela dell’ambiente) → [scheda](2024/S_105_2024.md) — per questi motivi
+- **Sent. n. 104/2024** · dep. 2024-06-10 · massime: 1 · ★ Annuario (Insindacabilità dei parlamentari Libertà nel mandato e rispetto della ) → [scheda](2024/S_104_2024.md) — per questi motivi
 - **Sent. n. 103/2024** · dep. 2024-06-07 · massime: 6 → [scheda](2024/S_103_2024.md) — per questi motivi
 - **Ord. n. 102/2024** · dep. 2024-06-04 · massime: 1 → [scheda](2024/O_102_2024.md) — per questi motivi
 - **Ord. n. 101/2024** · dep. 2024-06-04 · massime: 1 → [scheda](2024/O_101_2024.md) — per questi motivi
@@ -469,17 +469,17 @@
 - **Sent. n. 99/2024** · dep. 2024-06-04 · massime: 2 → [scheda](2024/S_99_2024.md) — per questi motivi
 - **Sent. n. 98/2024** · dep. 2024-06-04 · massime: 1 → [scheda](2024/S_98_2024.md) — per questi motivi
 - **Ord. n. 97/2024** · dep. 2024-06-03 · massime: 1 → [scheda](2024/O_97_2024.md) — per questi motivi
-- **Sent. n. 96/2024** · dep. 2024-06-03 · massime: 9 → [scheda](2024/S_96_2024.md) — per questi motivi
+- **Sent. n. 96/2024** · dep. 2024-06-03 · massime: 9 · ★ Annuario (Riforma Procedura Civile - Verifiche preliminari) → [scheda](2024/S_96_2024.md) — per questi motivi
 - **Sent. n. 95/2024** · dep. 2024-05-30 · massime: 8 → [scheda](2024/S_95_2024.md) — per questi motivi
 - **Sent. n. 94/2024** · dep. 2024-05-24 · massime: 2 → [scheda](2024/S_94_2024.md) — per questi motivi
 - **Sent. n. 93/2024** · dep. 2024-05-23 · massime: 3 → [scheda](2024/S_93_2024.md) — per questi motivi
 - **Ord. n. 92/2024** · dep. 2024-05-21 · massime: 1 → [scheda](2024/O_92_2024.md) — per questi motivi
-- **Sent. n. 91/2024** · dep. 2024-05-20 · massime: 1 → [scheda](2024/S_91_2024.md) — per questi motivi
+- **Sent. n. 91/2024** · dep. 2024-05-20 · massime: 1 · ★ Annuario (Pedopornografia - Modulazione della pena) → [scheda](2024/S_91_2024.md) — per questi motivi
 - **Sent. n. 90/2024** · dep. 2024-05-20 · massime: 2 → [scheda](2024/S_90_2024.md) — per questi motivi
 - **Sent. n. 89/2024** · dep. 2024-05-16 · massime: 1 → [scheda](2024/S_89_2024.md) — per questi motivi
 - **Sent. n. 88/2024** · dep. 2024-05-14 · massime: 2 → [scheda](2024/S_88_2024.md) — per questi motivi
 - **Sent. n. 87/2024** · dep. 2024-05-14 · massime: 1 → [scheda](2024/S_87_2024.md) — per questi motivi
-- **Sent. n. 86/2024** · dep. 2024-05-13 · massime: 3 → [scheda](2024/S_86_2024.md) — per questi motivi
+- **Sent. n. 86/2024** · dep. 2024-05-13 · massime: 3 · ★ Annuario (Tenuità del fatto - Proporzionalità della pena) → [scheda](2024/S_86_2024.md) — per questi motivi
 - **Sent. n. 85/2024** · dep. 2024-05-13 · massime: 4 → [scheda](2024/S_85_2024.md) — per questi motivi
 - **Sent. n. 84/2024** · dep. 2024-05-10 · massime: 4 → [scheda](2024/S_84_2024.md) — per questi motivi
 - **Sent. n. 83/2024** · dep. 2024-05-10 · massime: 3 → [scheda](2024/S_83_2024.md) — per questi motivi
@@ -499,69 +499,69 @@
 - **Sent. n. 69/2024** · dep. 2024-04-23 · massime: 2 → [scheda](2024/S_69_2024.md) — per questi motivi
 - **Sent. n. 68/2024** · dep. 2024-04-23 · massime: 3 → [scheda](2024/S_68_2024.md) — per questi motivi
 - **Sent. n. 67/2024** · dep. 2024-04-22 · massime: 2 → [scheda](2024/S_67_2024.md) — per questi motivi
-- **Sent. n. 66/2024** · dep. 2024-04-22 · massime: 5 → [scheda](2024/S_66_2024.md) — per questi motivi
+- **Sent. n. 66/2024** · dep. 2024-04-22 · massime: 5 · ★ Annuario (Rettificazione di sesso Non estinzione dei diritti della coppia) → [scheda](2024/S_66_2024.md) — per questi motivi
 - **Sent. n. 65/2024** · dep. 2024-04-19 · massime: 4 → [scheda](2024/S_65_2024.md) — per questi motivi
 - **Sent. n. 64/2024** · dep. 2024-04-19 · massime: 5 → [scheda](2024/S_64_2024.md) — per questi motivi
 - **Sent. n. 63/2024** · dep. 2024-04-19 · massime: 5 → [scheda](2024/S_63_2024.md) — per questi motivi
 - **Ord. n. 62/2024** · dep. 2024-04-18 · massime: 1 → [scheda](2024/O_62_2024.md) — per questi motivi
 - **Sent. n. 61/2024** · dep. 2024-04-18 · massime: 1 → [scheda](2024/S_61_2024.md) — per questi motivi
-- **Sent. n. 60/2024** · dep. 2024-04-18 · massime: 1 → [scheda](2024/S_60_2024.md) — per questi motivi
-- **Sent. n. 59/2024** · dep. 2024-04-18 · massime: 2 → [scheda](2024/S_59_2024.md) — per questi motivi
+- **Sent. n. 60/2024** · dep. 2024-04-18 · massime: 1 · ★ Annuario (Imu non dovuta - Immobili occupati) → [scheda](2024/S_60_2024.md) — per questi motivi
+- **Sent. n. 59/2024** · dep. 2024-04-18 · massime: 2 · ★ Annuario (Giudizio di conto - Ruolo dello Stato) → [scheda](2024/S_59_2024.md) — per questi motivi
 - **Sent. n. 58/2024** · dep. 2024-04-18 · massime: 2 → [scheda](2024/S_58_2024.md) — per questi motivi
 - **Sent. n. 57/2024** · dep. 2024-04-15 · massime: 3 → [scheda](2024/S_57_2024.md) — per questi motivi
 - **Ord. n. 56/2024** · dep. 2024-04-11 · massime: 1 → [scheda](2024/O_56_2024.md) — per questi motivi
 - **Sent. n. 55/2024** · dep. 2024-04-08 · massime: 1 → [scheda](2024/S_55_2024.md) — per questi motivi
 - **Sent. n. 54/2024** · dep. 2024-03-29 · massime: 6 → [scheda](2024/S_54_2024.md) — per questi motivi
-- **Sent. n. 53/2024** · dep. 2024-03-29 · massime: 4 → [scheda](2024/S_53_2024.md) — per questi motivi
+- **Sent. n. 53/2024** · dep. 2024-03-29 · massime: 4 · ★ Annuario (Diritti degli stranieri extra UE Accesso a mutui agevolati) → [scheda](2024/S_53_2024.md) — per questi motivi
 - **Sent. n. 52/2024** · dep. 2024-03-28 · massime: 1 → [scheda](2024/S_52_2024.md) — per questi motivi
 - **Sent. n. 51/2024** · dep. 2024-03-28 · massime: 3 → [scheda](2024/S_51_2024.md) — per questi motivi
 - **Sent. n. 50/2024** · dep. 2024-03-28 · massime: 1 → [scheda](2024/S_50_2024.md) — per questi motivi
-- **Sent. n. 49/2024** · dep. 2024-03-26 · massime: 4 → [scheda](2024/S_49_2024.md) — per questi motivi
-- **Sent. n. 48/2024** · dep. 2024-03-25 · massime: 1 → [scheda](2024/S_48_2024.md) — per questi motivi
-- **Sent. n. 47/2024** · dep. 2024-03-25 · massime: 3 → [scheda](2024/S_47_2024.md) — per questi motivi
-- **Sent. n. 46/2024** · dep. 2024-03-22 · massime: 2 → [scheda](2024/S_46_2024.md) — per questi motivi
-- **Sent. n. 45/2024** · dep. 2024-03-21 · massime: 2 → [scheda](2024/S_45_2024.md) — per questi motivi
+- **Sent. n. 49/2024** · dep. 2024-03-26 · massime: 4 · ★ Annuario (Sugar tax - Scelta ragionevole) → [scheda](2024/S_49_2024.md) — per questi motivi
+- **Sent. n. 48/2024** · dep. 2024-03-25 · massime: 1 · ★ Annuario (Incidenti sul lavoro - Responsabilità dei congiunti) → [scheda](2024/S_48_2024.md) — per questi motivi
+- **Sent. n. 47/2024** · dep. 2024-03-25 · massime: 3 · ★ Annuario (Daspo urbano (atto amministrativo) Provvedimento del questore) → [scheda](2024/S_47_2024.md) — per questi motivi
+- **Sent. n. 46/2024** · dep. 2024-03-22 · massime: 2 · ★ Annuario (Appropriazione indebita - Entità della pena minima) → [scheda](2024/S_46_2024.md) — per questi motivi
+- **Sent. n. 45/2024** · dep. 2024-03-21 · massime: 2 · ★ Annuario (Condotte riparatorie - Termini processuali) → [scheda](2024/S_45_2024.md) — per questi motivi
 - **Sent. n. 44/2024** · dep. 2024-03-19 · massime: 1 → [scheda](2024/S_44_2024.md) — per questi motivi
-- **Sent. n. 43/2024** · dep. 2024-03-19 · massime: 1 → [scheda](2024/S_43_2024.md) — per questi motivi
+- **Sent. n. 43/2024** · dep. 2024-03-19 · massime: 1 · ★ Annuario (Stranieri - Procedura di emersione - Reati di lieve entità) → [scheda](2024/S_43_2024.md) — per questi motivi
 - **Sent. n. 42/2024** · dep. 2024-03-14 · massime: 2 → [scheda](2024/S_42_2024.md) — per questi motivi
 - **Sent. n. 41/2024** · dep. 2024-03-11 · massime: 1 → [scheda](2024/S_41_2024.md) — per questi motivi
 - **Sent. n. 40/2024** · dep. 2024-03-11 · massime: 2 → [scheda](2024/S_40_2024.md) — per questi motivi
 - **Sent. n. 39/2024** · dep. 2024-03-11 · massime: 5 → [scheda](2024/S_39_2024.md) — per questi motivi
-- **Sent. n. 38/2024** · dep. 2024-03-08 · massime: 3 → [scheda](2024/S_38_2024.md) — per questi motivi
+- **Sent. n. 38/2024** · dep. 2024-03-08 · massime: 3 · ★ Annuario (Lavoro autonomo - Indennità di mobilità) → [scheda](2024/S_38_2024.md) — per questi motivi
 - **Sent. n. 37/2024** · dep. 2024-03-07 · massime: 2 → [scheda](2024/S_37_2024.md) — per questi motivi
 - **Sent. n. 36/2024** · dep. 2024-03-07 · massime: 2 → [scheda](2024/S_36_2024.md) — per questi motivi
 - **Ord. n. 35/2024** · dep. 2024-03-07 · massime: 5 → [scheda](2024/O_35_2024.md) — per questi motivi
 - **Ord. n. 34/2024** · dep. 2024-03-04 · massime: 1 → [scheda](2024/O_34_2024.md) — per questi motivi
 - **Ord. n. 33/2024** · dep. 2024-02-29 · massime: 2 → [scheda](2024/O_33_2024.md) — per questi motivi
-- **Sent. n. 32/2024** · dep. 2024-02-29 · massime: 3 → [scheda](2024/S_32_2024.md) — per questi motivi
+- **Sent. n. 32/2024** · dep. 2024-02-29 · massime: 3 · ★ Annuario (Assicurazioni sulla vita - Termine di prescrizione) → [scheda](2024/S_32_2024.md) — per questi motivi
 - **Sent. n. 31/2024** · dep. 2024-02-29 · massime: 5 → [scheda](2024/S_31_2024.md) — per questi motivi
 - **Ord. n. 30/2024** · dep. 2024-02-27 · massime: 4 → [scheda](2024/O_30_2024.md) — per questi motivi
-- **Ord. n. 29/2024** · dep. 2024-02-27 · massime: 4 → [scheda](2024/O_29_2024.md) — per questi motivi
+- **Ord. n. 29/2024** · dep. 2024-02-27 · massime: 4 · ★ Annuario (Diritti degli stranieri - Assegno sociale) → [scheda](2024/O_29_2024.md) — per questi motivi
 - **Sent. n. 28/2024** · dep. 2024-02-27 · massime: 4 → [scheda](2024/S_28_2024.md) — per questi motivi
 - **Sent. n. 27/2024** · dep. 2024-02-27 · massime: 4 → [scheda](2024/S_27_2024.md) — per questi motivi
-- **Sent. n. 26/2024** · dep. 2024-02-27 · massime: 1 → [scheda](2024/S_26_2024.md) — per questi motivi
+- **Sent. n. 26/2024** · dep. 2024-02-27 · massime: 1 · ★ Annuario (Rapporto numerico tra medici e assistiti) → [scheda](2024/S_26_2024.md) — per questi motivi
 - **Sent. n. 25/2024** · dep. 2024-02-26 · massime: 3 → [scheda](2024/S_25_2024.md) — per questi motivi
 - **Ord. n. 24/2024** · dep. 2024-02-23 · massime: 1 → [scheda](2024/O_24_2024.md) — per questi motivi
 - **Sent. n. 23/2024** · dep. 2024-02-23 · massime: 1 → [scheda](2024/S_23_2024.md) — per questi motivi
-- **Sent. n. 22/2024** · dep. 2024-02-22 · massime: 4 → [scheda](2024/S_22_2024.md) — per questi motivi
+- **Sent. n. 22/2024** · dep. 2024-02-22 · massime: 4 · ★ Annuario (Jobs act - Tutela reintegratoria) → [scheda](2024/S_22_2024.md) — per questi motivi
 - **Sent. n. 21/2024** · dep. 2024-02-20 · massime: 8 → [scheda](2024/S_21_2024.md) — per questi motivi
 - **Ord. n. 20/2024** · dep. 2024-02-19 · massime: 1 → [scheda](2024/O_20_2024.md) — per questi motivi
 - **Sent. n. 19/2024** · dep. 2024-02-19 · massime: 3 → [scheda](2024/S_19_2024.md) — per questi motivi
 - **Ord. n. 18/2024** · dep. 2024-02-15 · massime: 1 → [scheda](2024/O_18_2024.md) — per questi motivi
 - **Sent. n. 17/2024** · dep. 2024-02-15 · massime: 1 → [scheda](2024/S_17_2024.md) — per questi motivi
-- **Sent. n. 16/2024** · dep. 2024-02-15 · massime: 4 → [scheda](2024/S_16_2024.md) — per questi motivi
-- **Sent. n. 15/2024** · dep. 2024-02-12 · massime: 7 → [scheda](2024/S_15_2024.md) — per questi motivi
+- **Sent. n. 16/2024** · dep. 2024-02-15 · massime: 4 · ★ Annuario (Fermo pesca - Tutela specie ittiche) → [scheda](2024/S_16_2024.md) — per questi motivi
+- **Sent. n. 15/2024** · dep. 2024-02-12 · massime: 7 · ★ Annuario (Tutele dei diritti fondamentali - Dialogo tra le corti) → [scheda](2024/S_15_2024.md) — per questi motivi
 - **Ord. n. 14/2024** · dep. 2024-02-09 · massime: 1 → [scheda](2024/O_14_2024.md) — per questi motivi
 - **Sent. n. 13/2024** · dep. 2024-02-09 · massime: 1 → [scheda](2024/S_13_2024.md) — per questi motivi
 - **Sent. n. 12/2024** · dep. 2024-02-08 · massime: 1 → [scheda](2024/S_12_2024.md) — per questi motivi
 - **Ord. n. 11/2024** · dep. 2024-02-06 · massime: 1 → [scheda](2024/O_11_2024.md) — per questi motivi
-- **Sent. n. 10/2024** · dep. 2024-01-26 · massime: 1 → [scheda](2024/S_10_2024.md) — per questi motivi
-- **Sent. n. 9/2024** · dep. 2024-01-26 · massime: 5 → [scheda](2024/S_9_2024.md) — per questi motivi
+- **Sent. n. 10/2024** · dep. 2024-01-26 · massime: 1 · ★ Annuario (Affettività in carcere - Incontri e privacy) → [scheda](2024/S_10_2024.md) — per questi motivi
+- **Sent. n. 9/2024** · dep. 2024-01-26 · massime: 5 · ★ Annuario (Regioni a statuto speciale - Equilibrio di bilancio) → [scheda](2024/S_9_2024.md) — per questi motivi
 - **Sent. n. 8/2024** · dep. 2024-01-23 · massime: 3 → [scheda](2024/S_8_2024.md) — per questi motivi
 - **Sent. n. 7/2024** · dep. 2024-01-22 · massime: 8 → [scheda](2024/S_7_2024.md) — per questi motivi
 - **Sent. n. 6/2024** · dep. 2024-01-19 · massime: 3 → [scheda](2024/S_6_2024.md) — per questi motivi
-- **Sent. n. 5/2024** · dep. 2024-01-18 · massime: 1 → [scheda](2024/S_5_2024.md) — per questi motivi
-- **Sent. n. 4/2024** · dep. 2024-01-11 · massime: 2 → [scheda](2024/S_4_2024.md) — per questi motivi
+- **Sent. n. 5/2024** · dep. 2024-01-18 · massime: 1 · ★ Annuario (Adozioni - Età dei genitori) → [scheda](2024/S_5_2024.md) — per questi motivi
+- **Sent. n. 4/2024** · dep. 2024-01-11 · massime: 2 · ★ Annuario (Non retroattività - Civiltà giuridica) → [scheda](2024/S_4_2024.md) — per questi motivi
 - **Sent. n. 3/2024** · dep. 2024-01-08 · massime: 1 → [scheda](2024/S_3_2024.md) — per questi motivi
 - **Sent. n. 2/2024** · dep. 2024-01-04 · massime: 1 → [scheda](2024/S_2_2024.md) — per questi motivi
 - **Sent. n. 1/2024** · dep. 2024-01-04 · massime: 1 → [scheda](2024/S_1_2024.md) — per questi motivi
@@ -570,23 +570,23 @@
 
 - **Ord. n. 229/2023** · dep. 2023-12-28 · massime: 1 → [scheda](2023/O_229_2023.md) — per questi motivi
 - **Sent. n. 228/2023** · dep. 2023-12-28 · massime: 3 → [scheda](2023/S_228_2023.md) — per questi motivi
-- **Sent. n. 227/2023** · dep. 2023-12-28 · massime: 3 → [scheda](2023/S_227_2023.md) — per questi motivi
+- **Sent. n. 227/2023** · dep. 2023-12-28 · massime: 3 · ★ Annuario (Parlamento) → [scheda](2023/S_227_2023.md) — per questi motivi
 - **Ord. n. 226/2023** · dep. 2023-12-22 · massime: 1 → [scheda](2023/O_226_2023.md) — per questi motivi
 - **Sent. n. 225/2023** · dep. 2023-12-22 · massime: 2 → [scheda](2023/S_225_2023.md) — per questi motivi
 - **Sent. n. 224/2023** · dep. 2023-12-22 · massime: 6 → [scheda](2023/S_224_2023.md) — per questi motivi
-- **Sent. n. 223/2023** · dep. 2023-12-22 · massime: 10 → [scheda](2023/S_223_2023.md) — per questi motivi
-- **Sent. n. 222/2023** · dep. 2023-12-21 · massime: 1 → [scheda](2023/S_222_2023.md) — per questi motivi
+- **Sent. n. 223/2023** · dep. 2023-12-22 · massime: 10 · ★ Annuario (Sistema scolastico) → [scheda](2023/S_223_2023.md) — per questi motivi
+- **Sent. n. 222/2023** · dep. 2023-12-21 · massime: 1 · ★ Annuario (Procedura civile) → [scheda](2023/S_222_2023.md) — per questi motivi
 - **Sent. n. 221/2023** · dep. 2023-12-14 · massime: 7 → [scheda](2023/S_221_2023.md) — per questi motivi
 - **Sent. n. 220/2023** · dep. 2023-12-14 · massime: 3 → [scheda](2023/S_220_2023.md) — per questi motivi
 - **Sent. n. 219/2023** · dep. 2023-12-11 · massime: 2 → [scheda](2023/S_219_2023.md) — per questi motivi
 - **Sent. n. 218/2023** · dep. 2023-12-11 · massime: 5 → [scheda](2023/S_218_2023.md) — per questi motivi
 - **Sent. n. 217/2023** · dep. 2023-12-11 · massime: 3 → [scheda](2023/S_217_2023.md) — per questi motivi
-- **Sent. n. 216/2023** · dep. 2023-12-11 · massime: 1 → [scheda](2023/S_216_2023.md) — per questi motivi
-- **Sent. n. 215/2023** · dep. 2023-12-11 · massime: 2 → [scheda](2023/S_215_2023.md) — per questi motivi
+- **Sent. n. 216/2023** · dep. 2023-12-11 · massime: 1 · ★ Annuario (Ordinamento militare) → [scheda](2023/S_216_2023.md) — per questi motivi
+- **Sent. n. 215/2023** · dep. 2023-12-11 · massime: 2 · ★ Annuario (Decretazione d'urgenza) → [scheda](2023/S_215_2023.md) — per questi motivi
 - **Ord. n. 214/2023** · dep. 2023-12-04 · massime: 1 → [scheda](2023/O_214_2023.md) — per questi motivi
 - **Ord. n. 213/2023** · dep. 2023-12-04 · massime: 1 → [scheda](2023/O_213_2023.md) — per questi motivi
 - **Sent. n. 212/2023** · dep. 2023-12-04 · massime: 4 → [scheda](2023/S_212_2023.md) — per questi motivi
-- **Sent. n. 211/2023** · dep. 2023-12-04 · massime: 2 → [scheda](2023/S_211_2023.md) — per questi motivi
+- **Sent. n. 211/2023** · dep. 2023-12-04 · massime: 2 · ★ Annuario (Pari opportUnità) → [scheda](2023/S_211_2023.md) — per questi motivi
 - **Ord. n. 210/2023** · dep. 2023-11-30 · massime: 1 → [scheda](2023/O_210_2023.md) — per questi motivi
 - **Sent. n. 209/2023** · dep. 2023-11-24 · massime: 3 → [scheda](2023/S_209_2023.md) — per questi motivi
 - **Sent. n. 208/2023** · dep. 2023-11-24 · massime: 1 → [scheda](2023/S_208_2023.md) — per questi motivi
@@ -600,12 +600,12 @@
 - **Sent. n. 200/2023** · dep. 2023-11-06 · massime: 7 → [scheda](2023/S_200_2023.md) — per questi motivi
 - **Ord. n. 199/2023** · dep. 2023-11-03 · massime: 2 → [scheda](2023/O_199_2023.md) — per questi motivi
 - **Sent. n. 198/2023** · dep. 2023-10-30 · massime: 4 → [scheda](2023/S_198_2023.md) — per questi motivi
-- **Sent. n. 197/2023** · dep. 2023-10-30 · massime: 4 → [scheda](2023/S_197_2023.md) — per questi motivi
+- **Sent. n. 197/2023** · dep. 2023-10-30 · massime: 4 · ★ Annuario (Reati e pene) → [scheda](2023/S_197_2023.md) — per questi motivi
 - **Ord. n. 196/2023** · dep. 2023-10-27 · massime: 2 → [scheda](2023/O_196_2023.md) — per questi motivi
-- **Sent. n. 195/2023** · dep. 2023-10-27 · massime: 2 → [scheda](2023/S_195_2023.md) — per questi motivi
-- **Sent. n. 194/2023** · dep. 2023-10-27 · massime: 6 → [scheda](2023/S_194_2023.md) — per questi motivi
+- **Sent. n. 195/2023** · dep. 2023-10-27 · massime: 2 · ★ Annuario (Sicurezza stradale patente) → [scheda](2023/S_195_2023.md) — per questi motivi
+- **Sent. n. 194/2023** · dep. 2023-10-27 · massime: 6 · ★ Annuario (Sicurezza stradale patente) → [scheda](2023/S_194_2023.md) — per questi motivi
 - **Sent. n. 193/2023** · dep. 2023-10-27 · massime: 9 → [scheda](2023/S_193_2023.md) — per questi motivi
-- **Sent. n. 192/2023** · dep. 2023-10-26 · massime: 3 → [scheda](2023/S_192_2023.md) — per questi motivi
+- **Sent. n. 192/2023** · dep. 2023-10-26 · massime: 3 · ★ Annuario (Procedura penale) → [scheda](2023/S_192_2023.md) — per questi motivi
 - **Ord. n. 191/2023** · dep. 2023-10-17 · massime: 1 → [scheda](2023/O_191_2023.md) — per questi motivi
 - **Sent. n. 190/2023** · dep. 2023-10-17 · massime: 3 → [scheda](2023/S_190_2023.md) — per questi motivi
 - **Sent. n. 189/2023** · dep. 2023-10-17 · massime: 1 → [scheda](2023/S_189_2023.md) — per questi motivi
@@ -613,8 +613,8 @@
 - **Ord. n. 187/2023** · dep. 2023-10-10 · massime: 1 → [scheda](2023/O_187_2023.md) — per questi motivi
 - **Sent. n. 186/2023** · dep. 2023-10-09 · massime: 4 → [scheda](2023/S_186_2023.md) — per questi motivi
 - **Sent. n. 185/2023** · dep. 2023-10-05 · massime: 2 → [scheda](2023/S_185_2023.md) — per questi motivi
-- **Sent. n. 184/2023** · dep. 2023-09-29 · massime: 3 → [scheda](2023/S_184_2023.md) — per questi motivi
-- **Sent. n. 183/2023** · dep. 2023-09-28 · massime: 3 → [scheda](2023/S_183_2023.md) — per questi motivi
+- **Sent. n. 184/2023** · dep. 2023-09-29 · massime: 3 · ★ Annuario (Federazioni sportive Organi Direttivi) → [scheda](2023/S_184_2023.md) — per questi motivi
+- **Sent. n. 183/2023** · dep. 2023-09-28 · massime: 3 · ★ Annuario (Adozioni) → [scheda](2023/S_183_2023.md) — per questi motivi
 - **Sent. n. 182/2023** · dep. 2023-09-28 · massime: 1 → [scheda](2023/S_182_2023.md) — per questi motivi
 - **Sent. n. 181/2023** · dep. 2023-09-26 · massime: 2 → [scheda](2023/S_181_2023.md) — per questi motivi
 - **Ord. n. 180/2023** · dep. 2023-07-28 · massime: 1 → [scheda](2023/O_180_2023.md) — per questi motivi
@@ -627,20 +627,20 @@
 - **Sent. n. 173/2023** · dep. 2023-07-27 · massime: 3 → [scheda](2023/S_173_2023.md) — per questi motivi
 - **Sent. n. 172/2023** · dep. 2023-07-27 · massime: 2 → [scheda](2023/S_172_2023.md) — per questi motivi
 - **Sent. n. 171/2023** · dep. 2023-07-27 · massime: 3 → [scheda](2023/S_171_2023.md) — per questi motivi
-- **Sent. n. 170/2023** · dep. 2023-07-27 · massime: 2 → [scheda](2023/S_170_2023.md) — per questi motivi
+- **Sent. n. 170/2023** · dep. 2023-07-27 · massime: 2 · ★ Annuario (Parlamento) → [scheda](2023/S_170_2023.md) — per questi motivi
 - **Sent. n. 169/2023** · dep. 2023-07-27 · massime: 3 → [scheda](2023/S_169_2023.md) — per questi motivi
 - **Sent. n. 168/2023** · dep. 2023-07-27 · massime: 1 → [scheda](2023/S_168_2023.md) — per questi motivi
 - **Sent. n. 167/2023** · dep. 2023-07-27 · massime: 2 → [scheda](2023/S_167_2023.md) — per questi motivi
 - **Sent. n. 166/2023** · dep. 2023-07-27 · massime: 1 → [scheda](2023/S_166_2023.md) — per questi motivi
-- **Sent. n. 165/2023** · dep. 2023-07-27 · massime: 2 → [scheda](2023/S_165_2023.md) — per questi motivi
+- **Sent. n. 165/2023** · dep. 2023-07-27 · massime: 2 · ★ Annuario (Finanza pubblica) → [scheda](2023/S_165_2023.md) — per questi motivi
 - **Sent. n. 164/2023** · dep. 2023-07-27 · massime: 6 → [scheda](2023/S_164_2023.md) — per questi motivi
 - **Sent. n. 163/2023** · dep. 2023-07-27 · massime: 9 → [scheda](2023/S_163_2023.md) — per questi motivi
 - **Ord. n. 162/2023** · dep. 2023-07-25 · massime: 1 → [scheda](2023/O_162_2023.md) — per questi motivi
-- **Sent. n. 161/2023** · dep. 2023-07-24 · massime: 10 → [scheda](2023/S_161_2023.md) — per questi motivi
+- **Sent. n. 161/2023** · dep. 2023-07-24 · massime: 10 · ★ Annuario (Procreazione medicalmente assistita) → [scheda](2023/S_161_2023.md) — per questi motivi
 - **Sent. n. 160/2023** · dep. 2023-07-24 · massime: 1 → [scheda](2023/S_160_2023.md) — per questi motivi
-- **Sent. n. 159/2023** · dep. 2023-07-21 · massime: 2 → [scheda](2023/S_159_2023.md) — per questi motivi
+- **Sent. n. 159/2023** · dep. 2023-07-21 · massime: 2 · ★ Annuario (Crimini di guerra e contro l'umanità) → [scheda](2023/S_159_2023.md) — per questi motivi
 - **Ord. n. 158/2023** · dep. 2023-07-20 · massime: 1 → [scheda](2023/O_158_2023.md) — per questi motivi
-- **Sent. n. 157/2023** · dep. 2023-07-20 · massime: 4 → [scheda](2023/S_157_2023.md) — per questi motivi
+- **Sent. n. 157/2023** · dep. 2023-07-20 · massime: 4 · ★ Annuario (Parlamento) → [scheda](2023/S_157_2023.md) — per questi motivi
 - **Sent. n. 156/2023** · dep. 2023-07-20 · massime: 4 → [scheda](2023/S_156_2023.md) — per questi motivi
 - **Sent. n. 155/2023** · dep. 2023-07-20 · massime: 6 → [scheda](2023/S_155_2023.md) — per questi motivi
 - **Ord. n. 154/2023** · dep. 2023-07-18 · massime: 1 → [scheda](2023/O_154_2023.md) — per questi motivi
@@ -654,20 +654,20 @@
 - **Sent. n. 146/2023** · dep. 2023-07-17 · massime: 1 → [scheda](2023/S_146_2023.md) — per questi motivi
 - **Sent. n. 145/2023** · dep. 2023-07-17 · massime: 3 → [scheda](2023/S_145_2023.md) — per questi motivi
 - **Sent. n. 144/2023** · dep. 2023-07-13 · massime: 1 → [scheda](2023/S_144_2023.md) — per questi motivi
-- **Sent. n. 143/2023** · dep. 2023-07-13 · massime: 1 → [scheda](2023/S_143_2023.md) — per questi motivi
+- **Sent. n. 143/2023** · dep. 2023-07-13 · massime: 1 · ★ Annuario (Personale di volo) → [scheda](2023/S_143_2023.md) — per questi motivi
 - **Sent. n. 142/2023** · dep. 2023-07-13 · massime: 3 → [scheda](2023/S_142_2023.md) — per questi motivi
 - **Sent. n. 141/2023** · dep. 2023-07-11 · massime: 1 → [scheda](2023/S_141_2023.md) — per questi motivi LA CORTE COSTITUZIONALE dichiara l'illegittimità costituzionale dell'art. 69, quarto comma, 
 - **Sent. n. 140/2023** · dep. 2023-07-11 · massime: 3 → [scheda](2023/S_140_2023.md) — per questi motivi LA CORTE COSTITUZIONALE 1) dichiara l'illegittimità costituzionale dell'art. 3, comma 2, ter
 - **Sent. n. 139/2023** · dep. 2023-07-10 · massime: 4 → [scheda](2023/S_139_2023.md) — per questi motivi
-- **Sent. n. 138/2023** · dep. 2023-07-10 · massime: 3 → [scheda](2023/S_138_2023.md) — per questi motivi
+- **Sent. n. 138/2023** · dep. 2023-07-10 · massime: 3 · ★ Annuario (Fonti del diritto) → [scheda](2023/S_138_2023.md) — per questi motivi
 - **Sent. n. 137/2023** · dep. 2023-07-06 · massime: 2 → [scheda](2023/S_137_2023.md) — per questi motivi
 - **Sent. n. 136/2023** · dep. 2023-07-06 · massime: 3 → [scheda](2023/S_136_2023.md) — per questi motivi
-- **Sent. n. 135/2023** · dep. 2023-07-04 · massime: 3 → [scheda](2023/S_135_2023.md) — per questi motivi
+- **Sent. n. 135/2023** · dep. 2023-07-04 · massime: 3 · ★ Annuario (Adozioni) → [scheda](2023/S_135_2023.md) — per questi motivi
 - **Sent. n. 134/2023** · dep. 2023-07-04 · massime: 5 → [scheda](2023/S_134_2023.md) — per questi motivi
 - **Sent. n. 133/2023** · dep. 2023-06-30 · massime: 3 → [scheda](2023/S_133_2023.md) — per questi motivi
 - **Sent. n. 132/2023** · dep. 2023-06-27 · massime: 1 → [scheda](2023/S_132_2023.md) — per questi motivi
 - **Ord. n. 131/2023** · dep. 2023-06-26 · massime: 1 → [scheda](2023/O_131_2023.md) — per questi motivi
-- **Sent. n. 130/2023** · dep. 2023-06-23 · massime: 1 → [scheda](2023/S_130_2023.md) — per questi motivi
+- **Sent. n. 130/2023** · dep. 2023-06-23 · massime: 1 · ★ Annuario (Trattamenti di fine servizio) → [scheda](2023/S_130_2023.md) — per questi motivi
 - **Sent. n. 129/2023** · dep. 2023-06-23 · massime: 1 → [scheda](2023/S_129_2023.md) — per questi motivi
 - **Sent. n. 128/2023** · dep. 2023-06-23 · massime: 1 → [scheda](2023/S_128_2023.md) — per questi motivi
 - **Sent. n. 127/2023** · dep. 2023-06-23 · massime: 2 → [scheda](2023/S_127_2023.md) — per questi motivi
@@ -678,7 +678,7 @@
 - **Sent. n. 122/2023** · dep. 2023-06-16 · massime: 1 → [scheda](2023/S_122_2023.md) — per questi motivi
 - **Sent. n. 121/2023** · dep. 2023-06-15 · massime: 4 → [scheda](2023/S_121_2023.md) — per questi motivi
 - **Sent. n. 120/2023** · dep. 2023-06-15 · massime: 3 → [scheda](2023/S_120_2023.md) — per questi motivi
-- **Sent. n. 119/2023** · dep. 2023-06-15 · massime: 1 → [scheda](2023/S_119_2023.md) — per questi motivi
+- **Sent. n. 119/2023** · dep. 2023-06-15 · massime: 1 · ★ Annuario (Usi civici) → [scheda](2023/S_119_2023.md) — per questi motivi
 - **Sent. n. 118/2023** · dep. 2023-06-15 · massime: 2 → [scheda](2023/S_118_2023.md) — per questi motivi
 - **Ord. n. 117/2023** · dep. 2023-06-13 · massime: 1 → [scheda](2023/O_117_2023.md) — per questi motivi
 - **Sent. n. 116/2023** · dep. 2023-06-13 · massime: 3 → [scheda](2023/S_116_2023.md) — per questi motivi
@@ -686,17 +686,17 @@
 - **Sent. n. 114/2023** · dep. 2023-06-08 · massime: 1 → [scheda](2023/S_114_2023.md) — per questi motivi
 - **Sent. n. 113/2023** · dep. 2023-06-06 · massime: 2 → [scheda](2023/S_113_2023.md) — per questi motivi
 - **Sent. n. 112/2023** · dep. 2023-06-06 · massime: 5 → [scheda](2023/S_112_2023.md) — per questi motivi
-- **Sent. n. 111/2023** · dep. 2023-06-05 · massime: 4 → [scheda](2023/S_111_2023.md) — per questi motivi
-- **Sent. n. 110/2023** · dep. 2023-06-05 · massime: 4 → [scheda](2023/S_110_2023.md) — per questi motivi
+- **Sent. n. 111/2023** · dep. 2023-06-05 · massime: 4 · ★ Annuario (Procedura penale) → [scheda](2023/S_111_2023.md) — per questi motivi
+- **Sent. n. 110/2023** · dep. 2023-06-05 · massime: 4 · ★ Annuario (Legislazione) → [scheda](2023/S_110_2023.md) — per questi motivi
 - **Sent. n. 109/2023** · dep. 2023-06-01 · massime: 1 → [scheda](2023/S_109_2023.md) — per questi motivi
-- **Sent. n. 108/2023** · dep. 2023-06-01 · massime: 4 → [scheda](2023/S_108_2023.md) — per questi motivi
+- **Sent. n. 108/2023** · dep. 2023-06-01 · massime: 4 · ★ Annuario (Banche) → [scheda](2023/S_108_2023.md) — per questi motivi
 - **Sent. n. 107/2023** · dep. 2023-06-01 · massime: 1 → [scheda](2023/S_107_2023.md) — per questi motivi
 - **Ord. n. 106/2023** · dep. 2023-05-29 · massime: 3 → [scheda](2023/O_106_2023.md) — per questi motivi
-- **Sent. n. 105/2023** · dep. 2023-05-26 · massime: 3 → [scheda](2023/S_105_2023.md) — per questi motivi
+- **Sent. n. 105/2023** · dep. 2023-05-26 · massime: 3 · ★ Annuario (Detenuti 41-Bis) → [scheda](2023/S_105_2023.md) — per questi motivi
 - **Sent. n. 104/2023** · dep. 2023-05-25 · massime: 2 → [scheda](2023/S_104_2023.md) — per questi motivi
 - **Sent. n. 103/2023** · dep. 2023-05-25 · massime: 3 → [scheda](2023/S_103_2023.md) — per questi motivi
 - **Sent. n. 102/2023** · dep. 2023-05-25 · massime: 1 → [scheda](2023/S_102_2023.md) — per questi motivi
-- **Sent. n. 101/2023** · dep. 2023-05-23 · massime: 4 → [scheda](2023/S_101_2023.md) — per questi motivi
+- **Sent. n. 101/2023** · dep. 2023-05-23 · massime: 4 · ★ Annuario (Interdittiva antimafia) → [scheda](2023/S_101_2023.md) — per questi motivi
 - **Sent. n. 100/2023** · dep. 2023-05-22 · massime: 5 → [scheda](2023/S_100_2023.md) — per questi motivi
 - **Sent. n. 99/2023** · dep. 2023-05-18 · massime: 3 → [scheda](2023/S_99_2023.md) — per questi motivi
 - **Sent. n. 98/2023** · dep. 2023-05-18 · massime: 3 → [scheda](2023/S_98_2023.md) — per questi motivi
@@ -705,15 +705,15 @@
 - **Ord. n. 95/2023** · dep. 2023-05-12 · massime: 1 → [scheda](2023/O_95_2023.md) — per questi motivi
 - **Sent. n. 94/2023** · dep. 2023-05-12 · massime: 1 → [scheda](2023/S_94_2023.md) — per questi motivi
 - **Sent. n. 93/2023** · dep. 2023-05-12 · massime: 2 → [scheda](2023/S_93_2023.md) — per questi motivi
-- **Sent. n. 92/2023** · dep. 2023-05-11 · massime: 8 → [scheda](2023/S_92_2023.md) — per questi motivi
+- **Sent. n. 92/2023** · dep. 2023-05-11 · massime: 8 · ★ Annuario (Pubblica amministrazione) → [scheda](2023/S_92_2023.md) — per questi motivi
 - **Sent. n. 91/2023** · dep. 2023-05-09 · massime: 1 → [scheda](2023/S_91_2023.md) — per questi motivi
 - **Sent. n. 90/2023** · dep. 2023-05-09 · massime: 23 → [scheda](2023/S_90_2023.md) — per questi motivi
 - **Sent. n. 89/2023** · dep. 2023-05-08 · massime: 4 → [scheda](2023/S_89_2023.md) — per questi motivi
-- **Sent. n. 88/2023** · dep. 2023-05-08 · massime: 2 → [scheda](2023/S_88_2023.md) — per questi motivi
+- **Sent. n. 88/2023** · dep. 2023-05-08 · massime: 2 · ★ Annuario (Permesso di soggiorno) → [scheda](2023/S_88_2023.md) — per questi motivi
 - **Ord. n. 87/2023** · dep. 2023-05-04 · massime: 2 → [scheda](2023/O_87_2023.md) — per questi motivi
 - **Ord. n. 86/2023** · dep. 2023-05-04 · massime: 1 → [scheda](2023/O_86_2023.md) — per questi motivi
 - **Sent. n. 85/2023** · dep. 2023-05-04 · massime: 1 → [scheda](2023/S_85_2023.md) — per questi motivi
-- **Sent. n. 84/2023** · dep. 2023-05-04 · massime: 6 → [scheda](2023/S_84_2023.md) — per questi motivi
+- **Sent. n. 84/2023** · dep. 2023-05-04 · massime: 6 · ★ Annuario (Lavoro pubblico) → [scheda](2023/S_84_2023.md) — per questi motivi
 - **Ord. n. 83/2023** · dep. 2023-05-02 · massime: 1 → [scheda](2023/O_83_2023.md) — per questi motivi
 - **Sent. n. 82/2023** · dep. 2023-05-02 · massime: 2 → [scheda](2023/S_82_2023.md) — per questi motivi
 - **Sent. n. 81/2023** · dep. 2023-05-02 · massime: 3 → [scheda](2023/S_81_2023.md) — per questi motivi
@@ -722,13 +722,13 @@
 - **Ord. n. 78/2023** · dep. 2023-04-20 · massime: 2 → [scheda](2023/O_78_2023.md) — per questi motivi
 - **Sent. n. 77/2023** · dep. 2023-04-20 · massime: 2 → [scheda](2023/S_77_2023.md) — per questi motivi
 - **Sent. n. 76/2023** · dep. 2023-04-20 · massime: 6 → [scheda](2023/S_76_2023.md) — per questi motivi
-- **Sent. n. 75/2023** · dep. 2023-04-18 · massime: 2 → [scheda](2023/S_75_2023.md) — per questi motivi
+- **Sent. n. 75/2023** · dep. 2023-04-18 · massime: 2 · ★ Annuario (AgricolTura) → [scheda](2023/S_75_2023.md) — per questi motivi
 - **Sent. n. 74/2023** · dep. 2023-04-17 · massime: 2 → [scheda](2023/S_74_2023.md) — per questi motivi
 - **Sent. n. 73/2023** · dep. 2023-04-17 · massime: 4 → [scheda](2023/S_73_2023.md) — per questi motivi
 - **Ord. n. 72/2023** · dep. 2023-04-14 · massime: 1 → [scheda](2023/O_72_2023.md) — per questi motivi
 - **Sent. n. 71/2023** · dep. 2023-04-14 · massime: 3 → [scheda](2023/S_71_2023.md) — per questi motivi
-- **Sent. n. 70/2023** · dep. 2023-04-14 · massime: 10 → [scheda](2023/S_70_2023.md) — per questi motivi
-- **Sent. n. 69/2023** · dep. 2023-04-13 · massime: 3 → [scheda](2023/S_69_2023.md) — per questi motivi
+- **Sent. n. 70/2023** · dep. 2023-04-14 · massime: 10 · ★ Annuario (Finanza pubblica) → [scheda](2023/S_70_2023.md) — per questi motivi
+- **Sent. n. 69/2023** · dep. 2023-04-13 · massime: 3 · ★ Annuario (Ordine pubblico e sicurezza) → [scheda](2023/S_69_2023.md) — per questi motivi
 - **Sent. n. 68/2023** · dep. 2023-04-13 · massime: 2 → [scheda](2023/S_68_2023.md) — per questi motivi
 - **Sent. n. 67/2023** · dep. 2023-04-11 · massime: 5 → [scheda](2023/S_67_2023.md) — per questi motivi
 - **Sent. n. 66/2023** · dep. 2023-04-11 · massime: 2 → [scheda](2023/S_66_2023.md) — per questi motivi
@@ -737,7 +737,7 @@
 - **Sent. n. 63/2023** · dep. 2023-04-07 · massime: 3 → [scheda](2023/S_63_2023.md) — per questi motivi
 - **Ord. n. 62/2023** · dep. 2023-04-06 · massime: 1 → [scheda](2023/O_62_2023.md) — per questi motivi
 - **Sent. n. 61/2023** · dep. 2023-04-06 · massime: 1 → [scheda](2023/S_61_2023.md) — per questi motivi
-- **Sent. n. 60/2023** · dep. 2023-04-06 · massime: 2 → [scheda](2023/S_60_2023.md) — per questi motivi
+- **Sent. n. 60/2023** · dep. 2023-04-06 · massime: 2 · ★ Annuario (Enti locali) → [scheda](2023/S_60_2023.md) — per questi motivi
 - **Sent. n. 59/2023** · dep. 2023-04-04 · massime: 2 → [scheda](2023/S_59_2023.md) — per questi motivi
 - **Sent. n. 58/2023** · dep. 2023-04-03 · massime: 6 → [scheda](2023/S_58_2023.md) — per questi motivi
 - **Sent. n. 57/2023** · dep. 2023-03-31 · massime: 7 → [scheda](2023/S_57_2023.md) — per questi motivi
@@ -750,14 +750,14 @@
 - **Sent. n. 50/2023** · dep. 2023-03-24 · massime: 3 → [scheda](2023/S_50_2023.md) — per questi motivi
 - **Ord. n. 49/2023** · dep. 2023-03-23 · massime: 1 → [scheda](2023/O_49_2023.md) — per questi motivi
 - **Sent. n. 48/2023** · dep. 2023-03-23 · massime: 8 → [scheda](2023/S_48_2023.md) — per questi motivi
-- **Sent. n. 47/2023** · dep. 2023-03-21 · massime: 1 → [scheda](2023/S_47_2023.md) — per questi motivi
-- **Sent. n. 46/2023** · dep. 2023-03-17 · massime: 6 → [scheda](2023/S_46_2023.md) — per questi motivi
+- **Sent. n. 47/2023** · dep. 2023-03-21 · massime: 1 · ★ Annuario (Tributi) → [scheda](2023/S_47_2023.md) — per questi motivi
+- **Sent. n. 46/2023** · dep. 2023-03-17 · massime: 6 · ★ Annuario (Tributi) → [scheda](2023/S_46_2023.md) — per questi motivi
 - **Sent. n. 45/2023** · dep. 2023-03-17 · massime: 1 → [scheda](2023/S_45_2023.md) — per questi motivi
 - **Sent. n. 44/2023** · dep. 2023-03-17 · massime: 6 → [scheda](2023/S_44_2023.md) — per questi motivi
 - **Ord. n. 43/2023** · dep. 2023-03-16 · massime: 1 → [scheda](2023/O_43_2023.md) — per questi motivi
 - **Sent. n. 42/2023** · dep. 2023-03-16 · massime: 2 → [scheda](2023/S_42_2023.md) — per questi motivi
 - **Sent. n. 41/2023** · dep. 2023-03-16 · massime: 6 → [scheda](2023/S_41_2023.md) — per questi motivi
-- **Sent. n. 40/2023** · dep. 2023-03-10 · massime: 3 → [scheda](2023/S_40_2023.md) — per questi motivi
+- **Sent. n. 40/2023** · dep. 2023-03-10 · massime: 3 · ★ Annuario (Sanzioni amministrative) → [scheda](2023/S_40_2023.md) — per questi motivi
 - **Ord. n. 39/2023** · dep. 2023-03-09 · massime: 1 → [scheda](2023/O_39_2023.md) — per questi motivi
 - **Ord. n. 38/2023** · dep. 2023-03-09 · massime: 1 → [scheda](2023/O_38_2023.md) — per questi motivi
 - **Ord. n. 37/2023** · dep. 2023-03-06 · massime: 1 → [scheda](2023/O_37_2023.md) — per questi motivi
@@ -765,7 +765,7 @@
 - **Sent. n. 35/2023** · dep. 2023-03-06 · massime: 5 → [scheda](2023/S_35_2023.md) — per questi motivi
 - **Ord. n. 34/2023** · dep. 2023-03-02 · massime: 1 → [scheda](2023/O_34_2023.md) — per questi motivi
 - **Sent. n. 33/2023** · dep. 2023-02-28 · massime: 1 → [scheda](2023/S_33_2023.md) — per questi motivi
-- **Sent. n. 32/2023** · dep. 2023-02-28 · massime: 3 → [scheda](2023/S_32_2023.md) — per questi motivi
+- **Sent. n. 32/2023** · dep. 2023-02-28 · massime: 3 · ★ Annuario (StruttuRe sanitarie) → [scheda](2023/S_32_2023.md) — per questi motivi
 - **Ord. n. 31/2023** · dep. 2023-02-24 · massime: 2 → [scheda](2023/O_31_2023.md) — per questi motivi
 - **Ord. n. 30/2023** · dep. 2023-02-24 · massime: 1 → [scheda](2023/O_30_2023.md) — per questi motivi
 - **Sent. n. 29/2023** · dep. 2023-02-24 · massime: 1 → [scheda](2023/S_29_2023.md) — per questi motivi
@@ -780,10 +780,10 @@
 - **Sent. n. 20/2023** · dep. 2023-02-14 · massime: 2 → [scheda](2023/S_20_2023.md) — per questi motivi
 - **Sent. n. 19/2023** · dep. 2023-02-14 · massime: 1 → [scheda](2023/S_19_2023.md) — per questi motivi
 - **Sent. n. 18/2023** · dep. 2023-02-10 · massime: 3 → [scheda](2023/S_18_2023.md) — per questi motivi
-- **Sent. n. 17/2023** · dep. 2023-02-10 · massime: 6 → [scheda](2023/S_17_2023.md) — per questi motivi
-- **Sent. n. 16/2023** · dep. 2023-02-09 · massime: 1 → [scheda](2023/S_16_2023.md) — per questi motivi
-- **Sent. n. 15/2023** · dep. 2023-02-09 · massime: 5 → [scheda](2023/S_15_2023.md) — per questi motivi
-- **Sent. n. 14/2023** · dep. 2023-02-09 · massime: 4 → [scheda](2023/S_14_2023.md) — per questi motivi
+- **Sent. n. 17/2023** · dep. 2023-02-10 · massime: 6 · ★ Annuario (Edilizia E urbanistica) → [scheda](2023/S_17_2023.md) — per questi motivi
+- **Sent. n. 16/2023** · dep. 2023-02-09 · massime: 1 · ★ Annuario (Vaccini) → [scheda](2023/S_16_2023.md) — per questi motivi
+- **Sent. n. 15/2023** · dep. 2023-02-09 · massime: 5 · ★ Annuario (Vaccini) → [scheda](2023/S_15_2023.md) — per questi motivi
+- **Sent. n. 14/2023** · dep. 2023-02-09 · massime: 4 · ★ Annuario (Vaccini) → [scheda](2023/S_14_2023.md) — per questi motivi
 - **Ord. n. 13/2023** · dep. 2023-02-07 · massime: 2 → [scheda](2023/O_13_2023.md) — per questi motivi
 - **Sent. n. 12/2023** · dep. 2023-02-02 · massime: 3 → [scheda](2023/S_12_2023.md) — per questi motivi
 - **Sent. n. 11/2023** · dep. 2023-02-02 · massime: 1 → [scheda](2023/S_11_2023.md) — per questi motivi
@@ -791,11 +791,11 @@
 - **Sent. n. 9/2023** · dep. 2023-01-30 · massime: 2 → [scheda](2023/S_9_2023.md) — per questi motivi
 - **Sent. n. 8/2023** · dep. 2023-01-27 · massime: 3 → [scheda](2023/S_8_2023.md) — per questi motivi
 - **Sent. n. 7/2023** · dep. 2023-01-27 · massime: 2 → [scheda](2023/S_7_2023.md) — per questi motivi
-- **Sent. n. 6/2023** · dep. 2023-01-26 · massime: 29 → [scheda](2023/S_6_2023.md) — per questi motivi
+- **Sent. n. 6/2023** · dep. 2023-01-26 · massime: 29 · ★ Annuario (InfrastRutture) → [scheda](2023/S_6_2023.md) — per questi motivi
 - **Sent. n. 5/2023** · dep. 2023-01-24 · massime: 5 → [scheda](2023/S_5_2023.md) — per questi motivi
 - **Ord. n. 4/2023** · dep. 2023-01-23 · massime: 1 → [scheda](2023/O_4_2023.md) — per questi motivi
 - **Sent. n. 3/2023** · dep. 2023-01-20 · massime: 1 → [scheda](2023/S_3_2023.md) — per questi motivi
-- **Sent. n. 2/2023** · dep. 2023-01-12 · massime: 2 → [scheda](2023/S_2_2023.md) — per questi motivi
+- **Sent. n. 2/2023** · dep. 2023-01-12 · massime: 2 · ★ Annuario (Misure di prevenzione) → [scheda](2023/S_2_2023.md) — per questi motivi
 - **Ord. n. 1/2023** · dep. 2023-01-10 · massime: 2 → [scheda](2023/O_1_2023.md) — per questi motivi
 
 ## 2022 (270 pronunce)
@@ -807,49 +807,49 @@
 - **Sent. n. 266/2022** · dep. 2022-12-22 · massime: 4 → [scheda](2022/S_266_2022.md) — per questi motivi
 - **Sent. n. 265/2022** · dep. 2022-12-22 · massime: 1 → [scheda](2022/S_265_2022.md) — per questi motivi
 - **Sent. n. 264/2022** · dep. 2022-12-22 · massime: 1 → [scheda](2022/S_264_2022.md) — per questi motivi
-- **Sent. n. 263/2022** · dep. 2022-12-22 · massime: 3 → [scheda](2022/S_263_2022.md) — per questi motivi
+- **Sent. n. 263/2022** · dep. 2022-12-22 · massime: 3 · ★ Annuario (Mutui) → [scheda](2022/S_263_2022.md) — per questi motivi
 - **Sent. n. 262/2022** · dep. 2022-12-22 · massime: 1 → [scheda](2022/S_262_2022.md) — per questi motivi
-- **Ord. n. 261/2022** · dep. 2022-12-20 · massime: 2 → [scheda](2022/O_261_2022.md) — per questi motivi
+- **Ord. n. 261/2022** · dep. 2022-12-20 · massime: 2 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_261_2022.md) — per questi motivi
 - **Sent. n. 260/2022** · dep. 2022-12-20 · massime: 2 → [scheda](2022/S_260_2022.md) — per questi motivi
 - **Sent. n. 259/2022** · dep. 2022-12-20 · massime: 3 → [scheda](2022/S_259_2022.md) — per questi motivi
 - **Sent. n. 258/2022** · dep. 2022-12-20 · massime: 3 → [scheda](2022/S_258_2022.md) — per questi motivi
 - **Sent. n. 257/2022** · dep. 2022-12-20 · massime: 1 → [scheda](2022/S_257_2022.md) — per questi motivi
 - **Sent. n. 256/2022** · dep. 2022-12-20 · massime: 3 → [scheda](2022/S_256_2022.md) — per questi motivi
 - **Sent. n. 255/2022** · dep. 2022-12-20 · massime: 10 → [scheda](2022/S_255_2022.md) — per questi motivi
-- **Sent. n. 254/2022** · dep. 2022-12-20 · massime: 2 → [scheda](2022/S_254_2022.md) — per questi motivi
+- **Sent. n. 254/2022** · dep. 2022-12-20 · massime: 2 · ★ Annuario (Ambiente) → [scheda](2022/S_254_2022.md) — per questi motivi
 - **Sent. n. 253/2022** · dep. 2022-12-20 · massime: 3 → [scheda](2022/S_253_2022.md) — per questi motivi
-- **Sent. n. 252/2022** · dep. 2022-12-19 · massime: 2 → [scheda](2022/S_252_2022.md) — per questi motivi
-- **Sent. n. 251/2022** · dep. 2022-12-19 · massime: 1 → [scheda](2022/S_251_2022.md) — per questi motivi
-- **Ord. n. 250/2022** · dep. 2022-12-16 · massime: 2 → [scheda](2022/O_250_2022.md) — per questi motivi
+- **Sent. n. 252/2022** · dep. 2022-12-19 · massime: 2 · ★ Annuario (Ambiente) → [scheda](2022/S_252_2022.md) — per questi motivi
+- **Sent. n. 251/2022** · dep. 2022-12-19 · massime: 1 · ★ Annuario (Ambiente) → [scheda](2022/S_251_2022.md) — per questi motivi
+- **Ord. n. 250/2022** · dep. 2022-12-16 · massime: 2 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_250_2022.md) — per questi motivi
 - **Sent. n. 249/2022** · dep. 2022-12-13 · massime: 3 → [scheda](2022/S_249_2022.md) — per questi motivi
 - **Sent. n. 248/2022** · dep. 2022-12-09 · massime: 6 → [scheda](2022/S_248_2022.md) — per questi motivi
 - **Sent. n. 247/2022** · dep. 2022-12-09 · massime: 4 → [scheda](2022/S_247_2022.md) — per questi motivi
 - **Sent. n. 246/2022** · dep. 2022-12-09 · massime: 1 → [scheda](2022/S_246_2022.md) — per questi motivi
 - **Sent. n. 245/2022** · dep. 2022-12-09 · massime: 1 → [scheda](2022/S_245_2022.md) — per questi motivi
 - **Sent. n. 244/2022** · dep. 2022-12-02 · massime: 3 → [scheda](2022/S_244_2022.md) — per questi motivi
-- **Sent. n. 243/2022** · dep. 2022-12-02 · massime: 1 → [scheda](2022/S_243_2022.md) — per questi motivi
+- **Sent. n. 243/2022** · dep. 2022-12-02 · massime: 1 · ★ Annuario (Giustizia) → [scheda](2022/S_243_2022.md) — per questi motivi
 - **Sent. n. 242/2022** · dep. 2022-12-01 · massime: 5 → [scheda](2022/S_242_2022.md) — per questi motivi
-- **Sent. n. 241/2022** · dep. 2022-12-01 · massime: 2 → [scheda](2022/S_241_2022.md) — per questi motivi
+- **Sent. n. 241/2022** · dep. 2022-12-01 · massime: 2 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/S_241_2022.md) — per questi motivi
 - **Sent. n. 240/2022** · dep. 2022-12-01 · massime: 6 → [scheda](2022/S_240_2022.md) — per questi motivi
 - **Sent. n. 239/2022** · dep. 2022-11-29 · massime: 3 → [scheda](2022/S_239_2022.md) — per questi motivi
 - **Sent. n. 238/2022** · dep. 2022-11-28 · massime: 2 → [scheda](2022/S_238_2022.md) — per questi motivi
 - **Sent. n. 237/2022** · dep. 2022-11-28 · massime: 4 → [scheda](2022/S_237_2022.md) — per questi motivi
 - **Sent. n. 236/2022** · dep. 2022-11-28 · massime: 1 → [scheda](2022/S_236_2022.md) — per questi motivi
 - **Sent. n. 235/2022** · dep. 2022-11-28 · massime: 4 → [scheda](2022/S_235_2022.md) — per questi motivi
-- **Sent. n. 234/2022** · dep. 2022-11-24 · massime: 2 → [scheda](2022/S_234_2022.md) — per questi motivi
+- **Sent. n. 234/2022** · dep. 2022-11-24 · massime: 2 · ★ Annuario (Pensioni) → [scheda](2022/S_234_2022.md) — per questi motivi
 - **Sent. n. 233/2022** · dep. 2022-11-21 · massime: 1 → [scheda](2022/S_233_2022.md) — per questi motivi
 - **Ord. n. 232/2022** · dep. 2022-11-17 · massime: 1 → [scheda](2022/O_232_2022.md) — per questi motivi
 - **Ord. n. 231/2022** · dep. 2022-11-17 · massime: 1 → [scheda](2022/O_231_2022.md) — per questi motivi
 - **Sent. n. 230/2022** · dep. 2022-11-15 · massime: 2 → [scheda](2022/S_230_2022.md) — per questi motivi
 - **Sent. n. 229/2022** · dep. 2022-11-15 · massime: 3 → [scheda](2022/S_229_2022.md) — per questi motivi
 - **Sent. n. 228/2022** · dep. 2022-11-11 · massime: 1 → [scheda](2022/S_228_2022.md) — per questi motivi
-- **Ord. n. 227/2022** · dep. 2022-11-10 · massime: 2 → [scheda](2022/O_227_2022.md) — per questi motivi
+- **Ord. n. 227/2022** · dep. 2022-11-10 · massime: 2 · ★ Annuario (Giustizia) → [scheda](2022/O_227_2022.md) — per questi motivi
 - **Ord. n. 226/2022** · dep. 2022-11-08 · massime: 1 → [scheda](2022/O_226_2022.md) — per questi motivi
 - **Sent. n. 225/2022** · dep. 2022-11-07 · massime: 5 → [scheda](2022/S_225_2022.md) — per questi motivi
 - **Sent. n. 224/2022** · dep. 2022-11-07 · massime: 1 → [scheda](2022/S_224_2022.md) — per questi motivi
 - **Sent. n. 223/2022** · dep. 2022-11-03 · massime: 4 → [scheda](2022/S_223_2022.md) — per questi motivi
 - **Sent. n. 222/2022** · dep. 2022-10-27 · massime: 4 → [scheda](2022/S_222_2022.md) — per questi motivi
-- **Sent. n. 221/2022** · dep. 2022-10-27 · massime: 5 → [scheda](2022/S_221_2022.md) — per questi motivi
+- **Sent. n. 221/2022** · dep. 2022-10-27 · massime: 5 · ★ Annuario (Ambiente) → [scheda](2022/S_221_2022.md) — per questi motivi
 - **Ord. n. 220/2022** · dep. 2022-10-25 · massime: 2 → [scheda](2022/O_220_2022.md) — per questi motivi
 - **Sent. n. 219/2022** · dep. 2022-10-24 · massime: 2 → [scheda](2022/S_219_2022.md) — per questi motivi
 - **Sent. n. 218/2022** · dep. 2022-10-21 · massime: 1 → [scheda](2022/S_218_2022.md) — per questi motivi
@@ -858,48 +858,48 @@
 - **Ord. n. 215/2022** · dep. 2022-10-20 · massime: 1 → [scheda](2022/O_215_2022.md) — per questi motivi
 - **Sent. n. 214/2022** · dep. 2022-10-20 · massime: 2 → [scheda](2022/S_214_2022.md) — per questi motivi
 - **Sent. n. 213/2022** · dep. 2022-10-18 · massime: 1 → [scheda](2022/S_213_2022.md) — per questi motivi
-- **Ord. n. 212/2022** · dep. 2022-10-17 · massime: 3 → [scheda](2022/O_212_2022.md) — per questi motivi
+- **Ord. n. 212/2022** · dep. 2022-10-17 · massime: 3 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_212_2022.md) — per questi motivi
 - **Sent. n. 211/2022** · dep. 2022-10-17 · massime: 1 → [scheda](2022/S_211_2022.md) — per questi motivi
-- **Sent. n. 210/2022** · dep. 2022-10-14 · massime: 5 → [scheda](2022/S_210_2022.md) — per questi motivi
-- **Sent. n. 209/2022** · dep. 2022-10-13 · massime: 9 → [scheda](2022/S_209_2022.md) — per questi motivi
-- **Ord. n. 208/2022** · dep. 2022-10-06 · massime: 1 → [scheda](2022/O_208_2022.md) — per questi motivi
+- **Sent. n. 210/2022** · dep. 2022-10-14 · massime: 5 · ★ Annuario (Camere di commercio/imprese) → [scheda](2022/S_210_2022.md) — per questi motivi
+- **Sent. n. 209/2022** · dep. 2022-10-13 · massime: 9 · ★ Annuario (Fisco) → [scheda](2022/S_209_2022.md) — per questi motivi
+- **Ord. n. 208/2022** · dep. 2022-10-06 · massime: 1 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_208_2022.md) — per questi motivi
 - **Sent. n. 207/2022** · dep. 2022-10-06 · massime: 1 → [scheda](2022/S_207_2022.md) — per questi motivi
 - **Ord. n. 206/2022** · dep. 2022-10-04 · massime: 1 → [scheda](2022/O_206_2022.md) — per questi motivi
 - **Sent. n. 205/2022** · dep. 2022-09-15 · massime: 3 → [scheda](2022/S_205_2022.md) — per questi motivi
 - **Ord. n. 204/2022** · dep. 2022-09-01 · massime: 3 → [scheda](2022/O_204_2022.md) — per questi motivi
 - **Sent. n. 203/2022** · dep. 2022-07-28 · massime: 2 → [scheda](2022/S_203_2022.md) — per questi motivi
-- **Sent. n. 202/2022** · dep. 2022-07-28 · massime: 1 → [scheda](2022/S_202_2022.md) — per questi motivi
-- **Sent. n. 201/2022** · dep. 2022-07-28 · massime: 4 → [scheda](2022/S_201_2022.md) — per questi motivi
+- **Sent. n. 202/2022** · dep. 2022-07-28 · massime: 1 · ★ Annuario (Lavoro) → [scheda](2022/S_202_2022.md) — per questi motivi
+- **Sent. n. 201/2022** · dep. 2022-07-28 · massime: 4 · ★ Annuario (Enti locali) → [scheda](2022/S_201_2022.md) — per questi motivi
 - **Sent. n. 200/2022** · dep. 2022-07-28 · massime: 4 → [scheda](2022/S_200_2022.md) — per questi motivi
 - **Sent. n. 199/2022** · dep. 2022-07-28 · massime: 3 → [scheda](2022/S_199_2022.md) — per questi motivi
-- **Sent. n. 198/2022** · dep. 2022-07-26 · massime: 3 → [scheda](2022/S_198_2022.md) — per questi motivi
+- **Sent. n. 198/2022** · dep. 2022-07-26 · massime: 3 · ★ Annuario (Appalti) → [scheda](2022/S_198_2022.md) — per questi motivi
 - **Sent. n. 197/2022** · dep. 2022-07-26 · massime: 1 → [scheda](2022/S_197_2022.md) — per questi motivi
 - **Sent. n. 196/2022** · dep. 2022-07-26 · massime: 1 → [scheda](2022/S_196_2022.md) — per questi motivi
-- **Sent. n. 195/2022** · dep. 2022-07-26 · massime: 2 → [scheda](2022/S_195_2022.md) — per questi motivi
+- **Sent. n. 195/2022** · dep. 2022-07-26 · massime: 2 · ★ Annuario (Stranieri) → [scheda](2022/S_195_2022.md) — per questi motivi
 - **Ord. n. 194/2022** · dep. 2022-07-25 · massime: 1 → [scheda](2022/O_194_2022.md) — per questi motivi
 - **Sent. n. 193/2022** · dep. 2022-07-25 · massime: 5 → [scheda](2022/S_193_2022.md) — per questi motivi
 - **Sent. n. 192/2022** · dep. 2022-07-25 · massime: 1 → [scheda](2022/S_192_2022.md) — per questi motivi
 - **Sent. n. 191/2022** · dep. 2022-07-25 · massime: 2 → [scheda](2022/S_191_2022.md) — per questi motivi
-- **Sent. n. 190/2022** · dep. 2022-07-25 · massime: 11 → [scheda](2022/S_190_2022.md) — per questi motivi
+- **Sent. n. 190/2022** · dep. 2022-07-25 · massime: 11 · ★ Annuario (Sanità) → [scheda](2022/S_190_2022.md) — per questi motivi
 - **Sent. n. 189/2022** · dep. 2022-07-25 · massime: 7 → [scheda](2022/S_189_2022.md) — per questi motivi
 - **Sent. n. 188/2022** · dep. 2022-07-25 · massime: 1 → [scheda](2022/S_188_2022.md) — per questi motivi
 - **Sent. n. 187/2022** · dep. 2022-07-25 · massime: 8 → [scheda](2022/S_187_2022.md) — per questi motivi
-- **Sent. n. 186/2022** · dep. 2022-07-25 · massime: 1 → [scheda](2022/S_186_2022.md) — per questi motivi
+- **Sent. n. 186/2022** · dep. 2022-07-25 · massime: 1 · ★ Annuario (Contributi per la cultura) → [scheda](2022/S_186_2022.md) — per questi motivi
 - **Ord. n. 185/2022** · dep. 2022-07-22 · massime: 1 → [scheda](2022/O_185_2022.md) — per questi motivi
 - **Sent. n. 184/2022** · dep. 2022-07-22 · massime: 3 → [scheda](2022/S_184_2022.md) — per questi motivi
-- **Sent. n. 183/2022** · dep. 2022-07-22 · massime: 2 → [scheda](2022/S_183_2022.md) — per questi motivi
+- **Sent. n. 183/2022** · dep. 2022-07-22 · massime: 2 · ★ Annuario (Lavoro) → [scheda](2022/S_183_2022.md) — per questi motivi
 - **Sent. n. 182/2022** · dep. 2022-07-21 · massime: 3 → [scheda](2022/S_182_2022.md) — per questi motivi
 - **Sent. n. 181/2022** · dep. 2022-07-19 · massime: 1 → [scheda](2022/S_181_2022.md) — per questi motivi
-- **Sent. n. 180/2022** · dep. 2022-07-19 · massime: 1 → [scheda](2022/S_180_2022.md) — per questi motivi
+- **Sent. n. 180/2022** · dep. 2022-07-19 · massime: 1 · ★ Annuario (Giustizia) → [scheda](2022/S_180_2022.md) — per questi motivi
 - **Sent. n. 179/2022** · dep. 2022-07-19 · massime: 5 → [scheda](2022/S_179_2022.md) — per questi motivi
 - **Sent. n. 178/2022** · dep. 2022-07-15 · massime: 1 → [scheda](2022/S_178_2022.md) — per questi motivi
 - **Sent. n. 177/2022** · dep. 2022-07-14 · massime: 3 → [scheda](2022/S_177_2022.md) — per questi motivi
 - **Sent. n. 176/2022** · dep. 2022-07-14 · massime: 1 → [scheda](2022/S_176_2022.md) — per questi motivi
 - **Sent. n. 175/2022** · dep. 2022-07-14 · massime: 2 → [scheda](2022/S_175_2022.md) — per questi motivi
 - **Sent. n. 174/2022** · dep. 2022-07-12 · massime: 2 → [scheda](2022/S_174_2022.md) — per questi motivi
-- **Sent. n. 173/2022** · dep. 2022-07-12 · massime: 1 → [scheda](2022/S_173_2022.md) — per questi motivi
+- **Sent. n. 173/2022** · dep. 2022-07-12 · massime: 1 · ★ Annuario (Giustizia) → [scheda](2022/S_173_2022.md) — per questi motivi
 - **Ord. n. 172/2022** · dep. 2022-07-11 · massime: 2 → [scheda](2022/O_172_2022.md) — per questi motivi
-- **Sent. n. 171/2022** · dep. 2022-07-08 · massime: 4 → [scheda](2022/S_171_2022.md) — per questi motivi
+- **Sent. n. 171/2022** · dep. 2022-07-08 · massime: 4 · ★ Annuario (Covid) → [scheda](2022/S_171_2022.md) — per questi motivi
 - **Ord. n. 170/2022** · dep. 2022-07-05 · massime: 1 → [scheda](2022/O_170_2022.md) — per questi motivi
 - **Sent. n. 169/2022** · dep. 2022-07-05 · massime: 2 → [scheda](2022/S_169_2022.md) — per questi motivi
 - **Sent. n. 168/2022** · dep. 2022-07-05 · massime: 7 → [scheda](2022/S_168_2022.md) — per questi motivi
@@ -908,20 +908,20 @@
 - **Sent. n. 165/2022** · dep. 2022-07-01 · massime: 1 → [scheda](2022/S_165_2022.md) — per questi motivi
 - **Sent. n. 164/2022** · dep. 2022-06-30 · massime: 3 → [scheda](2022/S_164_2022.md) — per questi motivi
 - **Sent. n. 163/2022** · dep. 2022-06-30 · massime: 3 → [scheda](2022/S_163_2022.md) — per questi motivi
-- **Sent. n. 162/2022** · dep. 2022-06-30 · massime: 2 → [scheda](2022/S_162_2022.md) — per questi motivi
-- **Sent. n. 161/2022** · dep. 2022-06-30 · massime: 1 → [scheda](2022/S_161_2022.md) — per questi motivi
+- **Sent. n. 162/2022** · dep. 2022-06-30 · massime: 2 · ★ Annuario (Pensioni) → [scheda](2022/S_162_2022.md) — per questi motivi
+- **Sent. n. 161/2022** · dep. 2022-06-30 · massime: 1 · ★ Annuario (Sanità) → [scheda](2022/S_161_2022.md) — per questi motivi
 - **Sent. n. 160/2022** · dep. 2022-06-28 · massime: 4 → [scheda](2022/S_160_2022.md) — per questi motivi
 - **Sent. n. 159/2022** · dep. 2022-06-24 · massime: 3 → [scheda](2022/S_159_2022.md) — per questi motivi
 - **Ord. n. 158/2022** · dep. 2022-06-23 · massime: 1 → [scheda](2022/O_158_2022.md) — per questi motivi
-- **Ord. n. 157/2022** · dep. 2022-06-23 · massime: 1 → [scheda](2022/O_157_2022.md) — per questi motivi
+- **Ord. n. 157/2022** · dep. 2022-06-23 · massime: 1 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_157_2022.md) — per questi motivi
 - **Ord. n. 156/2022** · dep. 2022-06-20 · massime: 1 → [scheda](2022/O_156_2022.md) — per questi motivi
 - **Sent. n. 155/2022** · dep. 2022-06-20 · massime: 3 → [scheda](2022/S_155_2022.md) — per questi motivi
-- **Ord. n. 154/2022** · dep. 2022-06-17 · massime: 1 → [scheda](2022/O_154_2022.md) — per questi motivi
+- **Ord. n. 154/2022** · dep. 2022-06-17 · massime: 1 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_154_2022.md) — per questi motivi
 - **Sent. n. 153/2022** · dep. 2022-06-17 · massime: 3 → [scheda](2022/S_153_2022.md) — per questi motivi
 - **Sent. n. 152/2022** · dep. 2022-06-17 · massime: 1 → [scheda](2022/S_152_2022.md) — per questi motivi
-- **Ord. n. 151/2022** · dep. 2022-06-16 · massime: 1 → [scheda](2022/O_151_2022.md) — per questi motivi
+- **Ord. n. 151/2022** · dep. 2022-06-16 · massime: 1 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_151_2022.md) — per questi motivi
 - **Sent. n. 150/2022** · dep. 2022-06-16 · massime: 4 → [scheda](2022/S_150_2022.md) — per questi motivi
-- **Sent. n. 149/2022** · dep. 2022-06-16 · massime: 3 → [scheda](2022/S_149_2022.md) — per questi motivi
+- **Sent. n. 149/2022** · dep. 2022-06-16 · massime: 3 · ★ Annuario (Giustizia) → [scheda](2022/S_149_2022.md) — per questi motivi
 - **Sent. n. 148/2022** · dep. 2022-06-14 · massime: 2 → [scheda](2022/S_148_2022.md) — per questi motivi
 - **Sent. n. 147/2022** · dep. 2022-06-14 · massime: 3 → [scheda](2022/S_147_2022.md) — per questi motivi
 - **Sent. n. 146/2022** · dep. 2022-06-14 · massime: 3 → [scheda](2022/S_146_2022.md) — per questi motivi
@@ -939,17 +939,17 @@
 - **Ord. n. 134/2022** · dep. 2022-05-31 · massime: 1 → [scheda](2022/O_134_2022.md) — per questi motivi
 - **Ord. n. 133/2022** · dep. 2022-05-31 · massime: 1 → [scheda](2022/O_133_2022.md) — per questi motivi
 - **Ord. n. 132/2022** · dep. 2022-05-31 · massime: 2 → [scheda](2022/O_132_2022.md) — per questi motivi
-- **Sent. n. 131/2022** · dep. 2022-05-31 · massime: 8 → [scheda](2022/S_131_2022.md) — per questi motivi
+- **Sent. n. 131/2022** · dep. 2022-05-31 · massime: 8 · ★ Annuario (Famiglia e minori) → [scheda](2022/S_131_2022.md) — per questi motivi
 - **Ord. n. 130/2022** · dep. 2022-05-30 · massime: 1 → [scheda](2022/O_130_2022.md) — per questi motivi
 - **Ord. n. 129/2022** · dep. 2022-05-26 · massime: 1 → [scheda](2022/O_129_2022.md) — per questi motivi
 - **Sent. n. 128/2022** · dep. 2022-05-26 · massime: 2 → [scheda](2022/S_128_2022.md) — per questi motivi
-- **Sent. n. 127/2022** · dep. 2022-05-26 · massime: 3 → [scheda](2022/S_127_2022.md) — per questi motivi
+- **Sent. n. 127/2022** · dep. 2022-05-26 · massime: 3 · ★ Annuario (Covid) → [scheda](2022/S_127_2022.md) — per questi motivi
 - **Sent. n. 126/2022** · dep. 2022-05-24 · massime: 6 → [scheda](2022/S_126_2022.md) — per questi motivi
-- **Sent. n. 125/2022** · dep. 2022-05-19 · massime: 2 → [scheda](2022/S_125_2022.md) — per questi motivi
+- **Sent. n. 125/2022** · dep. 2022-05-19 · massime: 2 · ★ Annuario (Lavoro) → [scheda](2022/S_125_2022.md) — per questi motivi
 - **Sent. n. 124/2022** · dep. 2022-05-19 · massime: 1 → [scheda](2022/S_124_2022.md) — per questi motivi
 - **Sent. n. 123/2022** · dep. 2022-05-17 · massime: 6 → [scheda](2022/S_123_2022.md) — per questi motivi
-- **Ord. n. 122/2022** · dep. 2022-05-13 · massime: 1 → [scheda](2022/O_122_2022.md) — per questi motivi
-- **Sent. n. 121/2022** · dep. 2022-05-13 · massime: 3 → [scheda](2022/S_121_2022.md) — per questi motivi
+- **Ord. n. 122/2022** · dep. 2022-05-13 · massime: 1 · ★ Annuario (Giustizia) → [scheda](2022/O_122_2022.md) — per questi motivi
+- **Sent. n. 121/2022** · dep. 2022-05-13 · massime: 3 · ★ Annuario (Ambiente) → [scheda](2022/S_121_2022.md) — per questi motivi
 - **Sent. n. 120/2022** · dep. 2022-05-13 · massime: 2 → [scheda](2022/S_120_2022.md) — per questi motivi
 - **Sent. n. 119/2022** · dep. 2022-05-12 · massime: 1 → [scheda](2022/S_119_2022.md) — per questi motivi
 - **Sent. n. 118/2022** · dep. 2022-05-10 · massime: 1 → [scheda](2022/S_118_2022.md) — per questi motivi
@@ -959,10 +959,10 @@
 - **Sent. n. 114/2022** · dep. 2022-05-09 · massime: 7 → [scheda](2022/S_114_2022.md) — per questi motivi
 - **Sent. n. 113/2022** · dep. 2022-05-09 · massime: 5 → [scheda](2022/S_113_2022.md) — per questi motivi
 - **Sent. n. 112/2022** · dep. 2022-05-09 · massime: 6 → [scheda](2022/S_112_2022.md) — per questi motivi
-- **Sent. n. 111/2022** · dep. 2022-05-09 · massime: 3 → [scheda](2022/S_111_2022.md) — per questi motivi
+- **Sent. n. 111/2022** · dep. 2022-05-09 · massime: 3 · ★ Annuario (Giustizia) → [scheda](2022/S_111_2022.md) — per questi motivi
 - **Sent. n. 110/2022** · dep. 2022-05-05 · massime: 3 → [scheda](2022/S_110_2022.md) — per questi motivi
 - **Sent. n. 109/2022** · dep. 2022-05-05 · massime: 3 → [scheda](2022/S_109_2022.md) — per questi motivi
-- **Sent. n. 108/2022** · dep. 2022-05-05 · massime: 1 → [scheda](2022/S_108_2022.md) — per questi motivi
+- **Sent. n. 108/2022** · dep. 2022-05-05 · massime: 1 · ★ Annuario (Ambiente) → [scheda](2022/S_108_2022.md) — per questi motivi
 - **Ord. n. 107/2022** · dep. 2022-04-28 · massime: 1 → [scheda](2022/O_107_2022.md) — per questi motivi
 - **Sent. n. 106/2022** · dep. 2022-04-28 · massime: 2 → [scheda](2022/S_106_2022.md) — per questi motivi
 - **Sent. n. 105/2022** · dep. 2022-04-22 · massime: 3 → [scheda](2022/S_105_2022.md) — per questi motivi
@@ -982,7 +982,7 @@
 - **Sent. n. 91/2022** · dep. 2022-04-11 · massime: 4 → [scheda](2022/S_91_2022.md) — per questi motivi
 - **Sent. n. 90/2022** · dep. 2022-04-11 · massime: 5 → [scheda](2022/S_90_2022.md) — per questi motivi
 - **Sent. n. 89/2022** · dep. 2022-04-05 · massime: 3 → [scheda](2022/S_89_2022.md) — per questi motivi
-- **Sent. n. 88/2022** · dep. 2022-04-05 · massime: 4 → [scheda](2022/S_88_2022.md) — per questi motivi
+- **Sent. n. 88/2022** · dep. 2022-04-05 · massime: 4 · ★ Annuario (Pensioni) → [scheda](2022/S_88_2022.md) — per questi motivi
 - **Sent. n. 87/2022** · dep. 2022-04-04 · massime: 3 → [scheda](2022/S_87_2022.md) — per questi motivi
 - **Sent. n. 86/2022** · dep. 2022-04-04 · massime: 2 → [scheda](2022/S_86_2022.md) — per questi motivi
 - **Sent. n. 85/2022** · dep. 2022-04-01 · massime: 1 → [scheda](2022/S_85_2022.md) — per questi motivi
@@ -990,38 +990,38 @@
 - **Ord. n. 83/2022** · dep. 2022-03-31 · massime: 1 → [scheda](2022/O_83_2022.md) — per questi motivi
 - **Ord. n. 82/2022** · dep. 2022-03-31 · massime: 1 → [scheda](2022/O_82_2022.md) — per questi motivi
 - **Sent. n. 81/2022** · dep. 2022-03-31 · massime: 1 → [scheda](2022/S_81_2022.md) — per questi motivi
-- **Ord. n. 80/2022** · dep. 2022-03-29 · massime: 1 → [scheda](2022/O_80_2022.md) — per questi motivi
-- **Sent. n. 79/2022** · dep. 2022-03-28 · massime: 4 → [scheda](2022/S_79_2022.md) — per questi motivi
+- **Ord. n. 80/2022** · dep. 2022-03-29 · massime: 1 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_80_2022.md) — per questi motivi
+- **Sent. n. 79/2022** · dep. 2022-03-28 · massime: 4 · ★ Annuario (Famiglia e minori) → [scheda](2022/S_79_2022.md) — per questi motivi
 - **Ord. n. 78/2022** · dep. 2022-03-25 · massime: 1 → [scheda](2022/O_78_2022.md) — per questi motivi
-- **Sent. n. 77/2022** · dep. 2022-03-25 · massime: 3 → [scheda](2022/S_77_2022.md) — per questi motivi
+- **Sent. n. 77/2022** · dep. 2022-03-25 · massime: 3 · ★ Annuario (Ambiente) → [scheda](2022/S_77_2022.md) — per questi motivi
 - **Ord. n. 76/2022** · dep. 2022-03-24 · massime: 1 → [scheda](2022/O_76_2022.md) — per questi motivi
 - **Sent. n. 75/2022** · dep. 2022-03-24 · massime: 3 → [scheda](2022/S_75_2022.md) — per questi motivi
 - **Sent. n. 74/2022** · dep. 2022-03-24 · massime: 3 → [scheda](2022/S_74_2022.md) — per questi motivi
 - **Sent. n. 73/2022** · dep. 2022-03-18 · massime: 5 → [scheda](2022/S_73_2022.md) — per questi motivi
-- **Sent. n. 72/2022** · dep. 2022-03-15 · massime: 7 → [scheda](2022/S_72_2022.md) — per questi motivi
+- **Sent. n. 72/2022** · dep. 2022-03-15 · massime: 7 · ★ Annuario (Terzo Settore) → [scheda](2022/S_72_2022.md) — per questi motivi
 - **Sent. n. 71/2022** · dep. 2022-03-15 · massime: 3 → [scheda](2022/S_71_2022.md) — per questi motivi
 - **Sent. n. 70/2022** · dep. 2022-03-15 · massime: 7 → [scheda](2022/S_70_2022.md) — per questi motivi
 - **Sent. n. 69/2022** · dep. 2022-03-15 · massime: 1 → [scheda](2022/S_69_2022.md) — per questi motivi
 - **Sent. n. 68/2022** · dep. 2022-03-11 · massime: 2 → [scheda](2022/S_68_2022.md) — per questi motivi
-- **Sent. n. 67/2022** · dep. 2022-03-11 · massime: 2 → [scheda](2022/S_67_2022.md) — per questi motivi
+- **Sent. n. 67/2022** · dep. 2022-03-11 · massime: 2 · ★ Annuario (Stranieri) → [scheda](2022/S_67_2022.md) — per questi motivi
 - **Sent. n. 66/2022** · dep. 2022-03-11 · massime: 3 → [scheda](2022/S_66_2022.md) — per questi motivi
 - **Sent. n. 65/2022** · dep. 2022-03-10 · massime: 2 → [scheda](2022/S_65_2022.md) — per questi motivi
 - **Sent. n. 64/2022** · dep. 2022-03-10 · massime: 1 → [scheda](2022/S_64_2022.md) — per questi motivi
-- **Sent. n. 63/2022** · dep. 2022-03-10 · massime: 4 → [scheda](2022/S_63_2022.md) — per questi motivi
-- **Sent. n. 62/2022** · dep. 2022-03-10 · massime: 2 → [scheda](2022/S_62_2022.md) — per questi motivi
+- **Sent. n. 63/2022** · dep. 2022-03-10 · massime: 4 · ★ Annuario (Stranieri) → [scheda](2022/S_63_2022.md) — per questi motivi
+- **Sent. n. 62/2022** · dep. 2022-03-10 · massime: 2 · ★ Annuario (Pari opportunità) → [scheda](2022/S_62_2022.md) — per questi motivi
 - **Sent. n. 61/2022** · dep. 2022-03-10 · massime: 2 → [scheda](2022/S_61_2022.md) — per questi motivi
-- **Sent. n. 60/2022** · dep. 2022-03-08 · massime: 4 → [scheda](2022/S_60_2022.md) — per questi motivi
-- **Sent. n. 59/2022** · dep. 2022-03-08 · massime: 3 → [scheda](2022/S_59_2022.md) — per questi motivi
-- **Sent. n. 58/2022** · dep. 2022-03-08 · massime: 3 → [scheda](2022/S_58_2022.md) — per questi motivi
-- **Sent. n. 57/2022** · dep. 2022-03-08 · massime: 6 → [scheda](2022/S_57_2022.md) — per questi motivi
-- **Sent. n. 56/2022** · dep. 2022-03-08 · massime: 4 → [scheda](2022/S_56_2022.md) — per questi motivi
+- **Sent. n. 60/2022** · dep. 2022-03-08 · massime: 4 · ★ Annuario (Referendum) → [scheda](2022/S_60_2022.md) — per questi motivi
+- **Sent. n. 59/2022** · dep. 2022-03-08 · massime: 3 · ★ Annuario (Referendum) → [scheda](2022/S_59_2022.md) — per questi motivi
+- **Sent. n. 58/2022** · dep. 2022-03-08 · massime: 3 · ★ Annuario (Referendum) → [scheda](2022/S_58_2022.md) — per questi motivi
+- **Sent. n. 57/2022** · dep. 2022-03-08 · massime: 6 · ★ Annuario (Referendum) → [scheda](2022/S_57_2022.md) — per questi motivi
+- **Sent. n. 56/2022** · dep. 2022-03-08 · massime: 4 · ★ Annuario (Referendum) → [scheda](2022/S_56_2022.md) — per questi motivi
 - **Ord. n. 55/2022** · dep. 2022-03-07 · massime: 1 → [scheda](2022/O_55_2022.md) — per questi motivi
-- **Sent. n. 54/2022** · dep. 2022-03-04 · massime: 5 → [scheda](2022/S_54_2022.md) — per questi motivi
+- **Sent. n. 54/2022** · dep. 2022-03-04 · massime: 5 · ★ Annuario (Stranieri) → [scheda](2022/S_54_2022.md) — per questi motivi
 - **Ord. n. 53/2022** · dep. 2022-03-03 · massime: 3 → [scheda](2022/O_53_2022.md) — per questi motivi
 - **Sent. n. 52/2022** · dep. 2022-03-03 · massime: 1 → [scheda](2022/S_52_2022.md) — per questi motivi
-- **Sent. n. 51/2022** · dep. 2022-03-02 · massime: 3 → [scheda](2022/S_51_2022.md) — per questi motivi
-- **Sent. n. 50/2022** · dep. 2022-03-02 · massime: 5 → [scheda](2022/S_50_2022.md) — per questi motivi
-- **Sent. n. 49/2022** · dep. 2022-03-02 · massime: 4 → [scheda](2022/S_49_2022.md) — per questi motivi
+- **Sent. n. 51/2022** · dep. 2022-03-02 · massime: 3 · ★ Annuario (Referendum) → [scheda](2022/S_51_2022.md) — per questi motivi
+- **Sent. n. 50/2022** · dep. 2022-03-02 · massime: 5 · ★ Annuario (Referendum) → [scheda](2022/S_50_2022.md) — per questi motivi
+- **Sent. n. 49/2022** · dep. 2022-03-02 · massime: 4 · ★ Annuario (Referendum) → [scheda](2022/S_49_2022.md) — per questi motivi
 - **Ord. n. 48/2022** · dep. 2022-03-01 · massime: 1 → [scheda](2022/O_48_2022.md) — per questi motivi
 - **Ord. n. 47/2022** · dep. 2022-03-01 · massime: 2 → [scheda](2022/O_47_2022.md) — per questi motivi
 - **Sent. n. 46/2022** · dep. 2022-03-01 · massime: 7 → [scheda](2022/S_46_2022.md) — per questi motivi
@@ -1035,10 +1035,10 @@
 - **Ord. n. 38/2022** · dep. 2022-02-18 · massime: 1 → [scheda](2022/O_38_2022.md) — per questi motivi
 - **Ord. n. 37/2022** · dep. 2022-02-18 · massime: 1 → [scheda](2022/O_37_2022.md) — per questi motivi
 - **Sent. n. 36/2022** · dep. 2022-02-18 · massime: 1 → [scheda](2022/S_36_2022.md) — per questi motivi
-- **Ord. n. 35/2022** · dep. 2022-02-17 · massime: 1 → [scheda](2022/O_35_2022.md) — per questi motivi
+- **Ord. n. 35/2022** · dep. 2022-02-17 · massime: 1 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_35_2022.md) — per questi motivi
 - **Sent. n. 34/2022** · dep. 2022-02-17 · massime: 4 → [scheda](2022/S_34_2022.md) — per questi motivi
 - **Sent. n. 33/2022** · dep. 2022-02-15 · massime: 2 → [scheda](2022/S_33_2022.md) — per questi motivi
-- **Ord. n. 32/2022** · dep. 2022-02-08 · massime: 1 → [scheda](2022/O_32_2022.md) — per questi motivi
+- **Ord. n. 32/2022** · dep. 2022-02-08 · massime: 1 · ★ Annuario (Conflitti tra poteri dello stato) → [scheda](2022/O_32_2022.md) — per questi motivi
 - **Sent. n. 31/2022** · dep. 2022-02-03 · massime: 5 → [scheda](2022/S_31_2022.md) — per questi motivi
 - **Sent. n. 30/2022** · dep. 2022-02-03 · massime: 1 → [scheda](2022/S_30_2022.md) — per questi motivi
 - **Ord. n. 29/2022** · dep. 2022-02-01 · massime: 2 → [scheda](2022/O_29_2022.md) — per questi motivi
@@ -1046,21 +1046,21 @@
 - **Sent. n. 27/2022** · dep. 2022-01-28 · massime: 5 → [scheda](2022/S_27_2022.md) — per questi motivi
 - **Sent. n. 26/2022** · dep. 2022-01-28 · massime: 2 → [scheda](2022/S_26_2022.md) — per questi motivi
 - **Sent. n. 25/2022** · dep. 2022-01-28 · massime: 2 → [scheda](2022/S_25_2022.md) — per questi motivi
-- **Sent. n. 24/2022** · dep. 2022-01-28 · massime: 40 → [scheda](2022/S_24_2022.md) — per questi motivi
+- **Sent. n. 24/2022** · dep. 2022-01-28 · massime: 40 · ★ Annuario (Ambiente) → [scheda](2022/S_24_2022.md) — per questi motivi
 - **Sent. n. 23/2022** · dep. 2022-01-28 · massime: 17 → [scheda](2022/S_23_2022.md) — per questi motivi
-- **Sent. n. 22/2022** · dep. 2022-01-27 · massime: 7 → [scheda](2022/S_22_2022.md) — per questi motivi
-- **Sent. n. 21/2022** · dep. 2022-01-27 · massime: 7 → [scheda](2022/S_21_2022.md) — per questi motivi
-- **Sent. n. 20/2022** · dep. 2022-01-25 · massime: 4 → [scheda](2022/S_20_2022.md) — per questi motivi
-- **Sent. n. 19/2022** · dep. 2022-01-25 · massime: 5 → [scheda](2022/S_19_2022.md) — per questi motivi
-- **Sent. n. 18/2022** · dep. 2022-01-24 · massime: 4 → [scheda](2022/S_18_2022.md) — per questi motivi
+- **Sent. n. 22/2022** · dep. 2022-01-27 · massime: 7 · ★ Annuario (Giustizia) → [scheda](2022/S_22_2022.md) — per questi motivi
+- **Sent. n. 21/2022** · dep. 2022-01-27 · massime: 7 · ★ Annuario (Ambiente) → [scheda](2022/S_21_2022.md) — per questi motivi
+- **Sent. n. 20/2022** · dep. 2022-01-25 · massime: 4 · ★ Annuario (Giustizia) → [scheda](2022/S_20_2022.md) — per questi motivi
+- **Sent. n. 19/2022** · dep. 2022-01-25 · massime: 5 · ★ Annuario (Stranieri) → [scheda](2022/S_19_2022.md) — per questi motivi
+- **Sent. n. 18/2022** · dep. 2022-01-24 · massime: 4 · ★ Annuario (Giustizia) → [scheda](2022/S_18_2022.md) — per questi motivi
 - **Sent. n. 17/2022** · dep. 2022-01-24 · massime: 3 → [scheda](2022/S_17_2022.md) — per questi motivi
 - **Sent. n. 16/2022** · dep. 2022-01-21 · massime: 2 → [scheda](2022/S_16_2022.md) — per questi motivi
-- **Ord. n. 15/2022** · dep. 2022-01-20 · massime: 2 → [scheda](2022/O_15_2022.md) — per questi motivi
+- **Ord. n. 15/2022** · dep. 2022-01-20 · massime: 2 · ★ Annuario (Covid) → [scheda](2022/O_15_2022.md) — per questi motivi
 - **Ord. n. 14/2022** · dep. 2022-01-20 · massime: 2 → [scheda](2022/O_14_2022.md) — per questi motivi
 - **Sent. n. 13/2022** · dep. 2022-01-20 · massime: 4 → [scheda](2022/S_13_2022.md) — per questi motivi
 - **Sent. n. 12/2022** · dep. 2022-01-20 · massime: 4 → [scheda](2022/S_12_2022.md) — per questi motivi
 - **Sent. n. 11/2022** · dep. 2022-01-20 · massime: 3 → [scheda](2022/S_11_2022.md) — per questi motivi
-- **Sent. n. 10/2022** · dep. 2022-01-20 · massime: 1 → [scheda](2022/S_10_2022.md) — per questi motivi
+- **Sent. n. 10/2022** · dep. 2022-01-20 · massime: 1 · ★ Annuario (Giustizia) → [scheda](2022/S_10_2022.md) — per questi motivi
 - **Sent. n. 9/2022** · dep. 2022-01-20 · massime: 5 → [scheda](2022/S_9_2022.md) — per questi motivi
 - **Sent. n. 8/2022** · dep. 2022-01-18 · massime: 5 → [scheda](2022/S_8_2022.md) — per questi motivi
 - **Sent. n. 7/2022** · dep. 2022-01-18 · massime: 4 → [scheda](2022/S_7_2022.md) — per questi motivi
@@ -1080,9 +1080,9 @@
 - **Sent. n. 259/2021** · dep. 2021-12-24 · massime: 2 → [scheda](2021/S_259_2021.md) — per questi motivi
 - **Sent. n. 258/2021** · dep. 2021-12-24 · massime: 2 → [scheda](2021/S_258_2021.md) — per questi motivi
 - **Sent. n. 257/2021** · dep. 2021-12-23 · massime: 2 → [scheda](2021/S_257_2021.md) — per questi motivi
-- **Ord. n. 256/2021** · dep. 2021-12-23 · massime: 2 → [scheda](2021/O_256_2021.md) — per questi motivi
-- **Ord. n. 255/2021** · dep. 2021-12-23 · massime: 1 → [scheda](2021/O_255_2021.md) — per questi motivi
-- **Ord. n. 254/2021** · dep. 2021-12-23 · massime: 1 → [scheda](2021/O_254_2021.md) — per questi motivi
+- **Ord. n. 256/2021** · dep. 2021-12-23 · massime: 2 · ★ Annuario (Covid) → [scheda](2021/O_256_2021.md) — per questi motivi
+- **Ord. n. 255/2021** · dep. 2021-12-23 · massime: 1 · ★ Annuario (Covid) → [scheda](2021/O_255_2021.md) — per questi motivi
+- **Ord. n. 254/2021** · dep. 2021-12-23 · massime: 1 · ★ Annuario (Covid) → [scheda](2021/O_254_2021.md) — per questi motivi
 - **Ord. n. 253/2021** · dep. 2021-12-23 · massime: 1 → [scheda](2021/O_253_2021.md) — per questi motivi
 - **Sent. n. 252/2021** · dep. 2021-12-23 · massime: 1 → [scheda](2021/S_252_2021.md) — per questi motivi
 - **Sent. n. 251/2021** · dep. 2021-12-23 · massime: 7 → [scheda](2021/S_251_2021.md) — per questi motivi
@@ -1096,7 +1096,7 @@
 - **Ord. n. 243/2021** · dep. 2021-12-17 · massime: 3 → [scheda](2021/O_243_2021.md) — per questi motivi
 - **Ord. n. 242/2021** · dep. 2021-12-13 · massime: 2 → [scheda](2021/O_242_2021.md) — per questi motivi
 - **Sent. n. 241/2021** · dep. 2021-12-13 · massime: 3 → [scheda](2021/S_241_2021.md) — per questi motivi
-- **Sent. n. 240/2021** · dep. 2021-12-07 · massime: 3 → [scheda](2021/S_240_2021.md) — per questi motivi
+- **Sent. n. 240/2021** · dep. 2021-12-07 · massime: 3 · ★ Annuario (Elettorato e partiti politici) → [scheda](2021/S_240_2021.md) — per questi motivi
 - **Sent. n. 239/2021** · dep. 2021-12-07 · massime: 2 → [scheda](2021/S_239_2021.md) — per questi motivi
 - **Sent. n. 238/2021** · dep. 2021-12-07 · massime: 1 → [scheda](2021/S_238_2021.md) — per questi motivi
 - **Sent. n. 237/2021** · dep. 2021-12-07 · massime: 3 → [scheda](2021/S_237_2021.md) — per questi motivi
@@ -1116,30 +1116,30 @@
 - **Sent. n. 223/2021** · dep. 2021-11-30 · massime: 2 → [scheda](2021/S_223_2021.md) — per questi motivi
 - **Ord. n. 222/2021** · dep. 2021-11-26 · massime: 2 → [scheda](2021/O_222_2021.md) — per questi motivi
 - **Sent. n. 221/2021** · dep. 2021-11-26 · massime: 1 → [scheda](2021/S_221_2021.md) — per questi motivi
-- **Sent. n. 220/2021** · dep. 2021-11-26 · massime: 8 → [scheda](2021/S_220_2021.md) — per questi motivi
+- **Sent. n. 220/2021** · dep. 2021-11-26 · massime: 8 · ★ Annuario (Finanza locale) → [scheda](2021/S_220_2021.md) — per questi motivi
 - **Sent. n. 219/2021** · dep. 2021-11-23 · massime: 3 → [scheda](2021/S_219_2021.md) — per questi motivi
-- **Sent. n. 218/2021** · dep. 2021-11-23 · massime: 6 → [scheda](2021/S_218_2021.md) — per questi motivi
-- **Ord. n. 217/2021** · dep. 2021-11-18 · massime: 3 → [scheda](2021/O_217_2021.md) — per questi motivi
-- **Ord. n. 216/2021** · dep. 2021-11-18 · massime: 5 → [scheda](2021/O_216_2021.md) — per questi motivi
+- **Sent. n. 218/2021** · dep. 2021-11-23 · massime: 6 · ★ Annuario (Libertà d'impresa) → [scheda](2021/S_218_2021.md) — per questi motivi
+- **Ord. n. 217/2021** · dep. 2021-11-18 · massime: 3 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/O_217_2021.md) — per questi motivi
+- **Ord. n. 216/2021** · dep. 2021-11-18 · massime: 5 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/O_216_2021.md) — per questi motivi
 - **Sent. n. 215/2021** · dep. 2021-11-15 · massime: 7 → [scheda](2021/S_215_2021.md) — per questi motivi
 - **Ord. n. 214/2021** · dep. 2021-11-11 · massime: 2 → [scheda](2021/O_214_2021.md) — per questi motivi
-- **Sent. n. 213/2021** · dep. 2021-11-11 · massime: 9 → [scheda](2021/S_213_2021.md) — per questi motivi
+- **Sent. n. 213/2021** · dep. 2021-11-11 · massime: 9 · ★ Annuario (Covid) → [scheda](2021/S_213_2021.md) — per questi motivi
 - **Sent. n. 212/2021** · dep. 2021-11-11 · massime: 3 → [scheda](2021/S_212_2021.md) — per questi motivi
 - **Sent. n. 211/2021** · dep. 2021-11-05 · massime: 2 → [scheda](2021/S_211_2021.md) — per questi motivi
 - **Sent. n. 210/2021** · dep. 2021-11-05 · massime: 4 → [scheda](2021/S_210_2021.md) — per questi motivi
 - **Sent. n. 209/2021** · dep. 2021-11-05 · massime: 3 → [scheda](2021/S_209_2021.md) — per questi motivi
 - **Sent. n. 208/2021** · dep. 2021-10-29 · massime: 2 → [scheda](2021/S_208_2021.md) — per questi motivi
-- **Sent. n. 207/2021** · dep. 2021-10-29 · massime: 3 → [scheda](2021/S_207_2021.md) — per questi motivi
+- **Sent. n. 207/2021** · dep. 2021-10-29 · massime: 3 · ★ Annuario (Elettorato e partiti politici) → [scheda](2021/S_207_2021.md) — per questi motivi
 - **Ord. n. 206/2021** · dep. 2021-10-28 · massime: 1 → [scheda](2021/O_206_2021.md) — per questi motivi
 - **Sent. n. 205/2021** · dep. 2021-10-28 · massime: 2 → [scheda](2021/S_205_2021.md) — per questi motivi
 - **Sent. n. 204/2021** · dep. 2021-10-28 · massime: 4 → [scheda](2021/S_204_2021.md) — per questi motivi
 - **Sent. n. 203/2021** · dep. 2021-10-28 · massime: 3 → [scheda](2021/S_203_2021.md) — per questi motivi
 - **Sent. n. 202/2021** · dep. 2021-10-28 · massime: 7 → [scheda](2021/S_202_2021.md) — per questi motivi
-- **Sent. n. 201/2021** · dep. 2021-10-28 · massime: 12 → [scheda](2021/S_201_2021.md) — per questi motivi
+- **Sent. n. 201/2021** · dep. 2021-10-28 · massime: 12 · ★ Annuario (Ambiente) → [scheda](2021/S_201_2021.md) — per questi motivi
 - **Sent. n. 200/2021** · dep. 2021-10-26 · massime: 3 → [scheda](2021/S_200_2021.md) — per questi motivi
 - **Sent. n. 199/2021** · dep. 2021-10-26 · massime: 1 → [scheda](2021/S_199_2021.md) — per questi motivi
-- **Sent. n. 198/2021** · dep. 2021-10-22 · massime: 5 → [scheda](2021/S_198_2021.md) — per questi motivi
-- **Sent. n. 197/2021** · dep. 2021-10-21 · massime: 5 → [scheda](2021/S_197_2021.md) — per questi motivi
+- **Sent. n. 198/2021** · dep. 2021-10-22 · massime: 5 · ★ Annuario (Covid) → [scheda](2021/S_198_2021.md) — per questi motivi
+- **Sent. n. 197/2021** · dep. 2021-10-21 · massime: 5 · ★ Annuario (Esecuzione penale) → [scheda](2021/S_197_2021.md) — per questi motivi
 - **Sent. n. 196/2021** · dep. 2021-10-21 · massime: 1 → [scheda](2021/S_196_2021.md) — per questi motivi
 - **Sent. n. 195/2021** · dep. 2021-10-15 · massime: 9 → [scheda](2021/S_195_2021.md) — per questi motivi
 - **Sent. n. 194/2021** · dep. 2021-10-14 · massime: 4 → [scheda](2021/S_194_2021.md) — per questi motivi
@@ -1147,68 +1147,68 @@
 - **Ord. n. 192/2021** · dep. 2021-10-11 · massime: 1 → [scheda](2021/O_192_2021.md) — per questi motivi
 - **Ord. n. 191/2021** · dep. 2021-10-08 · massime: 2 → [scheda](2021/O_191_2021.md) — per questi motivi
 - **Sent. n. 190/2021** · dep. 2021-10-07 · massime: 1 → [scheda](2021/S_190_2021.md) — per questi motivi
-- **Sent. n. 189/2021** · dep. 2021-10-07 · massime: 7 → [scheda](2021/S_189_2021.md) — per questi motivi
+- **Sent. n. 189/2021** · dep. 2021-10-07 · massime: 7 · ★ Annuario (Ambiente) → [scheda](2021/S_189_2021.md) — per questi motivi
 - **Ord. n. 188/2021** · dep. 2021-09-24 · massime: 1 → [scheda](2021/O_188_2021.md) — per questi motivi
 - **Sent. n. 187/2021** · dep. 2021-09-24 · massime: 6 → [scheda](2021/S_187_2021.md) — per questi motivi
 - **Ord. n. 186/2021** · dep. 2021-09-23 · massime: 1 → [scheda](2021/O_186_2021.md) — per questi motivi
-- **Sent. n. 185/2021** · dep. 2021-09-23 · massime: 8 → [scheda](2021/S_185_2021.md) — per questi motivi
+- **Sent. n. 185/2021** · dep. 2021-09-23 · massime: 8 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/S_185_2021.md) — per questi motivi
 - **Ord. n. 184/2021** · dep. 2021-07-30 · massime: 2 → [scheda](2021/O_184_2021.md) — per questi motivi
 - **Sent. n. 183/2021** · dep. 2021-07-30 · massime: 2 → [scheda](2021/S_183_2021.md) — per questi motivi
 - **Sent. n. 182/2021** · dep. 2021-07-30 · massime: 5 → [scheda](2021/S_182_2021.md) — per questi motivi
 - **Sent. n. 181/2021** · dep. 2021-07-30 · massime: 4 → [scheda](2021/S_181_2021.md) — per questi motivi
-- **Sent. n. 180/2021** · dep. 2021-07-30 · massime: 4 → [scheda](2021/S_180_2021.md) — per questi motivi
+- **Sent. n. 180/2021** · dep. 2021-07-30 · massime: 4 · ★ Annuario (Pubblica amministrazione) → [scheda](2021/S_180_2021.md) — per questi motivi
 - **Sent. n. 179/2021** · dep. 2021-07-30 · massime: 3 → [scheda](2021/S_179_2021.md) — per questi motivi
-- **Sent. n. 178/2021** · dep. 2021-07-30 · massime: 4 → [scheda](2021/S_178_2021.md) — per questi motivi
+- **Sent. n. 178/2021** · dep. 2021-07-30 · massime: 4 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/S_178_2021.md) — per questi motivi
 - **Sent. n. 177/2021** · dep. 2021-07-30 · massime: 3 → [scheda](2021/S_177_2021.md) — per questi motivi
 - **Sent. n. 176/2021** · dep. 2021-07-30 · massime: 12 → [scheda](2021/S_176_2021.md) — per questi motivi
 - **Sent. n. 175/2021** · dep. 2021-07-30 · massime: 3 → [scheda](2021/S_175_2021.md) — per questi motivi
-- **Sent. n. 174/2021** · dep. 2021-07-26 · massime: 3 → [scheda](2021/S_174_2021.md) — per questi motivi
+- **Sent. n. 174/2021** · dep. 2021-07-26 · massime: 3 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/S_174_2021.md) — per questi motivi
 - **Sent. n. 173/2021** · dep. 2021-07-23 · massime: 1 → [scheda](2021/S_173_2021.md) — per questi motivi
 - **Sent. n. 172/2021** · dep. 2021-07-23 · massime: 6 → [scheda](2021/S_172_2021.md) — per questi motivi
 - **Sent. n. 171/2021** · dep. 2021-07-23 · massime: 3 → [scheda](2021/S_171_2021.md) — per questi motivi
 - **Sent. n. 170/2021** · dep. 2021-07-23 · massime: 2 → [scheda](2021/S_170_2021.md) — per questi motivi
 - **Sent. n. 169/2021** · dep. 2021-07-23 · massime: 4 → [scheda](2021/S_169_2021.md) — per questi motivi
-- **Sent. n. 168/2021** · dep. 2021-07-23 · massime: 14 → [scheda](2021/S_168_2021.md) — per questi motivi
+- **Sent. n. 168/2021** · dep. 2021-07-23 · massime: 14 · ★ Annuario (Sanità) → [scheda](2021/S_168_2021.md) — per questi motivi
 - **Sent. n. 167/2021** · dep. 2021-07-23 · massime: 10 → [scheda](2021/S_167_2021.md) — per questi motivi
 - **Sent. n. 166/2021** · dep. 2021-07-23 · massime: 7 → [scheda](2021/S_166_2021.md) — per questi motivi
 - **Ord. n. 165/2021** · dep. 2021-07-22 · massime: 3 → [scheda](2021/O_165_2021.md) — per questi motivi
-- **Sent. n. 164/2021** · dep. 2021-07-22 · massime: 5 → [scheda](2021/S_164_2021.md) — per questi motivi
+- **Sent. n. 164/2021** · dep. 2021-07-22 · massime: 5 · ★ Annuario (Ambiente) → [scheda](2021/S_164_2021.md) — per questi motivi
 - **Sent. n. 163/2021** · dep. 2021-07-22 · massime: 2 → [scheda](2021/S_163_2021.md) — per questi motivi
 - **Sent. n. 162/2021** · dep. 2021-07-22 · massime: 1 → [scheda](2021/S_162_2021.md) — per questi motivi
 - **Sent. n. 161/2021** · dep. 2021-07-22 · massime: 1 → [scheda](2021/S_161_2021.md) — per questi motivi
 - **Sent. n. 160/2021** · dep. 2021-07-22 · massime: 4 → [scheda](2021/S_160_2021.md) — per questi motivi
 - **Ord. n. 159/2021** · dep. 2021-07-20 · massime: 1 → [scheda](2021/O_159_2021.md) — per questi motivi
 - **Sent. n. 158/2021** · dep. 2021-07-20 · massime: 3 → [scheda](2021/S_158_2021.md) — per questi motivi
-- **Sent. n. 157/2021** · dep. 2021-07-20 · massime: 4 → [scheda](2021/S_157_2021.md) — per questi motivi
+- **Sent. n. 157/2021** · dep. 2021-07-20 · massime: 4 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/S_157_2021.md) — per questi motivi
 - **Sent. n. 156/2021** · dep. 2021-07-20 · massime: 10 → [scheda](2021/S_156_2021.md) — per questi motivi
 - **Sent. n. 155/2021** · dep. 2021-07-15 · massime: 1 → [scheda](2021/S_155_2021.md) — per questi motivi
 - **Sent. n. 154/2021** · dep. 2021-07-15 · massime: 1 → [scheda](2021/S_154_2021.md) — per questi motivi
 - **Sent. n. 153/2021** · dep. 2021-07-15 · massime: 2 → [scheda](2021/S_153_2021.md) — per questi motivi
 - **Sent. n. 152/2021** · dep. 2021-07-12 · massime: 3 → [scheda](2021/S_152_2021.md) — per questi motivi
 - **Sent. n. 151/2021** · dep. 2021-07-12 · massime: 2 → [scheda](2021/S_151_2021.md) — per questi motivi
-- **Sent. n. 150/2021** · dep. 2021-07-12 · massime: 15 → [scheda](2021/S_150_2021.md) — per questi motivi
+- **Sent. n. 150/2021** · dep. 2021-07-12 · massime: 15 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/S_150_2021.md) — per questi motivi
 - **Sent. n. 149/2021** · dep. 2021-07-09 · massime: 3 → [scheda](2021/S_149_2021.md) — per questi motivi
 - **Sent. n. 148/2021** · dep. 2021-07-09 · massime: 4 → [scheda](2021/S_148_2021.md) — per questi motivi
 - **Sent. n. 147/2021** · dep. 2021-07-08 · massime: 2 → [scheda](2021/S_147_2021.md) — per questi motivi
 - **Sent. n. 146/2021** · dep. 2021-07-08 · massime: 2 → [scheda](2021/S_146_2021.md) — per questi motivi
 - **Sent. n. 145/2021** · dep. 2021-07-08 · massime: 2 → [scheda](2021/S_145_2021.md) — per questi motivi
 - **Sent. n. 144/2021** · dep. 2021-07-08 · massime: 6 → [scheda](2021/S_144_2021.md) — per questi motivi
-- **Sent. n. 143/2021** · dep. 2021-07-08 · massime: 3 → [scheda](2021/S_143_2021.md) — per questi motivi
+- **Sent. n. 143/2021** · dep. 2021-07-08 · massime: 3 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/S_143_2021.md) — per questi motivi
 - **Sent. n. 142/2021** · dep. 2021-07-08 · massime: 2 → [scheda](2021/S_142_2021.md) — per questi motivi
 - **Sent. n. 141/2021** · dep. 2021-07-08 · massime: 8 → [scheda](2021/S_141_2021.md) — per questi motivi
-- **Sent. n. 140/2021** · dep. 2021-07-06 · massime: 6 → [scheda](2021/S_140_2021.md) — per questi motivi
+- **Sent. n. 140/2021** · dep. 2021-07-06 · massime: 6 · ★ Annuario (Covid) → [scheda](2021/S_140_2021.md) — per questi motivi
 - **Sent. n. 139/2021** · dep. 2021-07-06 · massime: 3 → [scheda](2021/S_139_2021.md) — per questi motivi
 - **Sent. n. 138/2021** · dep. 2021-07-06 · massime: 5 → [scheda](2021/S_138_2021.md) — per questi motivi
-- **Sent. n. 137/2021** · dep. 2021-07-02 · massime: 7 → [scheda](2021/S_137_2021.md) — per questi motivi
+- **Sent. n. 137/2021** · dep. 2021-07-02 · massime: 7 · ★ Annuario (Esecuzione penale) → [scheda](2021/S_137_2021.md) — per questi motivi
 - **Ord. n. 136/2021** · dep. 2021-07-01 · massime: 1 → [scheda](2021/O_136_2021.md) — per questi motivi
 - **Ord. n. 135/2021** · dep. 2021-07-01 · massime: 1 → [scheda](2021/O_135_2021.md) — per questi motivi
 - **Sent. n. 134/2021** · dep. 2021-07-01 · massime: 4 → [scheda](2021/S_134_2021.md) — per questi motivi
-- **Sent. n. 133/2021** · dep. 2021-06-25 · massime: 4 → [scheda](2021/S_133_2021.md) — per questi motivi
+- **Sent. n. 133/2021** · dep. 2021-06-25 · massime: 4 · ★ Annuario (Minori e famiglie) → [scheda](2021/S_133_2021.md) — per questi motivi
 - **Sent. n. 132/2021** · dep. 2021-06-25 · massime: 3 → [scheda](2021/S_132_2021.md) — per questi motivi
 - **Ord. n. 131/2021** · dep. 2021-06-24 · massime: 1 → [scheda](2021/O_131_2021.md) — per questi motivi
 - **Ord. n. 130/2021** · dep. 2021-06-24 · massime: 2 → [scheda](2021/O_130_2021.md) — per questi motivi
 - **Sent. n. 129/2021** · dep. 2021-06-24 · massime: 6 → [scheda](2021/S_129_2021.md) — per questi motivi
-- **Sent. n. 128/2021** · dep. 2021-06-22 · massime: 6 → [scheda](2021/S_128_2021.md) — per questi motivi
+- **Sent. n. 128/2021** · dep. 2021-06-22 · massime: 6 · ★ Annuario (Covid) → [scheda](2021/S_128_2021.md) — per questi motivi
 - **Sent. n. 127/2021** · dep. 2021-06-21 · massime: 3 → [scheda](2021/S_127_2021.md) — per questi motivi
 - **Sent. n. 126/2021** · dep. 2021-06-21 · massime: 4 → [scheda](2021/S_126_2021.md) — per questi motivi
 - **Sent. n. 125/2021** · dep. 2021-06-17 · massime: 6 → [scheda](2021/S_125_2021.md) — per questi motivi
@@ -1216,7 +1216,7 @@
 - **Sent. n. 123/2021** · dep. 2021-06-14 · massime: 2 → [scheda](2021/S_123_2021.md) — per questi motivi
 - **Ord. n. 122/2021** · dep. 2021-06-11 · massime: 1 → [scheda](2021/O_122_2021.md) — per questi motivi
 - **Ord. n. 121/2021** · dep. 2021-06-11 · massime: 1 → [scheda](2021/O_121_2021.md) — per questi motivi
-- **Sent. n. 120/2021** · dep. 2021-06-10 · massime: 2 → [scheda](2021/S_120_2021.md) — per questi motivi
+- **Sent. n. 120/2021** · dep. 2021-06-10 · massime: 2 · ★ Annuario (Imposte e tasse) → [scheda](2021/S_120_2021.md) — per questi motivi
 - **Sent. n. 119/2021** · dep. 2021-06-10 · massime: 7 → [scheda](2021/S_119_2021.md) — per questi motivi
 - **Sent. n. 118/2021** · dep. 2021-06-10 · massime: 4 → [scheda](2021/S_118_2021.md) — per questi motivi
 - **Sent. n. 117/2021** · dep. 2021-06-07 · massime: 5 → [scheda](2021/S_117_2021.md) — per questi motivi
@@ -1238,8 +1238,8 @@
 - **Sent. n. 101/2021** · dep. 2021-05-20 · massime: 7 → [scheda](2021/S_101_2021.md) — per questi motivi
 - **Ord. n. 100/2021** · dep. 2021-05-17 · massime: 1 → [scheda](2021/O_100_2021.md) — per questi motivi
 - **Ord. n. 99/2021** · dep. 2021-05-17 · massime: 2 → [scheda](2021/O_99_2021.md) — per questi motivi
-- **Sent. n. 98/2021** · dep. 2021-05-14 · massime: 1 → [scheda](2021/S_98_2021.md) — per questi motivi
-- **Ord. n. 97/2021** · dep. 2021-05-11 · massime: 1 → [scheda](2021/O_97_2021.md) — per questi motivi
+- **Sent. n. 98/2021** · dep. 2021-05-14 · massime: 1 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/S_98_2021.md) — per questi motivi
+- **Ord. n. 97/2021** · dep. 2021-05-11 · massime: 1 · ★ Annuario (Esecuzione penale) → [scheda](2021/O_97_2021.md) — per questi motivi
 - **Sent. n. 96/2021** · dep. 2021-05-11 · massime: 1 → [scheda](2021/S_96_2021.md) — per questi motivi
 - **Sent. n. 95/2021** · dep. 2021-05-11 · massime: 5 → [scheda](2021/S_95_2021.md) — per questi motivi
 - **Ord. n. 94/2021** · dep. 2021-05-07 · massime: 1 → [scheda](2021/O_94_2021.md) — per questi motivi
@@ -1252,7 +1252,7 @@
 - **Sent. n. 87/2021** · dep. 2021-05-05 · massime: 7 → [scheda](2021/S_87_2021.md) — per questi motivi
 - **Sent. n. 86/2021** · dep. 2021-05-05 · massime: 5 → [scheda](2021/S_86_2021.md) — per questi motivi
 - **Ord. n. 85/2021** · dep. 2021-04-30 · massime: 1 → [scheda](2021/O_85_2021.md) — per questi motivi
-- **Sent. n. 84/2021** · dep. 2021-04-30 · massime: 7 → [scheda](2021/S_84_2021.md) — per questi motivi
+- **Sent. n. 84/2021** · dep. 2021-04-30 · massime: 7 · ★ Annuario (Rapporti con le corti europee) → [scheda](2021/S_84_2021.md) — per questi motivi
 - **Sent. n. 83/2021** · dep. 2021-04-30 · massime: 3 → [scheda](2021/S_83_2021.md) — per questi motivi
 - **Sent. n. 82/2021** · dep. 2021-04-30 · massime: 5 → [scheda](2021/S_82_2021.md) — per questi motivi
 - **Ord. n. 81/2021** · dep. 2021-04-29 · massime: 1 → [scheda](2021/O_81_2021.md) — per questi motivi
@@ -1277,10 +1277,10 @@
 - **Sent. n. 62/2021** · dep. 2021-04-08 · massime: 1 → [scheda](2021/S_62_2021.md) — per questi motivi
 - **Sent. n. 61/2021** · dep. 2021-04-08 · massime: 4 → [scheda](2021/S_61_2021.md) — per questi motivi
 - **Ord. n. 60/2021** · dep. 2021-04-01 · massime: 1 → [scheda](2021/O_60_2021.md) — per questi motivi
-- **Sent. n. 59/2021** · dep. 2021-04-01 · massime: 5 → [scheda](2021/S_59_2021.md) — per questi motivi
+- **Sent. n. 59/2021** · dep. 2021-04-01 · massime: 5 · ★ Annuario (Lavoro) → [scheda](2021/S_59_2021.md) — per questi motivi
 - **Sent. n. 58/2021** · dep. 2021-03-31 · massime: 3 → [scheda](2021/S_58_2021.md) — per questi motivi
 - **Sent. n. 57/2021** · dep. 2021-03-31 · massime: 2 → [scheda](2021/S_57_2021.md) — per questi motivi
-- **Sent. n. 56/2021** · dep. 2021-03-31 · massime: 2 → [scheda](2021/S_56_2021.md) — per questi motivi
+- **Sent. n. 56/2021** · dep. 2021-03-31 · massime: 2 · ★ Annuario (Esecuzione penale) → [scheda](2021/S_56_2021.md) — per questi motivi
 - **Sent. n. 55/2021** · dep. 2021-03-31 · massime: 3 → [scheda](2021/S_55_2021.md) — per questi motivi
 - **Sent. n. 54/2021** · dep. 2021-03-31 · massime: 7 → [scheda](2021/S_54_2021.md) — per questi motivi
 - **Sent. n. 53/2021** · dep. 2021-03-31 · massime: 3 → [scheda](2021/S_53_2021.md) — per questi motivi
@@ -1290,21 +1290,21 @@
 - **Sent. n. 49/2021** · dep. 2021-03-29 · massime: 7 → [scheda](2021/S_49_2021.md) — per questi motivi
 - **Sent. n. 48/2021** · dep. 2021-03-26 · massime: 6 → [scheda](2021/S_48_2021.md) — per questi motivi
 - **Ord. n. 47/2021** · dep. 2021-03-23 · massime: 1 → [scheda](2021/O_47_2021.md) — per questi motivi
-- **Sent. n. 46/2021** · dep. 2021-03-23 · massime: 6 → [scheda](2021/S_46_2021.md) — per questi motivi
-- **Sent. n. 45/2021** · dep. 2021-03-23 · massime: 6 → [scheda](2021/S_45_2021.md) — per questi motivi
+- **Sent. n. 46/2021** · dep. 2021-03-23 · massime: 6 · ★ Annuario (Ambiente) → [scheda](2021/S_46_2021.md) — per questi motivi
+- **Sent. n. 45/2021** · dep. 2021-03-23 · massime: 6 · ★ Annuario (Pubblica amministrazione) → [scheda](2021/S_45_2021.md) — per questi motivi
 - **Sent. n. 44/2021** · dep. 2021-03-23 · massime: 3 → [scheda](2021/S_44_2021.md) — per questi motivi
 - **Ord. n. 43/2021** · dep. 2021-03-19 · massime: 1 → [scheda](2021/O_43_2021.md) — per questi motivi
 - **Sent. n. 42/2021** · dep. 2021-03-19 · massime: 9 → [scheda](2021/S_42_2021.md) — per questi motivi
-- **Sent. n. 41/2021** · dep. 2021-03-17 · massime: 4 → [scheda](2021/S_41_2021.md) — per questi motivi
+- **Sent. n. 41/2021** · dep. 2021-03-17 · massime: 4 · ★ Annuario (Pubblica amministrazione) → [scheda](2021/S_41_2021.md) — per questi motivi
 - **Ord. n. 40/2021** · dep. 2021-03-16 · massime: 1 → [scheda](2021/O_40_2021.md) — per questi motivi
-- **Sent. n. 39/2021** · dep. 2021-03-16 · massime: 4 → [scheda](2021/S_39_2021.md) — per questi motivi
+- **Sent. n. 39/2021** · dep. 2021-03-16 · massime: 4 · ★ Annuario (Imposte e tasse) → [scheda](2021/S_39_2021.md) — per questi motivi
 - **Sent. n. 38/2021** · dep. 2021-03-15 · massime: 7 → [scheda](2021/S_38_2021.md) — per questi motivi
-- **Sent. n. 37/2021** · dep. 2021-03-12 · massime: 10 → [scheda](2021/S_37_2021.md) — per questi motivi
+- **Sent. n. 37/2021** · dep. 2021-03-12 · massime: 10 · ★ Annuario (Covid) → [scheda](2021/S_37_2021.md) — per questi motivi
 - **Sent. n. 36/2021** · dep. 2021-03-12 · massime: 8 → [scheda](2021/S_36_2021.md) — per questi motivi
 - **Sent. n. 35/2021** · dep. 2021-03-11 · massime: 9 → [scheda](2021/S_35_2021.md) — per questi motivi
 - **Sent. n. 34/2021** · dep. 2021-03-11 · massime: 4 → [scheda](2021/S_34_2021.md) — per questi motivi
-- **Sent. n. 33/2021** · dep. 2021-03-09 · massime: 4 → [scheda](2021/S_33_2021.md) — per questi motivi
-- **Sent. n. 32/2021** · dep. 2021-03-09 · massime: 5 → [scheda](2021/S_32_2021.md) — per questi motivi
+- **Sent. n. 33/2021** · dep. 2021-03-09 · massime: 4 · ★ Annuario (Minori e famiglie) → [scheda](2021/S_33_2021.md) — per questi motivi
+- **Sent. n. 32/2021** · dep. 2021-03-09 · massime: 5 · ★ Annuario (Minori e famiglie) → [scheda](2021/S_32_2021.md) — per questi motivi
 - **Sent. n. 31/2021** · dep. 2021-03-09 · massime: 4 → [scheda](2021/S_31_2021.md) — per questi motivi
 - **Sent. n. 30/2021** · dep. 2021-03-05 · massime: 6 → [scheda](2021/S_30_2021.md) — per questi motivi
 - **Sent. n. 29/2021** · dep. 2021-03-03 · massime: 3 → [scheda](2021/S_29_2021.md) — per questi motivi
@@ -1327,12 +1327,12 @@
 - **Ord. n. 12/2021** · dep. 2021-02-03 · massime: 1 → [scheda](2021/O_12_2021.md) — per questi motivi
 - **Sent. n. 11/2021** · dep. 2021-01-29 · massime: 6 → [scheda](2021/S_11_2021.md) — per questi motivi
 - **Sent. n. 10/2021** · dep. 2021-01-29 · massime: 2 → [scheda](2021/S_10_2021.md) — per questi motivi
-- **Sent. n. 9/2021** · dep. 2021-01-29 · massime: 4 → [scheda](2021/S_9_2021.md) — per questi motivi
+- **Sent. n. 9/2021** · dep. 2021-01-29 · massime: 4 · ★ Annuario (STRANIERI) → [scheda](2021/S_9_2021.md) — per questi motivi
 - **Ord. n. 8/2021** · dep. 2021-01-26 · massime: 1 → [scheda](2021/O_8_2021.md) — per questi motivi
-- **Sent. n. 7/2021** · dep. 2021-01-22 · massime: 7 → [scheda](2021/S_7_2021.md) — per questi motivi
+- **Sent. n. 7/2021** · dep. 2021-01-22 · massime: 7 · ★ Annuario (STRANIERI) → [scheda](2021/S_7_2021.md) — per questi motivi
 - **Sent. n. 6/2021** · dep. 2021-01-20 · massime: 3 → [scheda](2021/S_6_2021.md) — per questi motivi
 - **Sent. n. 5/2021** · dep. 2021-01-18 · massime: 6 → [scheda](2021/S_5_2021.md) — per questi motivi
-- **Ord. n. 4/2021** · dep. 2021-01-14 · massime: 1 → [scheda](2021/O_4_2021.md) — per questi motivi
+- **Ord. n. 4/2021** · dep. 2021-01-14 · massime: 1 · ★ Annuario (Covid) → [scheda](2021/O_4_2021.md) — per questi motivi
 - **Sent. n. 3/2021** · dep. 2021-01-13 · massime: 4 → [scheda](2021/S_3_2021.md) — per questi motivi
 - **Sent. n. 2/2021** · dep. 2021-01-13 · massime: 26 → [scheda](2021/S_2_2021.md) — per questi motivi
 - **Sent. n. 1/2021** · dep. 2021-01-11 · massime: 3 → [scheda](2021/S_1_2021.md) — per questi motivi
