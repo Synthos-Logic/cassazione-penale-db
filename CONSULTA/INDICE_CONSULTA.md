@@ -1,12 +1,22 @@
 # INDICE — Pronunce della Corte costituzionale
 
-> Ultimo aggiornamento: 2026-07-14 · Schede: 22357 · Fonte: open data ufficiale della Corte costituzionale
+> Ultimo aggiornamento: 2026-07-20 · Schede: 22367 · Fonte: open data ufficiale della Corte costituzionale
 > (dati.cortecostituzionale.it, licenza CC BY-SA 3.0). Schede senza epigrafe né testo
 > integrale (contengono dati delle parti): dispositivo, massime ufficiali e parametri,
 > con link alla scheda ufficiale per il testo completo.
 
-## 2026 (121 pronunce)
+## 2026 (131 pronunce)
 
+- **Ord. n. 131/2026** · dep. 2026-07-17 · massime: 0 → [scheda](2026/O_131_2026.md) — per questi motivi
+- **Sent. n. 130/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_130_2026.md) — per questi motivi
+- **Sent. n. 129/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_129_2026.md) — per questi motivi
+- **Sent. n. 128/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_128_2026.md) — per questi motivi
+- **Sent. n. 127/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_127_2026.md) — per questi motivi
+- **Sent. n. 126/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_126_2026.md) — per questi motivi
+- **Sent. n. 125/2026** · dep. 2026-07-14 · massime: 0 → [scheda](2026/S_125_2026.md) — per questi motivi
+- **Ord. n. 124/2026** · dep. 2026-07-13 · massime: 0 → [scheda](2026/O_124_2026.md) — per questi motivi
+- **Sent. n. 123/2026** · dep. 2026-07-13 · massime: 0 → [scheda](2026/S_123_2026.md) — per questi motivi
+- **Ord. n. 122/2026** · dep. 2026-07-07 · massime: 0 → [scheda](2026/O_122_2026.md) — per questi motivi
 - **Sent. n. 121/2026** · dep. 2026-07-06 · massime: 0 → [scheda](2026/S_121_2026.md) — per questi motivi
 - **Sent. n. 120/2026** · dep. 2026-07-03 · massime: 0 → [scheda](2026/S_120_2026.md) — per questi motivi
 - **Sent. n. 119/2026** · dep. 2026-07-03 · massime: 0 → [scheda](2026/S_119_2026.md) — per questi motivi
@@ -28,7 +38,7 @@
 - **Sent. n. 103/2026** · dep. 2026-06-11 · massime: 0 → [scheda](2026/S_103_2026.md) — per questi motivi
 - **Ord. n. 102/2026** · dep. 2026-06-09 · massime: 0 → [scheda](2026/O_102_2026.md) — per questi motivi
 - **Ord. n. 101/2026** · dep. 2026-06-09 · massime: 0 → [scheda](2026/O_101_2026.md) — per questi motivi
-- **Sent. n. 100/2026** · dep. 2026-06-09 · massime: 0 → [scheda](2026/S_100_2026.md) — per questi motivi
+- **Sent. n. 100/2026** · dep. 2026-06-09 · massime: 11 → [scheda](2026/S_100_2026.md) — per questi motivi
 - **Ord. n. 99/2026** · dep. 2026-06-08 · massime: 0 → [scheda](2026/O_99_2026.md) — per questi motivi
 - **Ord. n. 98/2026** · dep. 2026-06-08 · massime: 0 → [scheda](2026/O_98_2026.md) — per questi motivi
 - **Sent. n. 97/2026** · dep. 2026-06-05 · massime: 0 → [scheda](2026/S_97_2026.md) — per questi motivi
@@ -37,7 +47,7 @@
 - **Ord. n. 94/2026** · dep. 2026-05-28 · massime: 0 → [scheda](2026/O_94_2026.md) — per questi motivi
 - **Sent. n. 93/2026** · dep. 2026-05-28 · massime: 0 → [scheda](2026/S_93_2026.md) — per questi motivi
 - **Sent. n. 92/2026** · dep. 2026-05-28 · massime: 0 → [scheda](2026/S_92_2026.md) — per questi motivi
-- **Sent. n. 91/2026** · dep. 2026-05-28 · massime: 0 → [scheda](2026/S_91_2026.md) — per questi motivi
+- **Sent. n. 91/2026** · dep. 2026-05-28 · massime: 7 → [scheda](2026/S_91_2026.md) — per questi motivi
 - **Sent. n. 90/2026** · dep. 2026-05-28 · massime: 0 → [scheda](2026/S_90_2026.md) — per questi motivi
 - **Sent. n. 89/2026** · dep. 2026-05-28 · massime: 0 → [scheda](2026/S_89_2026.md) — per questi motivi
 - **Sent. n. 88/2026** · dep. 2026-05-25 · massime: 0 → [scheda](2026/S_88_2026.md) — per questi motivi
@@ -51,27 +61,27 @@
 - **Ord. n. 80/2026** · dep. 2026-05-14 · massime: 1 → [scheda](2026/O_80_2026.md) — per questi motivi
 - **Ord. n. 79/2026** · dep. 2026-05-14 · massime: 0 → [scheda](2026/O_79_2026.md) — per questi motivi
 - **Sent. n. 78/2026** · dep. 2026-05-14 · massime: 0 → [scheda](2026/S_78_2026.md) — per questi motivi
-- **Sent. n. 77/2026** · dep. 2026-05-14 · massime: 0 → [scheda](2026/S_77_2026.md) — per questi motivi
+- **Sent. n. 77/2026** · dep. 2026-05-14 · massime: 3 → [scheda](2026/S_77_2026.md) — per questi motivi
 - **Sent. n. 76/2026** · dep. 2026-05-12 · massime: 0 → [scheda](2026/S_76_2026.md) — per questi motivi
 - **Sent. n. 75/2026** · dep. 2026-05-12 · massime: 0 → [scheda](2026/S_75_2026.md) — per questi motivi
 - **Sent. n. 74/2026** · dep. 2026-05-12 · massime: 0 → [scheda](2026/S_74_2026.md) — per questi motivi
 - **Sent. n. 73/2026** · dep. 2026-05-12 · massime: 0 → [scheda](2026/S_73_2026.md) — per questi motivi
 - **Sent. n. 72/2026** · dep. 2026-05-12 · massime: 0 → [scheda](2026/S_72_2026.md) — per questi motivi
 - **Sent. n. 71/2026** · dep. 2026-05-12 · massime: 3 → [scheda](2026/S_71_2026.md) — per questi motivi
-- **Sent. n. 70/2026** · dep. 2026-05-07 · massime: 0 → [scheda](2026/S_70_2026.md) — per questi motivi
+- **Sent. n. 70/2026** · dep. 2026-05-07 · massime: 2 → [scheda](2026/S_70_2026.md) — per questi motivi
 - **Ord. n. 69/2026** · dep. 2026-05-05 · massime: 0 → [scheda](2026/O_69_2026.md) — per questi motivi
 - **Sent. n. 68/2026** · dep. 2026-05-05 · massime: 4 → [scheda](2026/S_68_2026.md) — per questi motivi
 - **Ord. n. 67/2026** · dep. 2026-04-30 · massime: 0 → [scheda](2026/O_67_2026.md) — per questi motivi
 - **Sent. n. 66/2026** · dep. 2026-04-30 · massime: 0 → [scheda](2026/S_66_2026.md) — per questi motivi
-- **Sent. n. 65/2026** · dep. 2026-04-30 · massime: 0 → [scheda](2026/S_65_2026.md) — per questi motivi
-- **Sent. n. 64/2026** · dep. 2026-04-30 · massime: 0 → [scheda](2026/S_64_2026.md) — per questi motivi
-- **Sent. n. 63/2026** · dep. 2026-04-30 · massime: 0 → [scheda](2026/S_63_2026.md) — per questi motivi
+- **Sent. n. 65/2026** · dep. 2026-04-30 · massime: 2 → [scheda](2026/S_65_2026.md) — per questi motivi
+- **Sent. n. 64/2026** · dep. 2026-04-30 · massime: 2 → [scheda](2026/S_64_2026.md) — per questi motivi
+- **Sent. n. 63/2026** · dep. 2026-04-30 · massime: 10 → [scheda](2026/S_63_2026.md) — per questi motivi
 - **Sent. n. 62/2026** · dep. 2026-04-30 · massime: 0 → [scheda](2026/S_62_2026.md) — per questi motivi
 - **Sent. n. 61/2026** · dep. 2026-04-30 · massime: 3 → [scheda](2026/S_61_2026.md) — per questi motivi
 - **Sent. n. 60/2026** · dep. 2026-04-30 · massime: 2 → [scheda](2026/S_60_2026.md) — per questi motivi
 - **Sent. n. 59/2026** · dep. 2026-04-27 · massime: 3 → [scheda](2026/S_59_2026.md) — per questi motivi
 - **Sent. n. 58/2026** · dep. 2026-04-27 · massime: 6 → [scheda](2026/S_58_2026.md) — per questi motivi
-- **Sent. n. 57/2026** · dep. 2026-04-27 · massime: 0 → [scheda](2026/S_57_2026.md) — per questi motivi
+- **Sent. n. 57/2026** · dep. 2026-04-27 · massime: 6 → [scheda](2026/S_57_2026.md) — per questi motivi
 - **Sent. n. 56/2026** · dep. 2026-04-27 · massime: 2 → [scheda](2026/S_56_2026.md) — per questi motivi
 - **Sent. n. 55/2026** · dep. 2026-04-17 · massime: 1 → [scheda](2026/S_55_2026.md) — per questi motivi
 - **Sent. n. 54/2026** · dep. 2026-04-17 · massime: 6 → [scheda](2026/S_54_2026.md) — per questi motivi
@@ -88,7 +98,7 @@
 - **Ord. n. 43/2026** · dep. 2026-03-27 · massime: 1 → [scheda](2026/O_43_2026.md) — per questi motivi
 - **Sent. n. 42/2026** · dep. 2026-03-27 · massime: 4 → [scheda](2026/S_42_2026.md) — per questi motivi
 - **Sent. n. 41/2026** · dep. 2026-03-27 · massime: 5 → [scheda](2026/S_41_2026.md) — per questi motivi
-- **Sent. n. 40/2026** · dep. 2026-03-27 · massime: 0 → [scheda](2026/S_40_2026.md) — per questi motivi
+- **Sent. n. 40/2026** · dep. 2026-03-27 · massime: 2 → [scheda](2026/S_40_2026.md) — per questi motivi
 - **Sent. n. 39/2026** · dep. 2026-03-27 · massime: 3 → [scheda](2026/S_39_2026.md) — per questi motivi
 - **Sent. n. 38/2026** · dep. 2026-03-23 · massime: 4 → [scheda](2026/S_38_2026.md) — per questi motivi
 - **Sent. n. 37/2026** · dep. 2026-03-23 · massime: 0 → [scheda](2026/S_37_2026.md) — per questi motivi
@@ -102,7 +112,7 @@
 - **Sent. n. 29/2026** · dep. 2026-03-13 · massime: 3 → [scheda](2026/S_29_2026.md) — per questi motivi
 - **Sent. n. 28/2026** · dep. 2026-03-10 · massime: 2 → [scheda](2026/S_28_2026.md) — per questi motivi
 - **Sent. n. 27/2026** · dep. 2026-03-10 · massime: 1 → [scheda](2026/S_27_2026.md) — per questi motivi
-- **Sent. n. 26/2026** · dep. 2026-03-09 · massime: 0 → [scheda](2026/S_26_2026.md) — per questi motivi
+- **Sent. n. 26/2026** · dep. 2026-03-09 · massime: 3 → [scheda](2026/S_26_2026.md) — per questi motivi
 - **Ord. n. 25/2026** · dep. 2026-03-05 · massime: 1 → [scheda](2026/O_25_2026.md) — per questi motivi
 - **Ord. n. 24/2026** · dep. 2026-03-05 · massime: 1 → [scheda](2026/O_24_2026.md) — per questi motivi
 - **Sent. n. 23/2026** · dep. 2026-03-05 · massime: 4 → [scheda](2026/S_23_2026.md) — per questi motivi
