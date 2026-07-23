@@ -334,9 +334,20 @@ def _rigenera_indice():
             tann = re.search(r'^tema_annuario: "(.*)"', testo, re.M)
             marca = f" · ★ Annuario ({tann.group(1)[:70]})" if tann else ""
             disp1 = ""
-            md = re.search(r"## Dispositivo\n\n(.+)", testo)
-            if md and not md.group(1).startswith("*"):
-                disp1 = " — " + md.group(1).strip()[:110]
+            md = re.search(r"## Dispositivo\n\n(.*?)(?:\n## |\Z)", testo, re.S)
+            if md:
+                # Estratto UTILE: si scavalca il boilerplate ("per questi motivi /
+                # LA CORTE COSTITUZIONALE / riuniti i giudizi,") e si parte dal
+                # contenuto decisorio ("dichiara ..."); coda di rito esclusa.
+                d = re.sub(r"\s+", " ", md.group(1)).strip()
+                if d and not d.startswith("*"):
+                    d = re.split(r"(?i)\bcos[iì] deciso in roma\b", d)[0]
+                    d = re.sub(r"(?i)^per questi motivi[\s,]*", "", d)
+                    d = re.sub(r"(?i)^la corte costituzionale[\s,]*", "", d)
+                    d = re.sub(r"(?i)^riuniti? i giudizi[\s,]*", "", d)
+                    d = re.sub(r"(?i)^visti gli atti[^;]*;\s*", "", d).strip()
+                    if d:
+                        disp1 = " — " + d[:110]
             righe.append(f"- **{'Sent.' if m.group(1) == 'S' else 'Ord.'} n. {m.group(2)}/{m.group(3)}** · "
                          f"dep. {dep.group(1) if dep else '?'} · massime: {nm.group(1) if nm else 0}{marca} → "
                          f"[scheda]({anno}/{f}){disp1}")
